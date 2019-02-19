@@ -1,2 +1,2 @@
 # DarkRP-RusLiteDumaRP
-Сервер цыган
+Опа ай дигидай
