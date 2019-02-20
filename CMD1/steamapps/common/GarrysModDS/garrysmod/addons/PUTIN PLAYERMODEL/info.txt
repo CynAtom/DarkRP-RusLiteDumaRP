@@ -1,0 +1,13 @@
+"AddonInfo"
+{
+	"name" "PUTIN PLAYERMODEL"
+	"author_name" "Author Name"
+	"info" "{
+	"description": "Description",
+	"type": "model",
+	"tags": [
+		"realism",
+		"roleplay"
+	]
+}"
+}

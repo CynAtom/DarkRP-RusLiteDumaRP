@@ -1,0 +1,15 @@
+"AddonInfo"
+{
+	"name" "SCP 173 Player Model"
+	"author_name" "Author Name"
+	"info" "
+{
+	"description": "Description",
+	"type": "model",
+	"tags": 
+	[
+		"roleplay",
+		"scenic"
+	]
+}"
+}
