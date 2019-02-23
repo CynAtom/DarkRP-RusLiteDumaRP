@@ -1,0 +1,6 @@
+"LightmappedGeneric" {
+	"$basetexture" "effects/mhs_water_decal2"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" "0.02"
+}

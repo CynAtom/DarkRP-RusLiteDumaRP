@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "detective police and sheriff"
+	"author_name" "author"
+	"info" "^)"
+}

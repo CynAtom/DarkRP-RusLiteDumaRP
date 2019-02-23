@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\police_detekt/lowr_diff_002_b_uni"
+                "$bumpmap"     "models\police_detekt/lowr_normal"
+}

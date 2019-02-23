@@ -1,0 +1,21 @@
+
+
+[2019-02-16 10:45:15] No local tool list detected at F:\CMD1/compatibilitytools.vdf.
+
+
+[2019-02-16 16:49:24] No local tool list detected at F:\CMD1/compatibilitytools.vdf.
+
+
+[2019-02-16 16:49:53] No local tool list detected at F:\CMD1/compatibilitytools.vdf.
+
+
+[2019-02-16 17:30:43] No local tool list detected at F:\CMD1/compatibilitytools.vdf.
+
+
+[2019-02-19 21:07:59] No local tool list detected at F:\CMD1/compatibilitytools.vdf.
+
+
+[2019-02-19 21:10:46] No local tool list detected at F:\CMD1/compatibilitytools.vdf.
+
+
+[2019-02-19 21:11:28] No local tool list detected at F:\CMD1/compatibilitytools.vdf.

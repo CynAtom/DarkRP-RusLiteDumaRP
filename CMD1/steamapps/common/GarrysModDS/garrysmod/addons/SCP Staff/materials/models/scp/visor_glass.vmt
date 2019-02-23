@@ -1,0 +1,13 @@
+"vertexlitgeneric"
+{
+	"$baseTexture"	"models\scp/VISOR_glass"
+	"$envmapmask" 	"models\scp/VISOR_glass_spec"
+
+	"$envmap" 	"env_cubemap"
+
+	"$translucent" 1
+	"$nocull" 1
+
+	
+	
+}

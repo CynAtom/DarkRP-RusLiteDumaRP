@@ -1,0 +1,15 @@
+"AddonInfo"
+{
+	"name" "CSO2 || Helga [PM/RAG/VOX]"
+	"author_name" "Author Name"
+	"info" "
+{
+	"description": "Description",
+	"type": "model",
+	"tags": 
+	[
+		"fun",
+		"realism"
+	]
+}"
+}

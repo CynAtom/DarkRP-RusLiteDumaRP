@@ -1,0 +1,29 @@
+"Refract"
+{
+	<dx90
+	{
+		 	"$fallbackmaterial" "highs/invuln_overlay_blue_dx80"
+	}
+
+	"%keywords" "tf"
+	"$refractamount" ".02"
+	"$forcerefract" "1"
+	"$model" "1"
+	"$refracttint" "{55 155 255}"
+	"$normalmap" "highs/invuln_overlay_normal"
+	"$bumpframe" "0"
+	"$bluramount" "1"
+	"$refracttinttexture" "highs/invulnoverlay/invuln_overlay"
+	"Proxies"
+	{
+		"sine"
+		{
+			"sinemax" ".1"
+			"sinemin" "-.1"
+			"sineperiod" ".81"
+			"resultvar" "$refractamount"
+		}
+	}
+
+}
+

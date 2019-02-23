@@ -1,7 +1,14 @@
-*.dll
-*.zip
 *.exe
 *.pdf
 Counter-Strike Source Dedicated Server/*
-loxsuk.txt
 README.md
+appcache/*
+bin/*
+depotcache/*
+dumps/*
+logs/*
+package/*
+public/*
+sourceengine/*
+cstrike/*
+userdata/*

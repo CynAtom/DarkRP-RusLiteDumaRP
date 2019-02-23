@@ -1,0 +1,15 @@
+"AddonInfo"
+{
+	"name" "DurgzMod (Drugs Mod)"
+	"author_name" "Author Name"
+	"info" "
+{
+	"description": "Description",
+	"type": "model",
+	"tags": 
+	[
+		"fun",
+		"roleplay"
+	]
+}"
+}

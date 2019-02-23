@@ -1,0 +1,60 @@
+"AddonInfo"
+{
+	"name" "Climb SWEP 2"
+	"author_name" "author"
+	"info" "My own reiteration of the original climb swep (I wrote it from scratch).
+Using this SWEP you can parkour!
+
+It comes with some cool stuff like:
+ Falling Effects
+ Wall Jumping
+ Prop Riding - You can grab onto props and move with them!
+ Ability to switch between Crowbar, Pistol and Grenades whilst holding onto a ledge.
+ Ability to push someone who is holding onto a ledge.
+ Neck Snapping
+ Rolling
+ Wall Running
+ Sliding
+
+Instructions:
+1. With the Climb SWEP out, approach a wall, just enough so you could hit it with the crowbar!
+2. To start climbing you'll need to be off the ground, so Jump and then press Mouse 1 to start climbing up the wall.
+3. If you are close enough to the ledge of a wall, you can press and hold Mouse 2 to grab onto the ledge! (you don't have to keep holding Mouse 2 to be grabbed on). During this mode you can move left and right to "shimmy" around the ledge!
+4. To climb up the wall you can press Mouse 1, however, you must crouch and move forwards to land on the ledge as you climb! Whilst grabbed you can also hold forwards and jump to leap in the direction you are aiming at!
+5. To wall run you'll need to be at least 1 story high above the ground, you'll need to aim towards the wall you want run across, hold forwards and press your use key once you hit the face of the wall.
+
+Need more help? 
+Refer to the YouTube video above or use this link!:
+[url="http://www.youtube.com/watch?feature=player_embedded&v=rtONWw-O34Q"]http://www.youtube.com/watch?feature=player_embedded&v=rtONWw-O34Q[/url]
+
+Additional Instructions:
+To fall, simply leap carelessly off a TALL building.
+To push someone whom is holding onto a ledge, left-click!
+To neck snap (assuming necksnapping is enabled), simply approach someone from behind, then, left-click!
+To slide, gain momentum and then crouch whilst on the ground.
+To roll, hold crouch while falling, this will inhibit fall damage.
+
+
+To server owners/single players:
+Use climbswep2_necksnaps 1/0(default) to enable/disable necksnapping.
+Use climbswep2_wallrun_minheight to increase/decrease the minimum height needed to perform a wall run. 250 is the default value.
+Use climbswep2_roll_allweps 1/0(default) to enable/disable rolling with any weapon.
+Use climbswep2_slide_allweps 1/0(default) to enable/disable sliding with any weapon.
+Use climbswep2_maxjumps to increase/decrease the amount of jumps you're allowed to perform with the SWEP. 3 is the default value.
+
+To players: 
+Use climbswep2_windsound 1(default)/0 to enable/disable windsounds in mid-fall.
+Use climbswep2_showhud 1(default)/0 to enable/disable the Climb SWEP's HUD.
+Use climbswep2_falleffect_allweps 1/0(default) to enable/disable the fall effect for all weapons.
+
+Hints:
+In singleplayer, open the console and type mp_falldamage 1, you will now have realistic fall damage! 
+If you want to reset your jumps, wall jump! You can do this in alley-ways.
+If you hold forwards and jump whilst grabbed onto a ledge, you will wall jump in the direction you are aiming.
+
+Thanks to Zackyo for assisting me in fixing the multiplayer bugs!
+
+Please remember to rate, subscribe, follow, favourite and leave comments/suggestions!
+
+Thanks and have fun!"
+}

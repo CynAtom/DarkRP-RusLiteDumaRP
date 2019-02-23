@@ -1,0 +1,10 @@
+patch
+{
+include "materials\models\scp_operators\hands\us_shared.vmt"
+insert
+{
+$basetexture "models\scp_operators\hands\us_hands_L_color"
+$bumpmap "models\scp_operators\hands\us_hands_L_normals"
+$rimmask 1
+}
+}

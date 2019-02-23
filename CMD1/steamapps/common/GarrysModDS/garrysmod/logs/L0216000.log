@@ -1,0 +1,43 @@
+L 02/16/2019 - 11:11:21: Log file started (file "logs\L0216000.log") (game "F:\CMD1\steamapps\common\GarrysModDS\garrysmod") (version "7343")
+L 02/16/2019 - 11:11:21: server_cvar: "sbox_noclip" "0"
+L 02/16/2019 - 11:11:21: server_cvar: "sbox_maxprops" "150"
+L 02/16/2019 - 11:11:21: server_cvar: "sbox_maxragdolls" "0"
+L 02/16/2019 - 11:11:21: server_cvar: "sbox_maxnpcs" "0"
+L 02/16/2019 - 11:11:21: server_cvar: "sbox_maxballoons" "0"
+L 02/16/2019 - 11:11:21: server_cvar: "sbox_maxeffects" "0"
+L 02/16/2019 - 11:11:21: server_cvar: "sbox_maxdynamite" "0"
+L 02/16/2019 - 11:11:21: server_cvar: "sbox_maxlamps" "5"
+L 02/16/2019 - 11:11:21: server_cvar: "sbox_maxthrusters" "0"
+L 02/16/2019 - 11:11:21: server_cvar: "sbox_maxwheels" "0"
+L 02/16/2019 - 11:11:21: server_cvar: "sbox_maxhoverballs" "0"
+L 02/16/2019 - 11:11:21: server_cvar: "sbox_maxvehicles" "0"
+L 02/16/2019 - 11:11:21: server_cvar: "sbox_maxbuttons" "4"
+L 02/16/2019 - 11:11:21: server_cvar: "sbox_maxsents" "0"
+L 02/16/2019 - 11:11:21: server_cvar: "sbox_maxemitters" "0"
+L 02/16/2019 - 11:11:21: server_cvar: "sv_allowcslua" "1"
+L 02/16/2019 - 11:11:21: server_cvar: "sv_airaccelerate" "1000"
+L 02/16/2019 - 11:11:22: Connection to Steam servers successful.
+L 02/16/2019 - 11:11:22:    Public IP is 95.32.134.168.
+L 02/16/2019 - 11:11:22: Assigned anonymous gameserver Steam ID [A-1:4110825475(12009)].
+L 02/16/2019 - 11:11:22: VAC secure mode is activated.
+L 02/16/2019 - 11:13:30: "SelecT^^<2><STEAM_0:0:99146775><>" connected, address "192.168.1.68:27006"
+L 02/16/2019 - 11:13:31: "SelecT^^<2><STEAM_0:0:99146775><>" STEAM USERID validated
+L 02/16/2019 - 11:14:06: [FAdmin] SelecT^^ (STEAM_0:0:99146775) Spawned for the first time
+L 02/16/2019 - 11:14:06: [FAdmin] SelecT^^ (STEAM_0:0:99146775) is Authed
+L 02/16/2019 - 11:14:06: [FAdmin] SelecT^^ (STEAM_0:0:99146775) Spawned
+L 02/16/2019 - 11:14:06: "SelecT^^<2><STEAM_0:0:99146775><>" entered the game
+L 02/16/2019 - 11:14:06: [FAdmin] SelecT^^ (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/16/2019 - 11:14:06: [FAdmin] SelecT^^ (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/16/2019 - 11:14:06: [FAdmin] SelecT^^ (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/16/2019 - 11:14:06: [FAdmin] SelecT^^ (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/16/2019 - 11:14:06: [FAdmin] SelecT^^ (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/16/2019 - 11:14:06: [FAdmin] SelecT^^ (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/16/2019 - 11:16:47: "SelecT^^<2><STEAM_0:0:99146775><>" disconnected (reason "Disconnect by user.")
+L 02/16/2019 - 11:16:47: [FAdmin] SelecT^^ (STEAM_0:0:99146775) Disconnected
+L 02/16/2019 - 11:16:54: [FAdmin] Server succesfully shut down.
+L 02/16/2019 - 11:16:54: [FAdmin] prop_physics(models/maxofs2d/companion_doll.mdl) Got removed
+L 02/16/2019 - 11:16:54: [FAdmin] prop_physics(models/props_c17/furnituretable003a.mdl) Got removed
+L 02/16/2019 - 11:16:54: [FAdmin] prop_physics(models/props_c17/furniturecouch002a.mdl) Got removed
+L 02/16/2019 - 11:16:54: [FAdmin] prop_physics(models/props_c17/furniturecouch001a.mdl) Got removed
+L 02/16/2019 - 11:16:54: server_message: "quit"
+L 02/16/2019 - 11:16:54: Log file closed.

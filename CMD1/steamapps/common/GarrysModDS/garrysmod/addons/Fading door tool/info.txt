@@ -1,0 +1,16 @@
+"AddonInfo"
+{
+	"name" "Fading door tool"
+	"author_name" "author"
+	"info" "A tool that makes anything into a fadable door.
+
+Features 
+- Can select material.
+- Can select sounds. 
+- Wire support.
+- Can make NPC's, vehicles and props into a fadable door.
+
+Authors: Conna, Lexi and Panthera Tigris
+
+ID: 115753588"
+}

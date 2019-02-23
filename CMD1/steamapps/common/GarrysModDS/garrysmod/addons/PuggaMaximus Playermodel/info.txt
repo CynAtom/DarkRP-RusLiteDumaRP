@@ -1,0 +1,15 @@
+"AddonInfo"
+{
+	"name" "PuggaMaximus Playermodel"
+	"author_name" "Author Name"
+	"info" "
+{
+	"description": "Description",
+	"type": "model",
+	"tags": 
+	[
+		"comic",
+		"roleplay"
+	]
+}"
+}

@@ -1,0 +1,38 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/auditor/re2/hunk/helmet_col"
+	"$bumpmap" "models/auditor/re2/hunk/helmet_nml"
+	"$color2" "[0.8 0.8 0.8]"
+	//"$blendTintByBaseAlpha"	"1"
+	//"$additive" "1"
+	//$translucent 1
+	//$ambientocclusion 0
+	//$no_draw 0
+	//"$selfillum" "1"
+	//"$selfillummaskscale" "15"
+	//"$selfillummask" "/chr_ying_main_emi"
+
+	$nocull 0
+	$normalmapalphaenvmapmask 1 	
+
+	//"$envmap" "/metal_generic_002"					
+	"$envmaptint" "[0.04 0.04 0.04]"				
+
+	//ReflectionsDir
+
+	"$phong" "1"						
+	"$phongboost"	"2" 		
+	//"$phongexponent" "2"	
+	"$phongexponenttexture" "models/auditor/re2/hunk/helmet_mask"
+		
+	//"$phongwarptexture"		"models/auditor/re2/hunk/Shared/phongwarp2"		
+	$lightwarptexture "models/auditor/re2/hunk/Shared/lightwarp_soft"
+	
+	"$phongfresnelranges"	"[0.5 6.75 12.75]"		
+	//"$phongtint" 			"[1 1 1.1]"			
+	"$PhongAlbedoTint" "1"
+	//"$rimlight" "1"
+	"$rimmask" "1"
+	"$rimlightboost" "1"
+
+}

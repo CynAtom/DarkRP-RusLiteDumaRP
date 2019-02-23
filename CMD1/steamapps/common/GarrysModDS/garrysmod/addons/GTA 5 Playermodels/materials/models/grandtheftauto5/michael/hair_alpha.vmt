@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/GrandTheftAuto5/Michael/hair_diff_000_a_uni"
+	"$envmaptint"	"[.02 .2 .7]"
+	"$phong" "1"
+	"$phongboost" "15"
+	"$phongexponenttexture" "models/GrandTheftAuto5/Shared/phongexp"
+	"$phongalbedotint" "5"
+	"$phongfresnelranges" "[.5 .5 .5]"
+	"$alphatest" "1"
+	"$model" "1"
+	"$nocull" "1"
+}

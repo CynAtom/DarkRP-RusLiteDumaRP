@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/GrandTheftAuto5/Trevor/hand_diff_010_a_uni"
+	"$envmaptint"	"[.02 .2 .7]"
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponenttexture" "models/GrandTheftAuto5/Shared/phongexp"
+	"$phongalbedotint" "5"
+	"$phongfresnelranges" "[.5 .5 .5]"
+	"$model" "1"
+	"$detail" "models/GrandTheftAuto5/Shared/Detail/detail_leather3"
+	"$detailscale" "3"
+	"$detailblendfactor" ".3"
+	"$detailblendmode" "0"
+}

@@ -1,0 +1,20 @@
+Wed Feb 20 14:28:27 2019	SelecT^^ (STEAM_0:0:99146775) has joined the game
+Wed Feb 20 14:28:29 2019	Pupa (STEAM_0:0:99146775) spawned
+Wed Feb 20 14:33:29 2019	Pupa (STEAM_0:0:99146775): /addjailpos
+Wed Feb 20 14:33:44 2019	Pupa (STEAM_0:0:99146775): /addjailpos
+Wed Feb 20 14:33:51 2019	Pupa (STEAM_0:0:99146775): /addjailpos
+Wed Feb 20 14:36:26 2019	Pupa (STEAM_0:0:99146775): /coop
+Wed Feb 20 14:36:36 2019	Bot01 (BOT) has joined the game
+Wed Feb 20 14:36:36 2019	Bot01 (BOT) spawned
+Wed Feb 20 14:37:54 2019	Bot01 (BOT) spawned
+Wed Feb 20 14:37:54 2019	Pupa (STEAM_0:0:99146775) arrested Bot01
+Wed Feb 20 14:38:10 2019	Bot02 (BOT) has joined the game
+Wed Feb 20 14:38:10 2019	Bot02 (BOT) spawned
+Wed Feb 20 14:38:10 2019	Bot02 (BOT) spawned
+Wed Feb 20 14:38:20 2019	Bot01 (BOT) disconnected
+Wed Feb 20 14:38:26 2019	Bot02 (BOT) disconnected
+Wed Feb 20 14:39:44 2019	Pupa was killed by Entity [0][worldspawn] with a unknown
+Wed Feb 20 14:39:48 2019	Pupa (STEAM_0:0:99146775) spawned
+Wed Feb 20 14:40:02 2019	Pupa was killed by Entity [0][worldspawn] with a unknown
+Wed Feb 20 14:40:05 2019	Pupa (STEAM_0:0:99146775) spawned
+Wed Feb 20 15:15:04 2019	Pupa (STEAM_0:0:99146775) disconnected

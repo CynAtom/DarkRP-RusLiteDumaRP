@@ -1,0 +1,233 @@
+
+
+[2019-02-16 10:45:15] Loaded 0 apps from install folder "F:\CMD1\steamapps\appmanifest_*.acf".
+[2019-02-16 10:45:48] Got 100 content servers from directory
+[2019-02-16 10:46:42] AppID 4020 state changed : Update Required,
+[2019-02-16 10:46:42] AppID 4020 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1, appDisableSecondsRemaining=0
+[2019-02-16 10:46:42] AppID 4020 state changed : Update Required,Update Queued,
+[2019-02-16 10:46:42] AppID 4020 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1, appDisableSecondsRemaining=0
+[2019-02-16 10:46:42] AppID 4020 state changed : Update Required,Update Queued,Update Running,
+[2019-02-16 10:46:42] AppID 4020 update changed : Running,
+[2019-02-16 10:46:42] AppID 4020 update changed : Running,Reconfiguring,
+[2019-02-16 10:46:42] Convar says 100% should use BYieldingGetServersForSteamPipe, we rolled 91,  using it
+[2019-02-16 10:46:42] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe
+[2019-02-16 10:46:42] Created download interface of type 'CS' (1) to host valve504.steamcontent.com (valve504.steamcontent.com)
+[2019-02-16 10:46:42] Created download interface of type 'CS' (1) to host valve507.steamcontent.com (valve507.steamcontent.com)
+[2019-02-16 10:46:42] Created download interface of type 'CS' (1) to host valve544.steamcontent.com (valve544.steamcontent.com)
+[2019-02-16 10:46:43] HTTP (CS,504) - valve504.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve504.steamcontent.com): AuthenticateDepotID (4021) - Success!
+[2019-02-16 10:46:43] HTTP (CS,544) - valve544.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve544.steamcontent.com): AuthenticateDepotID (4022) - Success!
+[2019-02-16 10:46:43] HTTP (CS,544) - valve544.steamcontent.com (162.254.197.104:80 / 162.254.197.104:80, host: valve544.steamcontent.com): valve544.steamcontent.com/depot/4022/manifest/5859442694293068726/5?l=12&e=1550908003&h=84ebf4b41bfe0f58a42077536c5b5a033b2566f4 - received 200 (OK) HTTP response
+[2019-02-16 10:46:43] HTTP (CS,504) - valve504.steamcontent.com (162.254.197.14:80 / 162.254.197.14:80, host: valve504.steamcontent.com): valve504.steamcontent.com/depot/4021/manifest/2055515808001175092/5?l=12&e=1550908003&h=16fd9b2fa220a33952f966e8ae8fdfac67736284 - received 200 (OK) HTTP response
+[2019-02-16 10:46:43] AppID 4020 update changed : Running,
+[2019-02-16 10:46:43] AppID 4020 update changed : Running,Validating,
+[2019-02-16 10:46:43] Validating files (new target,full) ...
+[2019-02-16 10:46:44] File validation finished: 2244 files (3877221712 bytes) total, 2244 files (3877221712 bytes) mismatched (86 msec).
+[2019-02-16 10:46:44] AppID 4020 update changed : Running,
+[2019-02-16 10:46:44] AppID 4020 update changed : Running,Preallocating,
+[2019-02-16 10:46:44] AppID 4020 update changed : Running,
+[2019-02-16 10:46:44] AppID 4020 update started : download 0/2184558784, store 0/0, reuse 0/0, delta 0/0, stage 0/3877221712 
+[2019-02-16 10:46:44] AppID 4020 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2019-02-16 10:46:44] AppID 4020 update changed : Running,Downloading,
+[2019-02-16 10:46:44] AppID 4020 update changed : Running,Downloading,Staging,
+[2019-02-16 10:46:44] Downloading 5616 chunks from depot 4021
+[2019-02-16 10:46:44] HTTP (CS,544) - valve544.steamcontent.com (162.254.197.104:80 / 162.254.197.104:80, host: valve544.steamcontent.com): AuthenticateDepotID (4021) - Success!
+[2019-02-16 10:46:44] HTTP (CS,507) - valve507.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve507.steamcontent.com): AuthenticateDepotID (4021) - Success!
+[2019-02-16 10:46:55] Increasing target number of download connections to 4 (rate was 0.000, now 32.091)
+[2019-02-16 10:46:55] Created download interface of type 'CS' (1) to host valve564.steamcontent.com (valve564.steamcontent.com)
+[2019-02-16 10:46:55] HTTP (CS,564) - valve564.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve564.steamcontent.com): AuthenticateDepotID (4021) - Success!
+[2019-02-16 10:47:07] Increasing target number of download connections to 5 (rate was 32.091, now 41.905)
+[2019-02-16 10:47:07] Created download interface of type 'CS' (1) to host valve520.steamcontent.com (valve520.steamcontent.com)
+[2019-02-16 10:47:07] HTTP (CS,520) - valve520.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve520.steamcontent.com): AuthenticateDepotID (4021) - Success!
+[2019-02-16 10:47:28] Increasing target number of download connections to 6 (rate was 41.905, now 50.483)
+[2019-02-16 10:47:28] Created download interface of type 'CS' (1) to host valve539.steamcontent.com (valve539.steamcontent.com)
+[2019-02-16 10:47:28] HTTP (CS,539) - valve539.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve539.steamcontent.com): AuthenticateDepotID (4021) - Success!
+[2019-02-16 10:47:56] Current download rate: 49.324 Mbps
+[2019-02-16 10:48:57] Current download rate: 52.216 Mbps
+[2019-02-16 10:49:57] Current download rate: 51.862 Mbps
+[2019-02-16 10:50:58] Current download rate: 50.445 Mbps
+[2019-02-16 10:51:59] Current download rate: 50.451 Mbps
+[2019-02-16 10:52:21] Convar says 100% should use BYieldingGetServersForSteamPipe, we rolled 9,  using it
+[2019-02-16 10:52:22] Got 33 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe
+[2019-02-16 10:52:22] Downloading 285 chunks from depot 4022
+[2019-02-16 10:52:22] HTTP (CS,564) - valve564.steamcontent.com (155.133.250.104:80 / 155.133.250.104:80, host: valve564.steamcontent.com): AuthenticateDepotID (4022) - Success!
+[2019-02-16 10:52:22] HTTP (CS,520) - valve520.steamcontent.com (162.254.197.30:80 / 162.254.197.30:80, host: valve520.steamcontent.com): AuthenticateDepotID (4022) - Success!
+[2019-02-16 10:52:22] HTTP (CS,539) - valve539.steamcontent.com (162.254.197.99:80 / 162.254.197.99:80, host: valve539.steamcontent.com): AuthenticateDepotID (4022) - Success!
+[2019-02-16 10:52:22] HTTP (CS,507) - valve507.steamcontent.com (162.254.197.17:80 / 162.254.197.17:80, host: valve507.steamcontent.com): AuthenticateDepotID (4022) - Success!
+[2019-02-16 10:52:22] HTTP (CS,504) - valve504.steamcontent.com (162.254.197.14:80 / 162.254.197.14:80, host: valve504.steamcontent.com): AuthenticateDepotID (4022) - Success!
+[2019-02-16 10:52:36] AppID 4020 update changed : Running,
+[2019-02-16 10:52:36] AppID 4020 update changed : Running,Committing,
+[2019-02-16 10:52:36] AppID 4020 file commit : 2419 updated, 0 moved, 0 deleted
+[2019-02-16 10:52:39] AppID 4020 state changed : Fully Installed,Update Queued,Update Running,
+[2019-02-16 10:52:39] AppID 4020 finished update, mounted depots (BuildID 3401267) : 4021 (2055515808001175092),4022 (5859442694293068726),
+[2019-02-16 10:52:39] AppID 4020 update changed : Running,
+[2019-02-16 10:52:39] AppID 4020 update changed : None
+[2019-02-16 10:52:39] AppID 4020 state changed : Fully Installed,Update Queued,
+[2019-02-16 10:52:39] AppID 4020 state changed : Fully Installed,
+[2019-02-16 10:52:39] AppID 4020 scheduler finished : removed from schedule
+[2019-02-16 10:52:59] Current download rate: 0.000 Mbps
+
+
+[2019-02-16 16:49:24] Loaded 1 apps from install folder "F:\CMD1\steamapps\appmanifest_*.acf".
+
+
+[2019-02-16 16:49:53] Loaded 1 apps from install folder "F:\CMD1\steamapps\appmanifest_*.acf".
+[2019-02-16 16:50:25] AppID 232330 state changed : Update Required,
+[2019-02-16 16:50:25] AppID 232330 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=-1, appDisableSecondsRemaining=0
+[2019-02-16 16:50:25] AppID 232330 state changed : Update Required,Update Queued,
+[2019-02-16 16:50:25] AppID 232330 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=-1, appDisableSecondsRemaining=0
+[2019-02-16 16:50:25] AppID 232330 state changed : Update Required,Update Queued,Update Running,
+[2019-02-16 16:50:25] AppID 232330 update changed : Running,
+[2019-02-16 16:50:25] AppID 232330 update changed : Running,Reconfiguring,
+[2019-02-16 16:50:26] Convar says 100% should use BYieldingGetServersForSteamPipe, we rolled 96,  using it
+[2019-02-16 16:50:26] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe
+[2019-02-16 16:50:26] Created download interface of type 'CS' (1) to host valve521.steamcontent.com (valve521.steamcontent.com)
+[2019-02-16 16:50:26] Created download interface of type 'CS' (1) to host valve506.steamcontent.com (valve506.steamcontent.com)
+[2019-02-16 16:50:26] Created download interface of type 'CS' (1) to host valve954.steamcontent.com (valve954.steamcontent.com)
+[2019-02-16 16:50:26] HTTP (CS,521) - valve521.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve521.steamcontent.com): AuthenticateDepotID (232330) - Success!
+[2019-02-16 16:50:27] HTTP (CS,521) - valve521.steamcontent.com (162.254.197.31:80 / 162.254.197.31:80, host: valve521.steamcontent.com): AuthenticateDepotID (232335) - Success!
+[2019-02-16 16:50:27] HTTP (CS,521) - valve521.steamcontent.com (162.254.197.31:80 / 162.254.197.31:80, host: valve521.steamcontent.com): valve521.steamcontent.com/depot/232330/manifest/5864053511074987272/5?l=14&e=1550929827&h=ce8f607dae748d7b5dafe48d2fa1393120830c5f - received 200 (OK) HTTP response
+[2019-02-16 16:50:27] HTTP (CS,521) - valve521.steamcontent.com (162.254.197.31:80 / 162.254.197.31:80, host: valve521.steamcontent.com): valve521.steamcontent.com/depot/232335/manifest/6159094859905193668/5?l=14&e=1550929827&h=69c94bda9afdd54b7f3900c3be46740ba2f7b178 - received 200 (OK) HTTP response
+[2019-02-16 16:50:27] AppID 232330 update changed : Running,
+[2019-02-16 16:50:27] AppID 232330 update changed : Running,Validating,
+[2019-02-16 16:50:27] Validating files (new target,full) ...
+[2019-02-16 16:50:27] File validation finished: 1103 files (2314859823 bytes) total, 1103 files (2314859823 bytes) mismatched (42 msec).
+[2019-02-16 16:50:27] AppID 232330 update changed : Running,
+[2019-02-16 16:50:27] AppID 232330 update changed : Running,Preallocating,
+[2019-02-16 16:50:27] AppID 232330 update changed : Running,
+[2019-02-16 16:50:27] AppID 232330 update started : download 0/1123799728, store 0/0, reuse 0/0, delta 0/0, stage 0/2314859823 
+[2019-02-16 16:50:27] AppID 232330 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2019-02-16 16:50:27] AppID 232330 update changed : Running,Downloading,
+[2019-02-16 16:50:27] AppID 232330 update changed : Running,Downloading,Staging,
+[2019-02-16 16:50:27] Downloading 3081 chunks from depot 232330
+[2019-02-16 16:50:28] HTTP (CS,954) - valve954.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve954.steamcontent.com): AuthenticateDepotID (232330) - Success!
+[2019-02-16 16:50:28] HTTP (CS,506) - valve506.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve506.steamcontent.com): AuthenticateDepotID (232330) - Success!
+[2019-02-16 16:50:39] Increasing target number of download connections to 4 (rate was 0.000, now 34.751)
+[2019-02-16 16:50:39] Created download interface of type 'CS' (1) to host valve514.steamcontent.com (valve514.steamcontent.com)
+[2019-02-16 16:50:39] HTTP (CS,514) - valve514.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve514.steamcontent.com): AuthenticateDepotID (232330) - Success!
+[2019-02-16 16:50:51] Increasing target number of download connections to 5 (rate was 34.751, now 46.889)
+[2019-02-16 16:50:51] Created download interface of type 'CS' (1) to host valve504.steamcontent.com (valve504.steamcontent.com)
+[2019-02-16 16:50:51] HTTP (CS,504) - valve504.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve504.steamcontent.com): AuthenticateDepotID (232330) - Success!
+[2019-02-16 16:51:40] Current download rate: 50.588 Mbps
+[2019-02-16 16:52:41] Current download rate: 50.202 Mbps
+[2019-02-16 16:53:37] Downloading 135 chunks from depot 232335
+[2019-02-16 16:53:37] HTTP (CS,514) - valve514.steamcontent.com (162.254.197.24:80 / 162.254.197.24:80, host: valve514.steamcontent.com): AuthenticateDepotID (232335) - Success!
+[2019-02-16 16:53:37] HTTP (CS,954) - valve954.steamcontent.com (155.133.252.14:80 / 155.133.252.14:80, host: valve954.steamcontent.com): AuthenticateDepotID (232335) - Success!
+[2019-02-16 16:53:37] HTTP (CS,506) - valve506.steamcontent.com (162.254.197.16:80 / 162.254.197.16:80, host: valve506.steamcontent.com): AuthenticateDepotID (232335) - Success!
+[2019-02-16 16:53:37] HTTP (CS,504) - valve504.steamcontent.com (162.254.197.14:80 / 162.254.197.14:80, host: valve504.steamcontent.com): AuthenticateDepotID (232335) - Success!
+[2019-02-16 16:53:42] Current download rate: 22.305 Mbps
+[2019-02-16 16:53:49] AppID 232330 update changed : Running,
+[2019-02-16 16:53:49] AppID 232330 update changed : Running,Committing,
+[2019-02-16 16:53:49] AppID 232330 file commit : 1130 updated, 0 moved, 0 deleted
+[2019-02-16 16:53:51] AppID 232330 state changed : Fully Installed,Update Queued,Update Running,
+[2019-02-16 16:53:51] AppID 232330 finished update, mounted depots (BuildID 2973481) : 232330 (5864053511074987272),232335 (6159094859905193668),
+[2019-02-16 16:53:51] AppID 232330 update changed : Running,
+[2019-02-16 16:53:51] AppID 232330 update changed : None
+[2019-02-16 16:53:51] AppID 232330 state changed : Fully Installed,Update Queued,
+[2019-02-16 16:53:51] AppID 232330 state changed : Fully Installed,
+[2019-02-16 16:53:51] AppID 232330 scheduler finished : removed from schedule
+
+
+[2019-02-16 17:30:42] Loaded 2 apps from install folder "F:\CMD1\steamapps\appmanifest_*.acf".
+[2019-02-16 17:31:12] Start validating appID 232330
+[2019-02-16 17:31:12] AppID 232330 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1550327472, appDisableSecondsRemaining=0
+[2019-02-16 17:31:12] AppID 232330 state changed : Fully Installed,Update Queued,
+[2019-02-16 17:31:12] AppID 232330 state changed : Fully Installed,Update Queued,Update Running,
+[2019-02-16 17:31:12] AppID 232330 update changed : Running,
+[2019-02-16 17:31:12] AppID 232330 update changed : Running,Reconfiguring,
+[2019-02-16 17:31:12] AppID 232330 update changed : Running,
+[2019-02-16 17:31:12] AppID 232330 update changed : Running,Validating,
+[2019-02-16 17:31:12] Validating files (all active,full) ...
+[2019-02-16 17:31:39] File validation finished: 1103 files (2314859823 bytes) total, 0 files (0 bytes) mismatched (27109 msec).
+[2019-02-16 17:31:39] AppID 232330 update changed : Running,
+[2019-02-16 17:31:39] AppID 232330 update changed : None
+[2019-02-16 17:31:39] AppID 232330 state changed : Fully Installed,Update Queued,
+[2019-02-16 17:31:39] AppID 232330 state changed : Fully Installed,
+[2019-02-16 17:31:39] AppID 232330 scheduler finished : removed from schedule
+
+
+[2019-02-19 21:07:58] Loaded 2 apps from install folder "F:\CMD1\steamapps\appmanifest_*.acf".
+[2019-02-19 21:10:00] AppID 4020 state changed : Update Required,Fully Installed,
+[2019-02-19 21:10:00] AppID 4020 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1550599800, appDisableSecondsRemaining=0
+[2019-02-19 21:10:00] AppID 4020 state changed : Update Required,Fully Installed,Update Queued,
+[2019-02-19 21:10:00] AppID 4020 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2019-02-19 21:10:00] AppID 4020 update changed : Running,
+[2019-02-19 21:10:00] AppID 4020 update changed : Running,Reconfiguring,
+[2019-02-19 21:10:00] Convar says 100% should use BYieldingGetServersForSteamPipe, we rolled 18,  using it
+[2019-02-19 21:10:01] Got 10 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe
+[2019-02-19 21:10:01] Created download interface of type 'CS' (1) to host valve514.steamcontent.com (valve514.steamcontent.com)
+[2019-02-19 21:10:01] Created download interface of type 'SteamCache' (7) to host cache9-sto2.steamcontent.com (cache9-sto2.steamcontent.com)
+[2019-02-19 21:10:01] Created download interface of type 'CDN' (2) to host cdn.highwinds.cs.steampowered.com (cdn.highwinds.cs.steampowered.com)
+[2019-02-19 21:10:01] HTTP (CS,514) - valve514.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve514.steamcontent.com): AuthenticateDepotID (4021) - Success!
+[2019-02-19 21:10:01] HTTP (SteamCache,2) - cache9-sto2.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache9-sto2.steamcontent.com): AuthenticateDepotID (4022) - Success!
+[2019-02-19 21:10:02] HTTP (SteamCache,2) - cache9-sto2.steamcontent.com (155.133.252.19:80 / 155.133.252.19:80, host: cache9-sto2.steamcontent.com): cache9-sto2.steamcontent.com/depot/4022/manifest/855909008985688858/5?l=12&e=1551204601&h=145ce594653c3381f8d0473391d110012a13f446 - received 200 (OK) HTTP response
+[2019-02-19 21:10:02] HTTP (CS,514) - valve514.steamcontent.com (162.254.197.24:80 / 162.254.197.24:80, host: valve514.steamcontent.com): valve514.steamcontent.com/depot/4021/manifest/2068625899213297644/5?l=12&e=1551204601&h=d3dd8bed1dce73f7049431bf30c0fa268611fa82 - received 200 (OK) HTTP response
+[2019-02-19 21:10:02] AppID 4020 update changed : Running,
+[2019-02-19 21:10:02] AppID 4020 update changed : Running,Validating,
+[2019-02-19 21:10:02] Validating files (new target,full) ...
+[2019-02-19 21:10:03] File validation finished: 38 files (2391951 bytes) total, 38 files (2391951 bytes) mismatched (59 msec).
+[2019-02-19 21:10:03] AppID 4020 update changed : Running,
+[2019-02-19 21:10:03] AppID 4020 update changed : Running,Preallocating,
+[2019-02-19 21:10:03] AppID 4020 update changed : Running,
+[2019-02-19 21:10:03] AppID 4020 update started : download 0/39082240, store 0/0, reuse 0/713217847, delta 0/0, stage 0/813459144 
+[2019-02-19 21:10:03] AppID 4020 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2019-02-19 21:10:03] AppID 4020 update changed : Running,Downloading,
+[2019-02-19 21:10:03] AppID 4020 update changed : Running,Downloading,Staging,
+[2019-02-19 21:10:03] Downloading 323 chunks from depot 4021
+[2019-02-19 21:10:03] HTTP (SteamCache,2) - cache9-sto2.steamcontent.com (155.133.252.19:80 / 155.133.252.19:80, host: cache9-sto2.steamcontent.com): AuthenticateDepotID (4021) - Success!
+[2019-02-19 21:10:03] HTTP (CDN,4) - cdn.highwinds.cs.steampowered.com (0.0.0.0:0 / 0.0.0.0:0, host: cdn.highwinds.cs.steampowered.com): AuthenticateDepotID (4021) - Success!
+[2019-02-19 21:10:13] Increasing target number of download connections to 4 (rate was 0.000, now 7.133)
+[2019-02-19 21:10:13] Created download interface of type 'CDN' (2) to host steam.ru.qtlglb.com (steam.ru.qtlglb.com)
+
+
+[2019-02-19 21:10:46] Loaded 2 apps from install folder "F:\CMD1\steamapps\appmanifest_*.acf".
+
+
+[2019-02-19 21:11:27] Loaded 2 apps from install folder "F:\CMD1\steamapps\appmanifest_*.acf".
+[2019-02-19 21:11:47] AppID 4020 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1550599907, appDisableSecondsRemaining=0
+[2019-02-19 21:11:47] AppID 4020 state changed : Update Required,Fully Installed,Update Queued,Update Started,
+[2019-02-19 21:11:48] AppID 4020 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2019-02-19 21:11:48] AppID 4020 update changed : Running,
+[2019-02-19 21:11:48] AppID 4020 update changed : Running,Reconfiguring,
+[2019-02-19 21:11:48] AppID 4020 update changed : Running,
+[2019-02-19 21:11:48] AppID 4020 update started : download 0/39082240, store 0/0, reuse 0/713217847, delta 0/0, stage 0/813459144 
+[2019-02-19 21:11:48] AppID 4020 update changed : Running,Downloading,
+[2019-02-19 21:11:48] AppID 4020 update changed : Running,Downloading,Staging,
+[2019-02-19 21:11:48] Convar says 100% should use BYieldingGetServersForSteamPipe, we rolled 73,  using it
+[2019-02-19 21:11:49] Got 5 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe
+[2019-02-19 21:11:49] Created download interface of type 'SteamCache' (7) to host cache9-sto2.steamcontent.com (cache9-sto2.steamcontent.com)
+[2019-02-19 21:11:49] Created download interface of type 'CDN' (2) to host cdn.highwinds.cs.steampowered.com (cdn.highwinds.cs.steampowered.com)
+[2019-02-19 21:11:49] Created download interface of type 'CS' (1) to host valve530.steamcontent.com (valve530.steamcontent.com)
+[2019-02-19 21:11:49] Downloading 323 chunks from depot 4021
+[2019-02-19 21:11:49] HTTP (SteamCache,2) - cache9-sto2.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache9-sto2.steamcontent.com): AuthenticateDepotID (4021) - Success!
+[2019-02-19 21:11:49] HTTP (CDN,4) - cdn.highwinds.cs.steampowered.com (0.0.0.0:0 / 0.0.0.0:0, host: cdn.highwinds.cs.steampowered.com): AuthenticateDepotID (4021) - Success!
+[2019-02-19 21:11:49] HTTP (CS,530) - valve530.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve530.steamcontent.com): AuthenticateDepotID (4021) - Success!
+[2019-02-19 21:12:01] HTTP (CS,530) - valve530.steamcontent.com (162.254.197.90:80 / 162.254.197.90:80, host: valve530.steamcontent.com): Received 503 (Service Unavailable) HTTP response for depot 4021
+[2019-02-19 21:12:01] HTTP (CS,530) - valve530.steamcontent.com (162.254.197.90:80 / 162.254.197.90:80, host: valve530.steamcontent.com): Closing connection
+[2019-02-19 21:12:01] Created download interface of type 'CS' (1) to host valve436.steamcontent.com (valve436.steamcontent.com)
+[2019-02-19 21:12:01] HTTP (CS,436) - valve436.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve436.steamcontent.com): AuthenticateDepotID (4021) - Success!
+[2019-02-19 21:12:02] Increasing target number of download connections to 4 (rate was 0.000, now 11.123)
+[2019-02-19 21:12:02] Created download interface of type 'CS' (1) to host valve524.steamcontent.com (valve524.steamcontent.com)
+[2019-02-19 21:12:02] HTTP (CS,524) - valve524.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve524.steamcontent.com): AuthenticateDepotID (4021) - Success!
+[2019-02-19 21:12:02] HTTP (CS,524) - valve524.steamcontent.com (162.254.197.84:80 / 162.254.197.84:80, host: valve524.steamcontent.com): Received 503 (Service Unavailable) HTTP response for depot 4021
+[2019-02-19 21:12:02] HTTP (CS,524) - valve524.steamcontent.com (162.254.197.84:80 / 162.254.197.84:80, host: valve524.steamcontent.com): Closing connection
+[2019-02-19 21:13:03] Current download rate: 0.000 Mbps
+[2019-02-19 21:13:04] HTTP (SteamCache,2) - cache9-sto2.steamcontent.com (155.133.252.19:80 / 155.133.252.19:80, host: cache9-sto2.steamcontent.com): Closing connection
+[2019-02-19 21:13:05] HTTP (CS,436) - valve436.steamcontent.com (162.254.196.20:80 / 162.254.196.20:80, host: valve436.steamcontent.com): Closing connection
+[2019-02-19 21:13:06] HTTP (CDN,4) - cdn.highwinds.cs.steampowered.com (94.46.155.35:80 / 94.46.155.35:80, host: cdn.highwinds.cs.steampowered.com): Closing connection
+[2019-02-19 21:13:12] Created download interface of type 'SteamCache' (7) to host cache9-sto2.steamcontent.com (cache9-sto2.steamcontent.com)
+[2019-02-19 21:13:12] Created download interface of type 'CDN' (2) to host cdn.highwinds.cs.steampowered.com (cdn.highwinds.cs.steampowered.com)
+[2019-02-19 21:13:12] Created download interface of type 'CS' (1) to host valve436.steamcontent.com (valve436.steamcontent.com)
+[2019-02-19 21:13:12] Downloading 105 chunks from depot 4022
+[2019-02-19 21:13:13] HTTP (SteamCache,2) - cache9-sto2.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache9-sto2.steamcontent.com): AuthenticateDepotID (4022) - Success!
+[2019-02-19 21:13:13] HTTP (CDN,4) - cdn.highwinds.cs.steampowered.com (0.0.0.0:0 / 0.0.0.0:0, host: cdn.highwinds.cs.steampowered.com): AuthenticateDepotID (4022) - Success!
+[2019-02-19 21:13:13] HTTP (CS,436) - valve436.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve436.steamcontent.com): AuthenticateDepotID (4022) - Success!
+[2019-02-19 21:13:27] AppID 4020 update changed : Running,
+[2019-02-19 21:13:27] AppID 4020 update changed : Running,Committing,
+[2019-02-19 21:13:27] AppID 4020 file commit : 353 updated, 36 moved, 1 deleted
+[2019-02-19 21:13:29] AppID 4020 state changed : Fully Installed,Update Queued,Update Running,
+[2019-02-19 21:13:29] AppID 4020 finished update, mounted depots (BuildID 3571866) : 4021 (2068625899213297644),4022 (855909008985688858),
+[2019-02-19 21:13:29] AppID 4020 update changed : Running,
+[2019-02-19 21:13:29] AppID 4020 update changed : None
+[2019-02-19 21:13:29] AppID 4020 state changed : Fully Installed,Update Queued,
+[2019-02-19 21:13:29] AppID 4020 state changed : Fully Installed,
+[2019-02-19 21:13:29] AppID 4020 scheduler finished : removed from schedule

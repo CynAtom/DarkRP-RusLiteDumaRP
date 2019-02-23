@@ -1,0 +1,15 @@
+"AddonInfo"
+{
+	"name" "Suits and Robbers Player Models [REUPLOADED]"
+	"author_name" "Author Name"
+	"info" "
+{
+	"description": "Description",
+	"type": "servercontent",
+	"tags": 
+	[
+		"roleplay",
+		"realism"
+	]
+}"
+}

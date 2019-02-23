@@ -1,0 +1,356 @@
+L 02/18/2019 - 15:29:11: Log file started (file "logs\L0218004.log") (game "F:\CMD1\steamapps\common\GarrysModDS\garrysmod") (version "7343")
+L 02/18/2019 - 15:29:11: server_cvar: "sbox_noclip" "0"
+L 02/18/2019 - 15:29:11: server_cvar: "sbox_maxprops" "150"
+L 02/18/2019 - 15:29:11: server_cvar: "sbox_maxragdolls" "0"
+L 02/18/2019 - 15:29:11: server_cvar: "sbox_maxnpcs" "0"
+L 02/18/2019 - 15:29:11: server_cvar: "sbox_maxballoons" "0"
+L 02/18/2019 - 15:29:11: server_cvar: "sbox_maxeffects" "0"
+L 02/18/2019 - 15:29:11: server_cvar: "sbox_maxdynamite" "0"
+L 02/18/2019 - 15:29:11: server_cvar: "sbox_maxlamps" "5"
+L 02/18/2019 - 15:29:11: server_cvar: "sbox_maxthrusters" "0"
+L 02/18/2019 - 15:29:11: server_cvar: "sbox_maxwheels" "0"
+L 02/18/2019 - 15:29:11: server_cvar: "sbox_maxhoverballs" "0"
+L 02/18/2019 - 15:29:11: server_cvar: "sbox_maxvehicles" "0"
+L 02/18/2019 - 15:29:11: server_cvar: "sbox_maxbuttons" "4"
+L 02/18/2019 - 15:29:11: server_cvar: "sbox_maxsents" "0"
+L 02/18/2019 - 15:29:11: server_cvar: "sbox_maxemitters" "0"
+L 02/18/2019 - 15:29:11: server_cvar: "sv_allowcslua" "1"
+L 02/18/2019 - 15:29:11: server_cvar: "sv_airaccelerate" "1000"
+L 02/18/2019 - 15:29:13: Connection to Steam servers successful.
+L 02/18/2019 - 15:29:13:    Public IP is 77.45.174.241.
+L 02/18/2019 - 15:29:13: Assigned anonymous gameserver Steam ID [A-1:2394938374(12027)].
+L 02/18/2019 - 15:29:13: VAC secure mode is activated.
+L 02/18/2019 - 15:29:31: "SelecT^^<2><STEAM_0:0:99146775><>" connected, address "192.168.1.68:27006"
+L 02/18/2019 - 15:29:32: "SelecT^^<2><STEAM_0:0:99146775><>" STEAM USERID validated
+L 02/18/2019 - 15:29:59: [FAdmin] SelecT^^ (STEAM_0:0:99146775) is Authed
+L 02/18/2019 - 15:29:59: [FAdmin] SelecT^^ (STEAM_0:0:99146775) Spawned for the first time
+L 02/18/2019 - 15:29:59: [FAdmin] Pupa (STEAM_0:0:99146775) Spawned
+L 02/18/2019 - 15:29:59: "SelecT^^<2><STEAM_0:0:99146775><>" entered the game
+L 02/18/2019 - 15:29:59: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_fists
+L 02/18/2019 - 15:29:59: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/18/2019 - 15:29:59: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/18/2019 - 15:29:59: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/18/2019 - 15:29:59: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/18/2019 - 15:29:59: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/18/2019 - 15:29:59: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/18/2019 - 15:29:59: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/18/2019 - 15:29:59: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a door_ram
+L 02/18/2019 - 15:29:59: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a arrest_stick
+L 02/18/2019 - 15:29:59: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a unarrest_stick
+L 02/18/2019 - 15:29:59: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a stunstick
+L 02/18/2019 - 15:29:59: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weaponchecker
+L 02/18/2019 - 15:30:43: [FAdmin] Pupa (STEAM_0:0:99146775) changed from Гражданин to Администратор
+L 02/18/2019 - 15:30:43: "Pupa<2><STEAM_0:0:99146775><Администратор>" say "/admin"
+
+L 02/18/2019 - 15:30:43: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_fists
+L 02/18/2019 - 15:30:43: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/18/2019 - 15:30:43: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/18/2019 - 15:30:43: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/18/2019 - 15:30:43: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/18/2019 - 15:30:43: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/18/2019 - 15:30:43: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/18/2019 - 15:30:43: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/18/2019 - 15:30:43: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a door_ram
+L 02/18/2019 - 15:30:43: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a arrest_stick
+L 02/18/2019 - 15:30:43: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a unarrest_stick
+L 02/18/2019 - 15:30:43: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a stunstick
+L 02/18/2019 - 15:30:43: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weaponchecker
+L 02/18/2019 - 15:30:49: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/18/2019 - 15:30:57: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/18/2019 - 15:30:57: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/18/2019 - 15:30:59: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/18/2019 - 15:31:13: [FAdmin] Pupa (STEAM_0:0:99146775) changed from Администратор to SCP-173
+L 02/18/2019 - 15:31:13: [FAdmin] Pupa set the team of Pupa to 21
+L 02/18/2019 - 15:31:13: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a scp173
+L 02/18/2019 - 15:31:13: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/18/2019 - 15:31:13: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/18/2019 - 15:31:13: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/18/2019 - 15:31:13: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/18/2019 - 15:31:13: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/18/2019 - 15:31:13: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/18/2019 - 15:31:13: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/18/2019 - 15:31:13: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a door_ram
+L 02/18/2019 - 15:31:13: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a arrest_stick
+L 02/18/2019 - 15:31:13: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a unarrest_stick
+L 02/18/2019 - 15:31:13: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a stunstick
+L 02/18/2019 - 15:31:13: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weaponchecker
+L 02/18/2019 - 15:31:30: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to use tool camera
+L 02/18/2019 - 15:31:53: [FAdmin] Pupa (STEAM_0:0:99146775) changed from SCP-173 to Администратор
+L 02/18/2019 - 15:31:53: [FAdmin] Pupa set the team of Pupa to 1
+L 02/18/2019 - 15:31:53: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_fists
+L 02/18/2019 - 15:31:53: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/18/2019 - 15:31:53: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/18/2019 - 15:31:53: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/18/2019 - 15:31:53: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/18/2019 - 15:31:53: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/18/2019 - 15:31:53: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/18/2019 - 15:31:53: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/18/2019 - 15:31:53: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a door_ram
+L 02/18/2019 - 15:31:53: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a arrest_stick
+L 02/18/2019 - 15:31:53: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a unarrest_stick
+L 02/18/2019 - 15:31:53: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a stunstick
+L 02/18/2019 - 15:31:53: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weaponchecker
+L 02/18/2019 - 15:32:23: [FAdmin] Pupa (STEAM_0:0:99146775) changed from Администратор to Бандит
+L 02/18/2019 - 15:32:23: [FAdmin] Pupa set the team of Pupa to 13
+L 02/18/2019 - 15:32:23: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_colt1911
+L 02/18/2019 - 15:32:23: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/18/2019 - 15:32:23: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/18/2019 - 15:32:23: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/18/2019 - 15:32:23: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/18/2019 - 15:32:23: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/18/2019 - 15:32:23: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/18/2019 - 15:32:23: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/18/2019 - 15:32:23: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a door_ram
+L 02/18/2019 - 15:32:23: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a arrest_stick
+L 02/18/2019 - 15:32:23: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a unarrest_stick
+L 02/18/2019 - 15:32:23: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a stunstick
+L 02/18/2019 - 15:32:23: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weaponchecker
+L 02/18/2019 - 15:32:37: [FAdmin] Pupa (STEAM_0:0:99146775) changed from Бандит to Бездомный
+L 02/18/2019 - 15:32:37: [FAdmin] Pupa set the team of Pupa to 3
+L 02/18/2019 - 15:32:37: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_bugbait
+L 02/18/2019 - 15:32:37: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_fists
+L 02/18/2019 - 15:32:37: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_gpee
+L 02/18/2019 - 15:32:37: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/18/2019 - 15:32:37: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/18/2019 - 15:32:37: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/18/2019 - 15:32:37: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/18/2019 - 15:32:37: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/18/2019 - 15:32:37: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/18/2019 - 15:32:37: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/18/2019 - 15:32:37: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a door_ram
+L 02/18/2019 - 15:32:37: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a arrest_stick
+L 02/18/2019 - 15:32:37: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a unarrest_stick
+L 02/18/2019 - 15:32:37: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a stunstick
+L 02/18/2019 - 15:32:37: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weaponchecker
+L 02/18/2019 - 15:33:10: [FAdmin] Pupa (STEAM_0:0:99146775) changed from Бездомный to Глава бандитов
+L 02/18/2019 - 15:33:10: [FAdmin] Pupa set the team of Pupa to 14
+L 02/18/2019 - 15:33:10: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_thompson
+L 02/18/2019 - 15:33:10: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/18/2019 - 15:33:10: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/18/2019 - 15:33:10: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/18/2019 - 15:33:10: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/18/2019 - 15:33:10: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/18/2019 - 15:33:10: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/18/2019 - 15:33:10: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/18/2019 - 15:33:10: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a door_ram
+L 02/18/2019 - 15:33:10: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a arrest_stick
+L 02/18/2019 - 15:33:10: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a unarrest_stick
+L 02/18/2019 - 15:33:10: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a stunstick
+L 02/18/2019 - 15:33:10: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weaponchecker
+L 02/18/2019 - 15:33:37: [FAdmin] Pupa (STEAM_0:0:99146775) changed from Глава бандитов to Гражданин
+L 02/18/2019 - 15:33:37: [FAdmin] Pupa set the team of Pupa to 2
+L 02/18/2019 - 15:33:37: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_fists
+L 02/18/2019 - 15:33:37: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/18/2019 - 15:33:37: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/18/2019 - 15:33:37: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/18/2019 - 15:33:37: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/18/2019 - 15:33:37: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/18/2019 - 15:33:37: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/18/2019 - 15:33:37: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/18/2019 - 15:33:37: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a door_ram
+L 02/18/2019 - 15:33:37: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a arrest_stick
+L 02/18/2019 - 15:33:37: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a unarrest_stick
+L 02/18/2019 - 15:33:37: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a stunstick
+L 02/18/2019 - 15:33:37: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weaponchecker
+L 02/18/2019 - 15:33:43: [FAdmin] Pupa (STEAM_0:0:99146775) changed from Гражданин to Командир охраны
+L 02/18/2019 - 15:33:44: [FAdmin] Pupa set the team of Pupa to 19
+L 02/18/2019 - 15:33:44: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_auga3
+L 02/18/2019 - 15:33:44: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_m24
+L 02/18/2019 - 15:33:44: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_jackhammer
+L 02/18/2019 - 15:33:44: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/18/2019 - 15:33:44: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/18/2019 - 15:33:44: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/18/2019 - 15:33:44: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/18/2019 - 15:33:44: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/18/2019 - 15:33:44: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/18/2019 - 15:33:44: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/18/2019 - 15:33:44: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a door_ram
+L 02/18/2019 - 15:33:44: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a arrest_stick
+L 02/18/2019 - 15:33:44: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a unarrest_stick
+L 02/18/2019 - 15:33:44: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a stunstick
+L 02/18/2019 - 15:33:44: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weaponchecker
+L 02/18/2019 - 15:34:21: [FAdmin] Pupa (STEAM_0:0:99146775) changed from Командир охраны to Маньяк
+L 02/18/2019 - 15:34:22: [FAdmin] Pupa set the team of Pupa to 16
+L 02/18/2019 - 15:34:22: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_machete
+L 02/18/2019 - 15:34:22: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/18/2019 - 15:34:22: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/18/2019 - 15:34:22: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/18/2019 - 15:34:22: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/18/2019 - 15:34:22: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/18/2019 - 15:34:22: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/18/2019 - 15:34:22: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/18/2019 - 15:34:22: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a door_ram
+L 02/18/2019 - 15:34:22: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a arrest_stick
+L 02/18/2019 - 15:34:22: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a unarrest_stick
+L 02/18/2019 - 15:34:22: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a stunstick
+L 02/18/2019 - 15:34:22: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weaponchecker
+L 02/18/2019 - 15:34:36: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_machete
+L 02/18/2019 - 15:35:06: [FAdmin] Pupa (STEAM_0:0:99146775) changed from Маньяк to Медик
+L 02/18/2019 - 15:35:06: [FAdmin] Pupa set the team of Pupa to 4
+L 02/18/2019 - 15:35:06: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a med_kit
+L 02/18/2019 - 15:35:06: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_m92beretta
+L 02/18/2019 - 15:35:06: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/18/2019 - 15:35:06: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/18/2019 - 15:35:06: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/18/2019 - 15:35:06: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/18/2019 - 15:35:06: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/18/2019 - 15:35:06: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/18/2019 - 15:35:06: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/18/2019 - 15:35:06: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a door_ram
+L 02/18/2019 - 15:35:06: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a arrest_stick
+L 02/18/2019 - 15:35:06: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a unarrest_stick
+L 02/18/2019 - 15:35:06: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a stunstick
+L 02/18/2019 - 15:35:06: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weaponchecker
+L 02/18/2019 - 15:35:35: [FAdmin] Pupa (STEAM_0:0:99146775) changed from Медик to Медик комплекса
+L 02/18/2019 - 15:35:36: [FAdmin] Pupa set the team of Pupa to 18
+L 02/18/2019 - 15:35:36: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_mossberg590
+L 02/18/2019 - 15:35:36: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_smgp90
+L 02/18/2019 - 15:35:36: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_medkit
+L 02/18/2019 - 15:35:36: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/18/2019 - 15:35:36: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/18/2019 - 15:35:36: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/18/2019 - 15:35:36: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/18/2019 - 15:35:36: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/18/2019 - 15:35:36: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/18/2019 - 15:35:36: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/18/2019 - 15:35:36: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a door_ram
+L 02/18/2019 - 15:35:36: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a arrest_stick
+L 02/18/2019 - 15:35:36: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a unarrest_stick
+L 02/18/2019 - 15:35:36: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a stunstick
+L 02/18/2019 - 15:35:36: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weaponchecker
+L 02/18/2019 - 15:35:56: [FAdmin] Pupa (STEAM_0:0:99146775) changed from Медик комплекса to Мэр
+L 02/18/2019 - 15:35:56: [FAdmin] Pupa set the team of Pupa to 12
+L 02/18/2019 - 15:35:56: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_model627
+L 02/18/2019 - 15:35:56: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/18/2019 - 15:35:56: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/18/2019 - 15:35:56: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/18/2019 - 15:35:56: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/18/2019 - 15:35:56: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/18/2019 - 15:35:56: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/18/2019 - 15:35:56: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/18/2019 - 15:35:56: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a door_ram
+L 02/18/2019 - 15:35:56: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a arrest_stick
+L 02/18/2019 - 15:35:56: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a unarrest_stick
+L 02/18/2019 - 15:35:56: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a stunstick
+L 02/18/2019 - 15:35:56: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weaponchecker
+L 02/18/2019 - 15:36:16: [FAdmin] Pupa (STEAM_0:0:99146775) changed from Мэр to Наемник
+L 02/18/2019 - 15:36:16: [FAdmin] Pupa set the team of Pupa to 15
+L 02/18/2019 - 15:36:16: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_deagle
+L 02/18/2019 - 15:36:16: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/18/2019 - 15:36:16: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/18/2019 - 15:36:16: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/18/2019 - 15:36:17: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/18/2019 - 15:36:17: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/18/2019 - 15:36:17: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/18/2019 - 15:36:17: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/18/2019 - 15:36:17: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a door_ram
+L 02/18/2019 - 15:36:17: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a arrest_stick
+L 02/18/2019 - 15:36:17: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a unarrest_stick
+L 02/18/2019 - 15:36:17: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a stunstick
+L 02/18/2019 - 15:36:17: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weaponchecker
+L 02/18/2019 - 15:36:31: [FAdmin] Pupa (STEAM_0:0:99146775) changed from Наемник to Мэр
+L 02/18/2019 - 15:36:31: "Pupa<2><STEAM_0:0:99146775><Мэр>" say "/votemayor"
+
+L 02/18/2019 - 15:36:31: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_model627
+L 02/18/2019 - 15:36:31: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/18/2019 - 15:36:31: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/18/2019 - 15:36:31: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/18/2019 - 15:36:31: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/18/2019 - 15:36:31: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/18/2019 - 15:36:31: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/18/2019 - 15:36:31: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/18/2019 - 15:36:31: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a door_ram
+L 02/18/2019 - 15:36:31: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a arrest_stick
+L 02/18/2019 - 15:36:31: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a unarrest_stick
+L 02/18/2019 - 15:36:31: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a stunstick
+L 02/18/2019 - 15:36:31: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weaponchecker
+L 02/18/2019 - 15:36:54: [FAdmin] Pupa (STEAM_0:0:99146775) changed from Мэр to Начальник полиции
+L 02/18/2019 - 15:36:55: [FAdmin] Pupa set the team of Pupa to 9
+L 02/18/2019 - 15:36:55: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a arrest_stick
+L 02/18/2019 - 15:36:55: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a unarrest_stick
+L 02/18/2019 - 15:36:55: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_ragingbull
+L 02/18/2019 - 15:36:55: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a stunstick
+L 02/18/2019 - 15:36:55: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weaponchecker
+L 02/18/2019 - 15:36:55: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a door_ram
+L 02/18/2019 - 15:36:55: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_m3
+L 02/18/2019 - 15:36:55: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/18/2019 - 15:36:55: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/18/2019 - 15:36:55: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/18/2019 - 15:36:55: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/18/2019 - 15:36:55: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/18/2019 - 15:36:55: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/18/2019 - 15:36:55: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/18/2019 - 15:37:18: [FAdmin] Pupa (STEAM_0:0:99146775) changed from Начальник полиции to Охранник
+L 02/18/2019 - 15:37:18: [FAdmin] Pupa set the team of Pupa to 7
+L 02/18/2019 - 15:37:18: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a stunstick
+L 02/18/2019 - 15:37:18: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_uzi
+L 02/18/2019 - 15:37:18: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/18/2019 - 15:37:18: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/18/2019 - 15:37:18: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/18/2019 - 15:37:18: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/18/2019 - 15:37:18: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/18/2019 - 15:37:18: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/18/2019 - 15:37:18: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/18/2019 - 15:37:18: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a door_ram
+L 02/18/2019 - 15:37:18: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a arrest_stick
+L 02/18/2019 - 15:37:18: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a unarrest_stick
+L 02/18/2019 - 15:37:18: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weaponchecker
+L 02/18/2019 - 15:37:28: [FAdmin] Pupa (STEAM_0:0:99146775) changed from Охранник to Офицер полиции
+L 02/18/2019 - 15:37:29: [FAdmin] Pupa set the team of Pupa to 8
+L 02/18/2019 - 15:37:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a arrest_stick
+L 02/18/2019 - 15:37:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_usp
+L 02/18/2019 - 15:37:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a stunstick
+L 02/18/2019 - 15:37:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weaponchecker
+L 02/18/2019 - 15:37:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a door_ram
+L 02/18/2019 - 15:37:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a unarrest_stick
+L 02/18/2019 - 15:37:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/18/2019 - 15:37:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/18/2019 - 15:37:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/18/2019 - 15:37:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/18/2019 - 15:37:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/18/2019 - 15:37:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/18/2019 - 15:37:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/18/2019 - 15:37:46: [FAdmin] Pupa (STEAM_0:0:99146775) changed from Офицер полиции to Охранник комплекса
+L 02/18/2019 - 15:37:46: [FAdmin] Pupa set the team of Pupa to 17
+L 02/18/2019 - 15:37:46: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_sig_p229r
+L 02/18/2019 - 15:37:46: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_tar21
+L 02/18/2019 - 15:37:46: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/18/2019 - 15:37:46: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/18/2019 - 15:37:46: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/18/2019 - 15:37:46: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/18/2019 - 15:37:46: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/18/2019 - 15:37:46: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/18/2019 - 15:37:46: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/18/2019 - 15:37:46: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a door_ram
+L 02/18/2019 - 15:37:46: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a arrest_stick
+L 02/18/2019 - 15:37:46: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a unarrest_stick
+L 02/18/2019 - 15:37:46: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a stunstick
+L 02/18/2019 - 15:37:46: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weaponchecker
+L 02/18/2019 - 15:38:07: [FAdmin] Pupa (STEAM_0:0:99146775) changed from Охранник комплекса to Паркурист
+L 02/18/2019 - 15:38:08: [FAdmin] Pupa set the team of Pupa to 5
+L 02/18/2019 - 15:38:08: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a climb_swep2
+L 02/18/2019 - 15:38:08: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_spraymhs
+L 02/18/2019 - 15:38:08: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/18/2019 - 15:38:08: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/18/2019 - 15:38:08: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/18/2019 - 15:38:08: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/18/2019 - 15:38:08: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/18/2019 - 15:38:08: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/18/2019 - 15:38:08: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/18/2019 - 15:38:08: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a door_ram
+L 02/18/2019 - 15:38:08: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a arrest_stick
+L 02/18/2019 - 15:38:08: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a unarrest_stick
+L 02/18/2019 - 15:38:08: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a stunstick
+L 02/18/2019 - 15:38:08: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weaponchecker
+L 02/18/2019 - 15:39:18: [FAdmin] Pupa (STEAM_0:0:99146775) changed from Паркурист to Продавец оружия
+L 02/18/2019 - 15:39:18: [FAdmin] Pupa set the team of Pupa to 6
+L 02/18/2019 - 15:39:18: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_fists
+L 02/18/2019 - 15:39:18: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/18/2019 - 15:39:18: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/18/2019 - 15:39:18: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/18/2019 - 15:39:18: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/18/2019 - 15:39:18: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/18/2019 - 15:39:18: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/18/2019 - 15:39:18: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/18/2019 - 15:39:18: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a door_ram
+L 02/18/2019 - 15:39:

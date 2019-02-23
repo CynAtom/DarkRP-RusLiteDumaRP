@@ -1,0 +1,13 @@
+"AddonInfo"
+{
+	"name" "The Sit Anywhere Script!"
+	"author_name" "Author Name"
+	"info" "{
+	"description": "Description",
+	"type": "tool",
+	"tags": [
+		"roleplay",
+		"realism"
+	]
+}"
+}

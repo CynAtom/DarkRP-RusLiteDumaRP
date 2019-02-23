@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/GrandTheftAuto5/Trevor/upper_diff_010_a_uni"
+	"$bumpmap" "models/GrandTheftAuto5/Trevor/upper_norm_010_a_uni"
+	"$envmaptint"	"[.02 .2 .7]"
+	"$phong" "1"
+	"$phongboost" "0.05"
+	"$phongexponenttexture" "models/GrandTheftAuto5/Shared/phongexp"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges" "[.5 .5 .5]"
+	"$model" "1"
+	"$detail" "models/GrandTheftAuto5/Shared/Detail/detail_leather3"
+	"$detailscale" "8"
+	"$detailblendfactor" ".3"
+	"$detailblendmode" "0"
+}

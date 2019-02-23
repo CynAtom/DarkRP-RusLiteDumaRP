@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/putin/suit_sheet"
+	"$bumpmap" "models/putin/suit_sheet_nml"
+	"$halflambert" "1"
+        "$nocull" "1"
+}

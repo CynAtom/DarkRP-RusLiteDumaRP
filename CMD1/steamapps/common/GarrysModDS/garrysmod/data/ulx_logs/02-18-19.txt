@@ -1,0 +1,88 @@
+[15:00:10] New map: rp_bangclaw
+[15:00:53] Client "SelecT^^" connected.
+[15:01:26] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 33 seconds).
+[15:01:53] Dropped "SelecT^^" from server<STEAM_0:0:99146775>
+
+
+
+[15:04:56] New map: rp_bangclaw
+[15:05:45] Client "SelecT^^" connected.
+[15:06:12] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 27 seconds).
+[15:10:16] Dropped "SelecT^^" from server<STEAM_0:0:99146775>
+
+
+
+[15:14:17] New map: rp_bangclaw
+[15:14:23] Client "SelecT^^" connected.
+[15:14:45] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 22 seconds).
+[15:21:34] Dropped "SelecT^^" from server<STEAM_0:0:99146775>
+
+
+
+[15:23:09] New map: rp_bangclaw
+[15:23:19] Client "SelecT^^" connected.
+[15:23:42] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 23 seconds).
+[15:27:44] Dropped "SelecT^^" from server<STEAM_0:0:99146775>
+
+
+
+[15:29:11] New map: rp_bangclaw
+[15:29:31] Client "SelecT^^" connected.
+[15:29:59] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 28 seconds).
+[15:30:43] Pupa: /admin
+[15:36:31] Pupa: /votemayor
+[15:40:28] Pupa: /admin
+[15:40:36] Pupa: /gundealer
+[15:40:40] Pupa: /parkour
+[15:41:16] Pupa: /admin
+[15:41:59] Pupa suicided!
+[15:42:19] Pupa suicided!
+[15:48:19] Dropped "Pupa" from server<STEAM_0:0:99146775>
+
+
+
+[15:59:01] New map: rp_bangclaw
+[16:47:11] Client "SelecT^^" connected.
+[16:47:38] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 27 seconds).
+[16:48:06] Dropped "SelecT^^" from server<STEAM_0:0:99146775>
+
+
+
+[16:50:22] New map: rp_bangclaw
+[16:50:46] Client "SelecT^^" connected.
+[16:51:17] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 31 seconds).
+[16:53:32] Dropped "Pupa" from server<STEAM_0:0:99146775>
+[16:53:39] Client "SelecT^^" connected.
+[16:54:03] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 24 seconds).
+[16:54:38] Dropped "Pupa" from server<STEAM_0:0:99146775>
+
+
+
+[16:58:01] New map: rp_bangclaw
+
+
+
+[17:01:30] New map: rp_bangclaw
+[17:01:34] Client "SelecT^^" connected.
+[17:01:57] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 23 seconds).
+[17:02:35] Pupa: /buisn
+[17:03:09] Pupa: /narko
+[17:03:51] Pupa: /coop
+[17:05:41] Pupa: /mayor
+[17:18:35] Pupa: /addmoney Pupa 950609
+[17:22:59] Pupa: /gundealer
+[17:23:10] Pupa: /buyshipment Barret M82
+[17:23:24] Pupa: /buyshipment Desert eagle
+[17:23:28] Pupa: /buyshipment P228
+[17:23:29] Pupa: /buyshipment Desert eagle
+[17:23:30] Pupa: /buyshipment Barret M82
+
+
+
+[17:25:12] New map: rp_bangclaw
+[17:25:19] Client "SelecT^^" connected.
+[17:25:43] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 24 seconds).
+[17:26:10] Pupa: /buyshipment Fiveseven
+[17:26:21] Pupa: /gundealer
+[17:26:25] Pupa: /buyshipment Barret M82
+[17:27:56] Dropped "Pupa" from server<STEAM_0:0:99146775>

@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "PD2_swat_shield_Zeal_Team"
+	"author_name" "Author Name"
+	"info" "{"description": "Description", "tags": ["fun", "roleplay"], "type": "model"}"
+}

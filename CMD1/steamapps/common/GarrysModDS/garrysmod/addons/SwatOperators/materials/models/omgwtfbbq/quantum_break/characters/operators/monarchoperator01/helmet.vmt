@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/omgwtfbbq/Quantum_Break/Characters/Operators\MonarchOperator01/malene_helmetbalaclava_d"
+	"$bumpmap" "models/omgwtfbbq/Quantum_Break/Characters/Operators\MonarchOperator01/malene_helmetbalaclava_n"
+		$phong "1"
+	"$phongexponent" "5"
+
+
+	"$phongboost" ".55"	
+	"$phongfresnelranges"	"[.25 3 48]"
+$phongalbedotint "1"
+$ambientocclusion "1"
+$rimlight "1"
+$rimlightexponent "7.75"
+$rimlightboost "0.5"
+$halflambert 1
+$nocull 1
+
+}

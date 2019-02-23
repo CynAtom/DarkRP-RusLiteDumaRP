@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "Gmod Legs 3"
+	"author_name" "Author Name"
+	"info" "{"tags": ["roleplay", "realism"], "description": "3.8.9:\n[ADD] support for morphmod\n[FIX] weird rendering in vehicles", "type": "effects"}"
+}

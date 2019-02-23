@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"models\scp\arms_class_d"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$surfaceprop" "flesh"
+        "$nocull" 1
+}

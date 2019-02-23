@@ -1,0 +1,15 @@
+"AddonInfo"
+{
+	"name" "11th Doctor Playermodel"
+	"author_name" "Author Name"
+	"info" "
+{
+	"description": "Description",
+	"type": "model",
+	"tags": 
+	[
+		"fun",
+		"roleplay"
+	]
+}"
+}

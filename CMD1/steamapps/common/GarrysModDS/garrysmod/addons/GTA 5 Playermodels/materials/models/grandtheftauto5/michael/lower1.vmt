@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/GrandTheftAuto5/Michael/lowr_diff_001_a_uni"
+	"$bumpmap" "models/GrandTheftAuto5/Michael/lowr_norm_000_a_uni"
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponenttexture" "models/GrandTheftAuto5/Shared/phongexp"
+	"$phongalbedotint" "5"
+	"$phongfresnelranges" "[.5 .5 .5]"
+	"$model" "1"
+	"$detail" "models/GrandTheftAuto5/Shared/Detail/detail_cloth"
+	"$detailscale" "15"
+	"$detailblendfactor" "1"
+	"$detailblendmode" "0"
+}

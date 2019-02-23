@@ -1,0 +1,13 @@
+"AddonInfo"
+{
+	"name" "SCP 173 SWEP (Fixed)"
+	"author_name" "Author Name"
+	"info" "{
+	"description": "Description",
+	"type": "weapon",
+	"tags": [
+		"fun",
+		"roleplay"
+	]
+}"
+}

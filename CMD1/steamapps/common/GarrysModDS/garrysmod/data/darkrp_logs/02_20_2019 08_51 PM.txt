@@ -1,0 +1,46 @@
+Wed Feb 20 20:51:57 2019	SelecT^^ (STEAM_0:0:99146775) has joined the game
+Wed Feb 20 20:51:58 2019	Pupa (STEAM_0:0:99146775) spawned
+Wed Feb 20 20:53:12 2019	Pupa (STEAM_0:0:99146775) disconnected
+Wed Feb 20 20:55:30 2019	SelecT^^ (STEAM_0:0:99146775) has joined the game
+Wed Feb 20 20:55:30 2019	Pupa (STEAM_0:0:99146775) spawned
+Wed Feb 20 20:57:52 2019	Pupa (STEAM_0:0:99146775): /setspawn TEAM_POLICE
+Wed Feb 20 20:58:05 2019	Pupa (STEAM_0:0:99146775): /setspawn офицер полиции
+Wed Feb 20 20:58:27 2019	Pupa (STEAM_0:0:99146775): /setspawn Офицер полиции
+Wed Feb 20 21:02:34 2019	Pupa (STEAM_0:0:99146775): /setspawn
+Wed Feb 20 21:02:40 2019	Pupa (STEAM_0:0:99146775): /setspawn
+Wed Feb 20 21:02:46 2019	Pupa (STEAM_0:0:99146775): /setspawn police
+Wed Feb 20 21:02:51 2019	Pupa (STEAM_0:0:99146775): /setspawn POLICE
+Wed Feb 20 21:02:59 2019	Pupa (STEAM_0:0:99146775): /setspawn TEAM_POLICE
+Wed Feb 20 21:03:02 2019	Pupa (STEAM_0:0:99146775): /addspawn
+Wed Feb 20 21:03:08 2019	Pupa (STEAM_0:0:99146775): /addspawn TEAM_POLICE
+Wed Feb 20 21:03:19 2019	Pupa (STEAM_0:0:99146775): /addspawn Офицер полиции
+Wed Feb 20 21:04:51 2019	Pupa (STEAM_0:0:99146775): /setspawn police
+Wed Feb 20 21:04:59 2019	Pupa (STEAM_0:0:99146775): /setspawn coop
+Wed Feb 20 21:05:34 2019	Pupa (STEAM_0:0:99146775): /setspawn chief
+Wed Feb 20 21:05:48 2019	Pupa (STEAM_0:0:99146775): /setspawn OMON
+Wed Feb 20 21:05:53 2019	Pupa (STEAM_0:0:99146775): /setspawn omon
+Wed Feb 20 21:06:01 2019	Pupa (STEAM_0:0:99146775): /setspawn omonmed
+Wed Feb 20 21:06:11 2019	Pupa (STEAM_0:0:99146775): /setspawn omoncom
+Wed Feb 20 21:06:20 2019	Pupa (STEAM_0:0:99146775): /setspawn omonbul
+Wed Feb 20 21:06:29 2019	Pupa (STEAM_0:0:99146775): /setspawn omonsnip
+Wed Feb 20 21:06:54 2019	Pupa (STEAM_0:0:99146775): /setspawn mayor
+Wed Feb 20 21:07:09 2019	Pupa (STEAM_0:0:99146775): /setspawn scp
+Wed Feb 20 21:07:13 2019	Pupa (STEAM_0:0:99146775): /setspawn scp1
+Wed Feb 20 21:07:16 2019	Pupa (STEAM_0:0:99146775): /setspawn scp2
+Wed Feb 20 21:07:21 2019	Pupa (STEAM_0:0:99146775): /setspawn scpmed
+Wed Feb 20 21:07:25 2019	Pupa (STEAM_0:0:99146775): /setspawn scpcom
+Wed Feb 20 21:07:30 2019	Pupa (STEAM_0:0:99146775): /setspawn scpspec
+Wed Feb 20 21:07:37 2019	Pupa (STEAM_0:0:99146775): /setspawn scpsc
+Wed Feb 20 21:08:41 2019	Pupa (STEAM_0:0:99146775): /buyammo pistol
+Wed Feb 20 21:08:48 2019	Pupa (STEAM_0:0:99146775): /buyammo 357
+Wed Feb 20 21:08:54 2019	Pupa (STEAM_0:0:99146775): /buyammo 357
+Wed Feb 20 21:08:59 2019	Pupa (STEAM_0:0:99146775): /buyammo 357
+Wed Feb 20 21:09:11 2019	Pupa (STEAM_0:0:99146775): /buyammo buckshot
+Wed Feb 20 21:09:16 2019	Pupa (STEAM_0:0:99146775): /buyammo smg1
+Wed Feb 20 21:09:30 2019	Pupa (STEAM_0:0:99146775): /buyammo smg1
+Wed Feb 20 21:09:35 2019	Pupa (STEAM_0:0:99146775): /buyammo ar2
+Wed Feb 20 21:10:13 2019	Pupa (STEAM_0:0:99146775): /buyammo sniper_round
+Wed Feb 20 21:10:30 2019	Pupa was killed by Himself with a suicide trick
+Wed Feb 20 21:11:02 2019	Pupa was killed by Himself with a suicide trick
+Wed Feb 20 21:12:09 2019	Pupa (STEAM_0:0:99146775): /setspawn scp173
+Wed Feb 20 21:12:12 2019	Pupa (STEAM_0:0:99146775) disconnected

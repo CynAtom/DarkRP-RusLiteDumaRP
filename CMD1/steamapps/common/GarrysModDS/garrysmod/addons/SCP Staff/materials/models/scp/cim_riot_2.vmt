@@ -1,0 +1,126 @@
+VertexlitGeneric
+{
+	$basetexture "models\scp\cim_riot_2"
+	$nocull 1
+
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost" "0.15"	
+	"$phongfresnelranges"	"[ .1 3 5 ]"
+	"$basemapalphaphongmask" "1"
+
+	"$color2" "[1 1 1]"
+	"$ambientocclusion" "1"
+	"$detailscale" "1"
+	"$detailblendfactor" "1"
+	"$detailblendmode" "5"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Nirrti was here.

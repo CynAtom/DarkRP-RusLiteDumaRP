@@ -1,0 +1,90 @@
+"AddonInfo"
+{
+	"name" "M9K Small Arms pack"
+	"author_name" "author"
+	"info" "[h1][b]This addon was not designed for TTT. DarkRP works with minor changes to settings, such as default clips, weapon stripping. See the description for info on how to adjust these settings to fit your needs.[/b][/h1]
+
+Included in this addon:
+Ammo boxes which can explode if damaged.
+
+Selective Fire: Some weapons can now change between full automatic and semi automatic.
+Hold Use (default E) and hit Reload to select auto or semi-auto.
+
+Silencing (only available on select weapons): Hold Use (default E) and hit Alt Fire (default right click).
+
+[b]Optional Empty Weapon Stripping: Weapons with no ammo left will be dropped. Use the console command M9KWeaponStrip. Weapon stripping is disabled by default, and shame on me for not doing it earlier.[/b]
+
+[b]Optional Gas Effects when firing your weapon. Use the console command M9KGasEffect. If you are using an older computer or lag severely when firing, disable the effect.[/b]
+[h1]To disable gas effects for all users on your server, use the console command [b]M9KClientGasDisable 1[/b]. You can re-enable gas effects for clients by using the console command [b]M9KClientGasDisable 0[/b].[/h1]
+
+[b]Optional Dynamic Recoil: Recoil now will push your aiming direction. You will notice your aim being pushed upward after each shot. Don't like it? Use the console command M9KdynamicRecoil. [/b]
+
+[b]Optional Bullet Penetration: Disable the penetration and ricochet, as well as their effects. Use the console command M9KDisablePenetration.[/b]
+
+[b]Optional Ammo Box Detonation: You can decide whether my ammo boxes go kaboom or not. Use the console command M9KAmmoDetonation.[/b].
+
+[b]Customizable Damage Multiplier: Use the console command M9KDamageMultiplier to scale up (or down!) M9K bullet damage.[/b]
+
+[b]Customizable Default Clips: Use the console command M9KDefaultClip to select how many default clips weapons will spawn with.[/b]
+
+Included are 31 weapons, listed and credited below. 
+[b]PISTOLS[/b] 
+[url=http://gamebanana.com/css/skins/109922]Colt 1911 [/url]
+[url=http://gamebanana.com/css/skins/93724]Glock 18 [/url]
+[url=http://gamebanana.com/css/skins/115946]SIG Sauer P229R[/url]
+[url=http://gamebanana.com/css/skins/111125]Desert Eagle [/url]
+[url=http://gamebanana.com/css/skins/110912]HK USP [/url]
+[url=http://gamebanana.com/css/skins/121795]HK45C [/url]
+[url=http://gamebanana.com/css/skins/50297]P08 Luger [/url]
+[url=http://gamebanana.com/css/skins/117580]Beretta M9 [/url]
+
+[b]REVOLVERS[/b] 
+[url=http://css.gamebanana.com/skins/114748]Colt Python [/url]
+[url=http://css.gamebanana.com/skins/114515]M29 Satan [/url]
+[url=http://gamebanana.com/css/skins/26522]Model 3 Russian [/url]
+[url=http://gamebanana.com/css/skins/110985]Model 500 [/url]
+[url=http://gamebanana.com/css/skins/19419]Model 627 [/url]
+[url=http://gamebanana.com/css/skins/16585]Raging Bull [/url]
+[url=http://gamebanana.com/css/skins/36335]Remington 1858 [/url]
+
+[b]SUBMACHINE GUNS[/b] 
+[url=http://css.gamebanana.com/skins/59614]USC [/url]
+[url=http://gamebanana.com/css/skins/105553]MP5 [/url]
+[url=http://css.gamebanana.com/skins/97270]MP5SD[/url]
+[url=http://css.gamebanana.com/skins/106901]Magpul PDR[/url]
+[url=http://css.gamebanana.com/skins/123624]AAC Honey Badger[/url]
+[url=http://gamebanana.com/css/skins/32514]Bizon [/url]
+[url=http://gamebanana.com/css/skins/16679]MP7[/url]
+[url=http://gamebanana.com/css/skins/18808]P90 [/url]
+[url=http://gamebanana.com/css/skins/27596]Sten [/url]
+[url=http://gamebanana.com/css/skins/30571]Tommy gun [/url]
+[url=http://css.gamebanana.com/skins/117184]Uzi [/url]
+[url=http://css.gamebanana.com/skins/115036]UMP45 [/url]
+[url=http://gamebanana.com/css/skins/37182]KRISS Vector [/url]
+[url=http://gamebanana.com/css/skins/119079]MP9 [/url]
+[url=http://gamebanana.com/css/skins/14056]TEC-9 [/url]
+[url=http://gamebanana.com/css/skins/122129]KAC PDW [/url]
+[url=http://css.gamebanana.com/skins/130869]MP40[/url]
+
+[b]OTHER MODELS[/b] 
+[url=http://gamebanana.com/models/868]Scope used with Raging Bull [/url]
+[url=http://www.garrysmod.org/downloads/?a=view&id=131966]EOTECH Model on KAC PDW [/url]
+
+
+Special Thanks: Mr. F-kusu, [url=http://steamcommunity.com/profiles/76561197999178008/]White,[/url] Generic Default, Worshipper, and Clavus. [url=http://steamcommunity.com/profiles/76561198043711881]Darkaaja[/url], [url=http://steamcommunity.com/profiles/76561198202801740/]Faze Spoder[/url]
+-------------------------------------------------
+The weapons in this addon do not support custom playermodel hands. I tried to implement this feature, but the models broke when I decompile them.
+-------------------------------------------------
+I don't think I will be making any more weapons. However, the weapon base is now public, so you can make them yourselves! Visit this link to download the base, and follow the instructions to start making your own weapons.
+[url=http://murderthon9000.com/bobs-base][b]Download Bob's Base at Murderthon9000.com[/b][/url]
+-------------------------------------------------
+[b]Any problems?[/b]
+If you're having any problems, you should take a look at my troubleshooting page here:
+[url=http://murderthon9000.com/troubleshooting/][b]View Troubleshooting at Murderthon9000.com[/b][/url]
+-------------------------------------------------
+[b]Check out my Administration Addon for easy configuration![/b]
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=299279882]Murderthon 9000 Administration[/url]
+-------------------------------------------------
+[b]Download .GMA files for PC and Servers here at Murderthon9000.com[/b]
+[url]http://murderthon9000.com/murderthon-9000-small-arms/[/url]"
+}

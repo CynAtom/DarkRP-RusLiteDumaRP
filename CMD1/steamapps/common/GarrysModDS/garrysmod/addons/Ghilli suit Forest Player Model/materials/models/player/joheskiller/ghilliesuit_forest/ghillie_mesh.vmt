@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"models/player/joheskiller/ghilliesuit_forest/ghillie_mesh"
+	"$bumpmap"				"models/player/joheskiller/ghilliesuit_forest/ghillie_mesh_normal"
+	"$surfaceprop"			"foliage"
+	// "$nocull"				"1"
+	"$alphatest"			"1"
+	"$alphatestreference"	".3"
+}

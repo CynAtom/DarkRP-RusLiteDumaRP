@@ -1,0 +1,63 @@
+
+
+[2019-02-16 10:45:15] Attempting to find current bucket; temporary dir: F:\CMD1\shader_cache_temp_dir_gl_64
+[2019-02-16 10:45:15] Creating shader cache directory: F:\CMD1\shader_cache_temp_dir_gl_64
+[2019-02-16 10:45:15] Unknown shader cache type, ignoring.
+[2019-02-16 10:45:15] Attempting to find current bucket; temporary dir: F:\CMD1\shader_cache_temp_dir_gl_32
+[2019-02-16 10:45:15] Creating shader cache directory: F:\CMD1\shader_cache_temp_dir_gl_32
+[2019-02-16 10:45:15] Unknown shader cache type, ignoring.
+[2019-02-16 10:45:16] Found 0 current buckets:
+
+
+[2019-02-16 16:49:24] Attempting to find current bucket; temporary dir: F:\CMD1\shader_cache_temp_dir_gl_64
+[2019-02-16 16:49:24] Creating shader cache directory: F:\CMD1\shader_cache_temp_dir_gl_64
+[2019-02-16 16:49:24] Unknown shader cache type, ignoring.
+[2019-02-16 16:49:25] Attempting to find current bucket; temporary dir: F:\CMD1\shader_cache_temp_dir_gl_32
+[2019-02-16 16:49:25] Creating shader cache directory: F:\CMD1\shader_cache_temp_dir_gl_32
+[2019-02-16 16:49:25] Unknown shader cache type, ignoring.
+[2019-02-16 16:49:25] Found 0 current buckets:
+
+
+[2019-02-16 16:49:53] Attempting to find current bucket; temporary dir: F:\CMD1\shader_cache_temp_dir_gl_64
+[2019-02-16 16:49:53] Creating shader cache directory: F:\CMD1\shader_cache_temp_dir_gl_64
+[2019-02-16 16:49:53] Unknown shader cache type, ignoring.
+[2019-02-16 16:49:54] Attempting to find current bucket; temporary dir: F:\CMD1\shader_cache_temp_dir_gl_32
+[2019-02-16 16:49:54] Creating shader cache directory: F:\CMD1\shader_cache_temp_dir_gl_32
+[2019-02-16 16:49:54] Unknown shader cache type, ignoring.
+[2019-02-16 16:49:54] Found 0 current buckets:
+
+
+[2019-02-16 17:30:42] Attempting to find current bucket; temporary dir: F:\CMD1\shader_cache_temp_dir_gl_64
+[2019-02-16 17:30:42] Creating shader cache directory: F:\CMD1\shader_cache_temp_dir_gl_64
+[2019-02-16 17:30:43] Unknown shader cache type, ignoring.
+[2019-02-16 17:30:43] Attempting to find current bucket; temporary dir: F:\CMD1\shader_cache_temp_dir_gl_32
+[2019-02-16 17:30:43] Creating shader cache directory: F:\CMD1\shader_cache_temp_dir_gl_32
+[2019-02-16 17:30:43] Unknown shader cache type, ignoring.
+[2019-02-16 17:30:44] Found 0 current buckets:
+
+
+[2019-02-19 21:07:58] Attempting to find current bucket; temporary dir: F:\CMD1\shader_cache_temp_dir_gl_64
+[2019-02-19 21:07:58] Creating shader cache directory: F:\CMD1\shader_cache_temp_dir_gl_64
+[2019-02-19 21:07:59] Unknown shader cache type, ignoring.
+[2019-02-19 21:07:59] Attempting to find current bucket; temporary dir: F:\CMD1\shader_cache_temp_dir_gl_32
+[2019-02-19 21:07:59] Creating shader cache directory: F:\CMD1\shader_cache_temp_dir_gl_32
+[2019-02-19 21:07:59] Unknown shader cache type, ignoring.
+[2019-02-19 21:08:00] Found 0 current buckets:
+
+
+[2019-02-19 21:10:46] Attempting to find current bucket; temporary dir: F:\CMD1\shader_cache_temp_dir_gl_64
+[2019-02-19 21:10:46] Creating shader cache directory: F:\CMD1\shader_cache_temp_dir_gl_64
+[2019-02-19 21:10:46] Unknown shader cache type, ignoring.
+[2019-02-19 21:10:47] Attempting to find current bucket; temporary dir: F:\CMD1\shader_cache_temp_dir_gl_32
+[2019-02-19 21:10:47] Creating shader cache directory: F:\CMD1\shader_cache_temp_dir_gl_32
+[2019-02-19 21:10:47] Unknown shader cache type, ignoring.
+[2019-02-19 21:10:47] Found 0 current buckets:
+
+
+[2019-02-19 21:11:27] Attempting to find current bucket; temporary dir: F:\CMD1\shader_cache_temp_dir_gl_64
+[2019-02-19 21:11:27] Creating shader cache directory: F:\CMD1\shader_cache_temp_dir_gl_64
+[2019-02-19 21:11:28] Unknown shader cache type, ignoring.
+[2019-02-19 21:11:29] Attempting to find current bucket; temporary dir: F:\CMD1\shader_cache_temp_dir_gl_32
+[2019-02-19 21:11:29] Creating shader cache directory: F:\CMD1\shader_cache_temp_dir_gl_32
+[2019-02-19 21:11:29] Unknown shader cache type, ignoring.
+[2019-02-19 21:11:29] Found 0 current buckets:

@@ -1,0 +1,112 @@
+[11:46:24] New map: gm_construct
+[11:47:08] Client "SelecT^^" connected.
+
+
+
+[11:56:28] New map: rp_bangclaw
+[11:56:40] Client "SelecT^^" connected.
+[11:57:08] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 28 seconds).
+[11:58:55] (Console) added SelecT^^ to group superadmin
+[12:00:06] Dropped "SelecT^^" from server<STEAM_0:0:99146775>
+
+
+
+[14:02:46] New map: rp_bangclaw
+[14:03:10] Client "SelecT^^" connected.
+[14:03:22] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 12 seconds).
+[14:06:53] Dropped "SelecT^^" from server<STEAM_0:0:99146775>
+
+
+
+[14:53:17] New map: rp_bangclaw
+[14:53:49] Client "SelecT^^" connected.
+[14:54:12] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 23 seconds).
+[14:57:20] SelecT^^ revoked access "ulx votemap" to group user
+[14:58:54] SelecT^^ set the armor for Themself to 255
+[14:59:09] SelecT^^: /rpname Pidor
+[14:59:09] SelecT^^<STEAM_0:0:99146775> changed their name to Pidor
+[15:01:34] Dropped "Pidor" from server<STEAM_0:0:99146775>
+
+
+
+[16:23:21] New map: rp_bangclaw
+[16:23:38] Client "SelecT^^" connected.
+[16:23:59] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 21 seconds).
+[16:24:50] Dropped "Pidor" from server<STEAM_0:0:99146775>
+
+
+
+[16:28:16] New map: rp_bangclaw
+[16:28:24] Client "SelecT^^" connected.
+[16:28:43] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 19 seconds).
+[16:32:22] Dropped "Pidor" from server<STEAM_0:0:99146775>
+
+
+
+[17:13:33] New map: rp_bangclaw
+[17:13:59] Client "SelecT^^" connected.
+[17:14:26] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 27 seconds).
+[17:15:56] Dropped "SelecT^^" from server<STEAM_0:0:99146775>
+
+
+
+[17:19:11] New map: rp_bangclaw
+[17:19:18] Client "SelecT^^" connected.
+[17:19:46] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 28 seconds).
+[17:21:14] Dropped "SelecT^^" from server<STEAM_0:0:99146775>
+
+
+
+[17:25:27] New map: rp_bangclaw
+[17:26:46] Client "SelecT^^" connected.
+[17:27:15] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 29 seconds).
+[17:28:01] Dropped "SelecT^^" from server<STEAM_0:0:99146775>
+
+
+
+[17:35:06] New map: rp_bangclaw
+[17:35:17] Client "SelecT^^" connected.
+[17:35:49] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 32 seconds).
+[17:36:18] Dropped "Pidor" from server<STEAM_0:0:99146775>
+
+
+
+[17:39:35] New map: rp_bangclaw
+[17:41:38] Client "SelecT^^" connected.
+[17:42:03] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 25 seconds).
+[17:43:04] Dropped "Pidor" from server<STEAM_0:0:99146775>
+
+
+
+[17:45:19] New map: rp_bangclaw
+[17:45:56] Client "SelecT^^" connected.
+[17:46:18] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 22 seconds).
+[17:47:52] Dropped "Pidor" from server<STEAM_0:0:99146775>
+
+
+
+[17:52:14] New map: rp_bangclaw
+[17:52:26] Client "SelecT^^" connected.
+[17:52:47] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 21 seconds).
+[17:57:01] Dropped "Pidor" from server<STEAM_0:0:99146775>
+
+
+
+[18:03:14] New map: rp_bangclaw
+[18:03:37] Client "SelecT^^" connected.
+[18:03:57] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 20 seconds).
+[18:08:03] Pidor: /rpname Александер Пушкин
+[18:08:09] Pidor: /rpname Пупа
+[18:08:09] Pidor<STEAM_0:0:99146775> changed their name to Пупа
+[18:23:12] Пупа: /rpname Zalupa
+[18:23:13] Пупа<STEAM_0:0:99146775> changed their name to Zalupa
+[18:24:04] Zalupa: /rpname Pupa
+[18:24:05] Zalupa<STEAM_0:0:99146775> changed their name to Pupa
+[18:32:50] Dropped "Pupa" from server<STEAM_0:0:99146775>
+
+
+
+[21:12:44] New map: rp_bangclaw
+[21:12:59] Client "SelecT^^" connected.
+[21:14:28] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 89 seconds).
+[21:29:15] Dropped "Pupa" from server<STEAM_0:0:99146775>

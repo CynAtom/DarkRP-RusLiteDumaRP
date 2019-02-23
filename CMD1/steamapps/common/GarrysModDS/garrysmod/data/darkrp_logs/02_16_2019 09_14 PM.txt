@@ -1,0 +1,5 @@
+Sat Feb 16 21:14:28 2019	SelecT^^ (STEAM_0:0:99146775) has joined the game
+Sat Feb 16 21:14:30 2019	Pupa (STEAM_0:0:99146775) spawned
+Sat Feb 16 21:23:22 2019	Pupa was killed by Entity [0][worldspawn] with a unknown
+Sat Feb 16 21:23:25 2019	Pupa (STEAM_0:0:99146775) spawned
+Sat Feb 16 21:29:15 2019	Pupa (STEAM_0:0:99146775) disconnected

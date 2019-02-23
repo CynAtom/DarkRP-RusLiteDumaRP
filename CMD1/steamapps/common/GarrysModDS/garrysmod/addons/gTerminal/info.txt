@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+	"name" "gTerminal"
+	"author_name" "author"
+	"info" "This is probably the second useless, unrealistic (but neat) addon that relates to computers! With gTerminal you can pretend you're running a basic console based operating system and cyber with other people on user-created networks (sort of like real life!)
+
+To actually do anything, one must learn. Once you have this entity on and ready to go, go to your entities tab and click on the gTerminal category where you'll find an entity named "Computer". Click it and press your use key (E) on the terminal, and wait as it simulates a load sequence! Once it loads, you can press your use key on it to begin typing. To get a list of commands, type :help and it will prompt you with instructions. Make sure NOT to forget the colon (:), it designates a command! Anyways, once you are done reading; have fun using a computer inside a computer!"
+}

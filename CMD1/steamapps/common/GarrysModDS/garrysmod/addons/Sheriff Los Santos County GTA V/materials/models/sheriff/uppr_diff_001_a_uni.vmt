@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\sheriff\uppr_diff_001_a_uni"
+	"$bumpmap" "models\sheriff\uppr_diff_001_a_n"
+	"$blendTintByBaseAlpha"	"1"
+	$normalmapalphaenvmapmask 1
+						
+	"$envmaptint" "[ .01 .01 .01 ]"					
+ 	"$envmapFresnel" "5 7 8"	
+
+
+	"$phong" "1"						
+	"$phongboost"	"0.05"
+
+
+	"$detail" "models\sheriff\detail_cloth"
+	$detailscale 30
+	$detailblendfactor 1
+	$detailblendmode 0
+	$nocull 1
+}

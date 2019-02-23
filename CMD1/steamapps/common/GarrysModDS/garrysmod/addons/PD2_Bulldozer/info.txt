@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "PD2_Bulldozer"
+	"author_name" "Author Name"
+	"info" "{"description": "Description", "type": "model", "tags": ["fun", "roleplay"]}"
+}

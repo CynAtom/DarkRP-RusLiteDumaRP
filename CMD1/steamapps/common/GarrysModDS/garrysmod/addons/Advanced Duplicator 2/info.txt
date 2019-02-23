@@ -1,0 +1,12 @@
+"AddonInfo"
+{
+	"name" "Advanced Duplicator 2"
+	"author_name" "Author Name"
+	"info" "{
+	"description": "Ground up rewrite meant to make up for some of the shortcomings of the first iteration of AdvDupe. Still considered alpha!",
+	"type": "tool",
+	"tags": [
+		"build"
+	]
+}"
+}

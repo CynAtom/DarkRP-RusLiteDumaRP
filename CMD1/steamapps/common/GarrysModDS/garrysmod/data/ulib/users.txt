@@ -1,0 +1,11 @@
+"STEAM_0:0:99146775"	
+{
+	"name"	"SelecT^^"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"superadmin"
+}

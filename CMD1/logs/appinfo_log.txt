@@ -1,0 +1,74 @@
+
+
+[2019-02-16 10:45:47] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-02-16 10:45:48] Change number 0->5828092, apps: 0/0, packages: 0/0
+[2019-02-16 10:45:48] Requesting 1 apps, 1 packages (meta data, 1024 prev attempts)
+[2019-02-16 10:45:48] Requesting 1 apps, 1 packages (full data, 1024 prev attempts)
+[2019-02-16 10:45:49] UpdatesJob: finished OK, nAppsUpdated 1 (2 KB), nPackagesUpdated 1 (47 KB)
+[2019-02-16 10:45:49] Requesting 827 apps, 0 packages (meta data, 1024 prev attempts)
+[2019-02-16 10:45:50] Requested 436 access tokens, 35 received, 401 denied
+[2019-02-16 10:45:50] Updated SHAs with 35 new access tokens
+[2019-02-16 10:45:50] Downloaded 25 apps via HTTP, 811 KB (174 KB compressed)
+[2019-02-16 10:45:50] Requesting 802 apps, 0 packages (full data, 1024 prev attempts)
+[2019-02-16 10:45:55] UpdatesJob: finished OK, nAppsUpdated 827 (1988 KB), nPackagesUpdated 0 (0 KB)
+[2019-02-16 10:46:10] Starting async write F:\CMD1/appcache/appinfo.vdf (1491725 bytes)
+[2019-02-16 10:46:41] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-02-16 10:46:41] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2019-02-16 10:46:42] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+
+
+[2019-02-16 16:50:06] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-02-16 16:50:07] Change number 0->5828771, apps: 0/0, packages: 0/0
+[2019-02-16 16:50:07] Requesting 828 apps, 1 packages (meta data, 1024 prev attempts)
+[2019-02-16 16:50:07] Requested 401 access tokens, 0 received, 401 denied
+[2019-02-16 16:50:08] Downloaded 5 apps via HTTP, 95 KB (25 KB compressed)
+[2019-02-16 16:50:08] Requesting 17 apps, 0 packages (full data, 1024 prev attempts)
+[2019-02-16 16:50:08] UpdatesJob: finished OK, nAppsUpdated 22 (150 KB), nPackagesUpdated 0 (0 KB)
+[2019-02-16 16:50:23] Starting async write F:\CMD1/appcache/appinfo.vdf (1491821 bytes)
+[2019-02-16 16:50:25] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-02-16 16:50:25] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2019-02-16 16:50:25] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+
+
+[2019-02-16 17:30:49] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-02-16 17:30:50] Change number 0->5828850, apps: 0/0, packages: 0/0
+[2019-02-16 17:30:50] Requesting 828 apps, 1 packages (meta data, 1024 prev attempts)
+[2019-02-16 17:30:51] Requested 401 access tokens, 0 received, 401 denied
+[2019-02-16 17:30:51] Downloaded 1 apps via HTTP, 11 KB (3 KB compressed)
+[2019-02-16 17:30:51] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2019-02-16 17:30:52] UpdatesJob: finished OK, nAppsUpdated 2 (14 KB), nPackagesUpdated 0 (0 KB)
+[2019-02-16 17:31:07] Starting async write F:\CMD1/appcache/appinfo.vdf (1491821 bytes)
+[2019-02-16 17:31:12] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-02-16 17:31:12] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2019-02-16 17:31:12] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+
+
+[2019-02-19 21:08:10] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-02-19 21:08:18] Change number 0->5840291, apps: 0/0, packages: 0/0
+[2019-02-19 21:08:18] Requesting 828 apps, 1 packages (meta data, 1024 prev attempts)
+[2019-02-19 21:08:33] Requested 400 access tokens, 0 received, 400 denied
+[2019-02-19 21:08:33] Downloaded 16 apps via HTTP, 661 KB (133 KB compressed)
+[2019-02-19 21:08:33] Requesting 74 apps, 1 packages (full data, 1024 prev attempts)
+[2019-02-19 21:08:44] UpdatesJob: finished OK, nAppsUpdated 90 (951 KB), nPackagesUpdated 1 (47 KB)
+[2019-02-19 21:08:44] Requesting 402 apps, 0 packages (meta data, 1024 prev attempts)
+[2019-02-19 21:08:47] Requested 402 access tokens, 0 received, 402 denied
+[2019-02-19 21:08:47] Requesting 2 apps, 0 packages (full data, 1024 prev attempts)
+[2019-02-19 21:08:48] UpdatesJob: finished OK, nAppsUpdated 2 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-02-19 21:09:03] Starting async write F:\CMD1/appcache/appinfo.vdf (1489899 bytes)
+[2019-02-19 21:09:59] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-02-19 21:09:59] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2019-02-19 21:09:59] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2019-02-19 21:10:00] UpdatesJob: finished OK, nAppsUpdated 1 (3 KB), nPackagesUpdated 0 (0 KB)
+[2019-02-19 21:10:15] Starting async write F:\CMD1/appcache/appinfo.vdf (1489899 bytes)
+
+
+[2019-02-19 21:11:37] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-02-19 21:11:37] Change number 0->5840298, apps: 0/0, packages: 0/0
+[2019-02-19 21:11:37] Requesting 830 apps, 1 packages (meta data, 1024 prev attempts)
+[2019-02-19 21:11:39] Requested 402 access tokens, 0 received, 402 denied
+[2019-02-19 21:11:39] Downloaded 1 apps via HTTP, 11 KB (3 KB compressed)
+[2019-02-19 21:11:39] UpdatesJob: finished OK, nAppsUpdated 1 (11 KB), nPackagesUpdated 0 (0 KB)
+[2019-02-19 21:11:47] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-02-19 21:11:47] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2019-02-19 21:11:47] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-02-19 21:11:54] Starting async write F:\CMD1/appcache/appinfo.vdf (1489899 bytes)

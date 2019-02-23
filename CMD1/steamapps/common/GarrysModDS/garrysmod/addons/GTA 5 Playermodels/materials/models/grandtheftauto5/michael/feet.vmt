@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/GrandTheftAuto5/Michael/feet_diff_000_a_uni"
+	"$bumpmap" "models/GrandTheftAuto5/Michael/feet_norm_000_a_uni"
+	"$phong" "1"
+	"$phongboost" "15"
+	"$phongexponenttexture" "models/GrandTheftAuto5/Shared/phongexp"
+	"$phongalbedotint" "15"
+	"$phongfresnelranges" "[.5 .5 .5]"
+	"$model" "1"
+}

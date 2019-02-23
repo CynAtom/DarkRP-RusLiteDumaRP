@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"models/player/joheskiller/ghilliesuit_forest/ghillie_hood"
+	"$bumpmap"				"models/player/joheskiller/ghilliesuit_forest/ghillie_hood_normal"
+	"$surfaceprop"			"flesh"
+}

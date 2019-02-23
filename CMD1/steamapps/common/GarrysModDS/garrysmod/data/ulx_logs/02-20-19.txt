@@ -1,0 +1,379 @@
+[14:16:43] New map: rp_bangclaw
+[14:17:48] Client "SelecT^^" connected.
+[14:26:48] Client "SelecT^^" connected.
+[14:28:27] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 99 seconds).
+[14:33:29] Pupa: /addjailpos
+[14:33:44] Pupa: /addjailpos
+[14:33:51] Pupa: /addjailpos
+[14:36:26] Pupa: /coop
+[14:36:36] Client "Bot01" connected.
+[14:36:36] Client "Bot01" spawned in server <BOT> (took 1404 seconds).
+[14:38:10] Client "Bot02" connected.
+[14:38:10] Client "Bot02" spawned in server <BOT> (took 1498 seconds).
+[14:38:20] Dropped "Bot01" from server<BOT>
+[14:38:26] Dropped "Bot02" from server<BOT>
+[14:49:50] Pupa created group VIP which inherits rights from group user
+[14:50:22] Pupa removed group PUPA
+[15:02:31] Pupa removed group noaccess
+[15:03:08] Pupa revoked access "ulx thetime" to group user
+[15:03:09] Pupa granted access "ulx thetime" to group user
+[15:05:23] Pupa created group VIP+ which inherits rights from group VIP
+[15:05:44] Pupa removed group operator
+[15:06:13] Pupa created group moderator which inherits rights from group VIP+
+[15:06:40] Pupa granted access "ulx csay" to group moderator
+[15:06:40] Pupa granted access "ulx gag" to group moderator
+[15:06:43] Pupa granted access "ulx mute" to group moderator
+[15:06:50] Pupa granted access "ulx armor" to group moderator
+[15:06:55] Pupa granted access "ulx god" to group moderator
+[15:07:09] Pupa granted access "ulx jail" to group moderator
+[15:07:13] Pupa granted access "ulx slay" to group moderator
+[15:07:13] Pupa granted access "ulx slap" to group moderator
+[15:08:04] Pupa granted access "ulx ungag" to group moderator
+[15:08:07] Pupa granted access "ulx unmute" to group moderator
+[15:08:21] Pupa revoked access "ulx armor" to group moderator
+[15:08:25] Pupa granted access "ulx cloak" to group moderator
+[15:08:41] Pupa granted access "ulx jailtp" to group moderator
+[15:08:59] Pupa revoked access "ulx slap" to group moderator
+[15:09:05] Pupa granted access "ulx uncloak" to group moderator
+[15:09:12] Pupa granted access "ulx unjail" to group moderator
+[15:09:27] Pupa granted access "ulx bring" to group moderator
+[15:09:28] Pupa granted access "ulx goto" to group moderator
+[15:09:29] Pupa granted access "ulx return" to group moderator
+[15:09:30] Pupa granted access "ulx send" to group moderator
+[15:09:31] Pupa granted access "ulx teleport" to group moderator
+[15:09:38] Pupa revoked access "ulx send" to group moderator
+[15:09:51] Pupa granted access "ulx ban" to group moderator
+[15:09:55] Pupa granted access "ulx kick" to group moderator
+[15:09:57] Pupa granted access "ulx noclip" to group moderator
+[15:10:00] Pupa granted access "ulx unban" to group moderator
+[15:10:07] Pupa revoked access "ulx unban" to group moderator
+[15:10:45] Pupa granted access "ulx physgunplayer" to group moderator
+[15:11:06] Pupa granted access "ulx seeanonymousechoes" to group moderator
+[15:15:04] Dropped "Pupa" from server<STEAM_0:0:99146775>
+
+
+
+[15:50:38] New map: rp_bangclaw
+[16:11:01] Client "SelecT^^" connected.
+[16:13:44] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 163 seconds).
+[16:17:12] (Console) added Pupa to group VIP
+[16:17:50] (Console) added Pupa to group superadmin
+[16:18:41] Dropped "Pupa" from server<STEAM_0:0:99146775>
+
+
+
+[16:26:14] New map: rp_bangclaw
+[16:27:03] Client "SelecT^^" connected.
+[16:28:22] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 79 seconds).
+[16:30:19] Pupa: /gangstervip
+[16:30:40] (Console) added Pupa to group VIP
+[16:30:54] Pupa: /gangstervip
+[16:31:26] (Console) added Pupa to group superadmin
+[16:31:31] Pupa: /Hobo
+[16:32:06] Pupa: /gangstervip
+[16:34:38] Pupa: /gangstervip
+[16:34:42] Dropped "Pupa" from server<STEAM_0:0:99146775>
+
+
+
+[17:13:14] New map: rp_bangclaw
+[17:13:54] Client "SelecT^^" connected.
+[17:15:12] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 78 seconds).
+[17:16:02] Pupa: /omoncom
+[17:17:00] Pupa: /omonsnip
+[17:17:43] Pupa: /omonbul
+[17:18:26] Pupa: /killervip
+[17:19:53] Pupa: /scpspec
+[17:20:08] Pupa suicided!
+[17:20:25] Dropped "Pupa" from server<STEAM_0:0:99146775>
+
+
+
+[17:36:54] New map: rp_bangclaw
+[17:37:52] Client "SelecT^^" connected.
+[17:38:53] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 61 seconds).
+[17:40:12] Pupa: /killervip
+[17:40:27] Pupa: /scpspec
+[17:40:45] Dropped "Pupa" from server<STEAM_0:0:99146775>
+
+
+
+[17:57:22] New map: rp_bangclaw
+[17:57:53] Client "SelecT^^" connected.
+[17:58:22] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 29 seconds).
+[17:59:21] Pupa: /scpspec
+[17:59:28] Pupa: /drop
+[17:59:33] Pupa: /drop
+[17:59:39] Pupa: /omoncom
+[17:59:43] Pupa: /drop
+[18:00:33] Pupa: /drop
+[18:00:45] Pupa: /addmoney Pupa 80000
+[18:01:11] Pupa: /gundealer
+[18:01:21] Pupa: /buyshipment An-94 (Abakan)
+[18:01:26] Pupa: /buyshipment Ak-74
+[18:01:48] Pupa: /drop
+[18:01:58] Pupa: /buyammo ar2
+[18:02:00] Pupa: /buyammo ar2
+[18:11:18] Pupa: /kaz
+[18:11:47] Pupa: /mayor
+[18:11:56] Pupa suicided!
+
+
+
+[18:34:34] New map: rp_bangclaw
+[18:35:00] Client "SelecT^^" connected.
+[18:35:27] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 27 seconds).
+[18:36:00] Pupa: /addmoney 1111111
+[18:36:10] Pupa: /addmoney Pupa 100000
+[18:36:22] Pupa: /gundealer
+[18:36:38] Pupa: /buyshipment As Val
+[18:36:40] Pupa: /buyshipment ACR
+[18:36:48] Pupa suicided!
+[18:36:58] Dropped "Pupa" from server<STEAM_0:0:99146775>
+[18:36:58] Client "SelecT^^" connected.
+[18:37:24] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 26 seconds).
+[18:39:24] Pupa: /votescp173
+[18:39:36] Pupa suicided!
+[18:39:55] Pupa: /omonsnip
+[18:40:01] Pupa suicided!
+[18:40:16] Pupa: /omonbul
+[18:40:19] Pupa suicided!
+[18:40:27] Pupa suicided!
+[18:40:41] Pupa suicided!
+[18:43:10] Pupa suicided!
+[18:52:12] Pupa: /buyshipment Glock
+[18:52:13] Pupa: /buyshipment Glock
+[18:52:14] Pupa: /buyshipment Glock
+[18:52:46] Pupa: /// Мне нужна помощь администрации
+[18:53:17] Client "Bot01" connected.
+[18:53:17] Client "Bot01" spawned in server <BOT> (took 1196 seconds).
+[18:53:27] Pupa killed Bot01 using player
+[18:53:46] Pupa killed Bot01 using player
+[18:53:52] Pupa killed Bot01 using player
+[18:53:58] Pupa killed Bot01 using player
+[18:54:05] Pupa killed Bot01 using player
+[18:54:18] Pupa killed Bot01 using player
+[19:56:25] Pupa killed Bot01 using player
+[19:56:31] Pupa killed Bot01 using player
+[19:56:40] Pupa killed Bot01 using player
+[19:56:45] Pupa killed Bot01 using player
+[19:56:54] Pupa killed Bot01 using player
+[19:57:08] Pupa: /buyammo pistol
+[19:57:09] Pupa: /buyammo pistol
+[19:57:10] Pupa: /buyammo pistol
+[19:57:11] Pupa: /buyammo pistol
+[19:57:20] Pupa: /buyammo smg
+[19:57:24] Pupa: /buyammo sniper_rounds
+[19:57:57] Pupa: /buyammo pistol
+[19:58:10] Pupa killed Bot01 using player
+[19:58:19] Pupa killed Bot01 using player
+[19:58:29] Pupa killed Bot01 using player
+[19:58:34] Pupa killed Bot01 using player
+[19:58:40] Pupa: /buyammo smg
+[19:58:49] Pupa: /buyammo smg
+[19:59:00] Pupa: /buyammo ar2
+[19:59:06] Pupa: /buyammo sniper_rounds
+[19:59:24] Pupa: /buyammo ar2
+[19:59:27] Pupa: /buyammo sniper_rounds
+[19:59:44] Pupa killed Bot01 using player
+[19:59:56] Pupa killed Bot01 using player
+[20:00:04] Pupa killed Bot01 using player
+[20:00:26] Pupa killed Bot01 using player
+[20:01:52] Pupa: /buyammo smg
+[20:03:47] Pupa: /buyammo pistol
+[20:05:36] Dropped "Pupa" from server<STEAM_0:0:99146775>
+[20:05:36] Dropped "Bot01" from server<BOT>
+
+
+
+[20:51:07] New map: rp_bangclaw
+[20:51:16] Client "SelecT^^" connected.
+[20:51:57] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 41 seconds).
+[20:53:12] Dropped "Pupa" from server<STEAM_0:0:99146775>
+[20:54:29] Client "SelecT^^" connected.
+[20:55:30] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 61 seconds).
+[20:57:52] Pupa: /setspawn TEAM_POLICE
+[20:58:05] Pupa: /setspawn офицер полиции
+[20:58:27] Pupa: /setspawn Офицер полиции
+[21:02:34] Pupa: /setspawn
+[21:02:40] Pupa: /setspawn
+[21:02:46] Pupa: /setspawn police
+[21:02:51] Pupa: /setspawn POLICE
+[21:02:59] Pupa: /setspawn TEAM_POLICE
+[21:03:02] Pupa: /addspawn
+[21:03:08] Pupa: /addspawn TEAM_POLICE
+[21:03:19] Pupa: /addspawn Офицер полиции
+[21:04:51] Pupa: /setspawn police
+[21:04:59] Pupa: /setspawn coop
+[21:05:34] Pupa: /setspawn chief
+[21:05:48] Pupa: /setspawn OMON
+[21:05:53] Pupa: /setspawn omon
+[21:06:01] Pupa: /setspawn omonmed
+[21:06:11] Pupa: /setspawn omoncom
+[21:06:20] Pupa: /setspawn omonbul
+[21:06:29] Pupa: /setspawn omonsnip
+[21:06:54] Pupa: /setspawn mayor
+[21:07:09] Pupa: /setspawn scp
+[21:07:13] Pupa: /setspawn scp1
+[21:07:16] Pupa: /setspawn scp2
+[21:07:21] Pupa: /setspawn scpmed
+[21:07:25] Pupa: /setspawn scpcom
+[21:07:30] Pupa: /setspawn scpspec
+[21:07:37] Pupa: /setspawn scpsc
+[21:08:41] Pupa: /buyammo pistol
+[21:08:48] Pupa: /buyammo 357
+[21:08:54] Pupa: /buyammo 357
+[21:08:59] Pupa: /buyammo 357
+[21:09:11] Pupa: /buyammo buckshot
+[21:09:16] Pupa: /buyammo smg1
+[21:09:30] Pupa: /buyammo smg1
+[21:09:35] Pupa: /buyammo ar2
+[21:10:13] Pupa: /buyammo sniper_round
+[21:10:30] Pupa suicided!
+[21:11:02] Pupa suicided!
+[21:12:09] Pupa: /setspawn scp173
+[21:12:12] Dropped "Pupa" from server<STEAM_0:0:99146775>
+
+
+
+[21:19:46] New map: rp_bangclaw
+[21:21:04] Client "SelecT^^" connected.
+[21:22:16] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 72 seconds).
+[21:23:10] Pupa: /coop
+[21:23:42] Pupa: /votescp1
+[21:25:04] Pupa: /addspawn scp1
+[21:25:16] Pupa: /addspawn scpmed
+[21:25:21] Pupa: /addspawn scpcom
+[21:25:28] Pupa: /addspawn scpspec
+[21:25:32] Pupa: /addspawn scpsc
+[21:25:39] Pupa: /addspawn scp173
+[21:25:52] Pupa: /addspawn mayor
+[21:26:03] Pupa: /addspawn coom
+[21:26:06] Pupa: /addspawn coop
+[21:26:09] Pupa: /addspawn chief
+[21:26:14] Pupa: /addspawn omon
+[21:26:17] Pupa: /addspawn omonmed
+[21:26:27] Pupa: /addspawn omonsnip
+[21:26:31] Pupa: /addspawn onomcom
+[21:26:40] Pupa: /addspawn omoncom
+[21:26:48] Pupa: /addspawn omonbul
+[21:27:23] Pupa: /setspawn scp1
+[21:27:30] Pupa: /setspawn scpmed
+[21:27:35] Pupa: /setspawn scpcom
+[21:27:38] Pupa: /setspawn scpspec
+[21:27:40] Pupa: /setspawn scpsc
+[21:27:45] Pupa: /setspawn scp173
+[21:27:58] Pupa: /setspawn mayor
+[21:28:07] Pupa: /setspawn coop
+[21:28:10] Pupa: /setspawn chief
+[21:28:12] Pupa: /setspawn omon
+[21:28:15] Pupa: /setspawn omonmed
+[21:28:22] Pupa: /setspawn omoncom
+[21:28:27] Pupa: /setspawn omonsnip
+[21:28:30] Pupa: /setspawn omonbul
+[21:30:56] Pupa: /omoncom
+[21:31:39] Pupa: /addmoney Pupa 180000
+[21:31:49] Pupa: /gundealer
+[21:32:06] Pupa: /buyshipment Barret M98b
+[21:32:25] Pupa: /drop
+[21:32:44] Pupa: /votescp173
+[21:33:12] Pupa: /omonsnip
+[21:33:43] Pupa suicided!
+[21:34:41] Pupa: /buyammo sniper_round
+[21:36:01] Client "Bot01" connected.
+[21:36:01] Client "Bot01" spawned in server <BOT> (took 1295 seconds).
+[21:36:17] Pupa killed Bot01 using player
+[21:36:30] Pupa killed Bot01 using player
+[21:36:47] Pupa killed Bot01 using player
+[21:36:56] Pupa killed Bot01 using player
+[21:37:16] Pupa killed Bot01 using player
+[21:37:28] Pupa killed Bot01 using player
+[21:37:36] Pupa suicided!
+[21:37:45] Pupa killed Bot01 using player
+[21:38:00] Pupa suicided!
+[21:38:16] Pupa killed Bot01 using player
+[21:38:21] Pupa killed Bot01 using player
+[21:38:30] Pupa killed Bot01 using player
+[21:38:36] Pupa killed Bot01 using player
+[21:38:42] Pupa killed Bot01 using player
+[21:38:47] Pupa killed Bot01 using player
+[21:39:09] Pupa killed Bot01 using player
+[21:39:19] Pupa killed Bot01 using player
+[21:39:43] Pupa killed Bot01 using player
+[21:40:00] Pupa killed Bot01 using player
+[21:40:17] Pupa killed Bot01 using player
+[21:41:14] Pupa killed Bot01 using player
+[21:41:31] Pupa killed Bot01 using player
+[21:41:45] Pupa killed Bot01 using player
+[21:41:53] Pupa killed Bot01 using player
+[21:42:03] Pupa killed Bot01 using player
+[21:42:19] Pupa killed Bot01 using player
+[21:42:27] Pupa killed Bot01 using player
+[21:42:35] Pupa killed Bot01 using player
+[21:42:44] Pupa killed Bot01 using player
+[21:42:56] Pupa: /omonbul
+[21:43:10] Pupa killed Bot01 using player
+[21:43:23] Pupa killed Bot01 using player
+[21:43:32] Pupa killed Bot01 using player
+[21:43:40] Pupa killed Bot01 using player
+[21:44:01] Pupa killed Bot01 using player
+[21:44:06] Pupa killed Bot01 using player
+[21:44:11] Pupa killed Bot01 using player
+[21:44:17] Pupa killed Bot01 using player
+[21:44:29] Pupa killed Bot01 using player
+[21:44:54] Pupa killed Bot01 using m9k_thrown_m61
+[21:45:06] Pupa killed Bot01 using player
+[21:45:22] Pupa killed Bot01 using m9k_thrown_sticky_grenade
+[21:45:31] Pupa killed Bot01 using m9k_thrown_sticky_grenade
+[21:45:44] Pupa killed Bot01 using m9k_gdcwa_matador_90mm
+[21:45:50] Pupa killed Bot01 using m9k_gdcwa_matador_90mm
+[21:45:55] Pupa killed Bot01 using m9k_gdcwa_rpg_heat
+[21:46:04] Pupa killed Bot01 using m9k_gdcwa_rpg_heat
+[21:46:18] Pupa killed Bot01 using m9k_milkor_nade
+[21:46:25] Pupa killed Bot01 using m9k_milkor_nade
+[21:46:30] Pupa killed Bot01 using m9k_milkor_nade
+[21:46:35] Pupa killed Bot01 using m9k_milkor_nade
+[21:46:50] Pupa killed Bot01 using player
+[21:47:03] Pupa killed Bot01 using m9k_nitro_vapor
+[21:47:08] Pupa killed Bot01 using player
+[21:47:13] Pupa killed Bot01 using player
+[21:47:39] Pupa killed Bot01 using m9k_oribital_cannon
+[21:47:39] Pupa suicided!
+[21:50:57] Pupa suicided!
+[21:50:57] Pupa killed Bot01 using m9k_davy_crockett_explo
+[21:51:49] Pupa suicided!
+[21:52:03] Pupa suicided!
+[21:52:12] Pupa: /votescp173
+[21:52:27] Pupa: /votescp173
+[21:52:42] Pupa killed Bot01 using player
+[21:52:56] Pupa killed Bot01 using player
+[21:53:03] Pupa killed Bot01 using player
+[21:53:10] Pupa killed Bot01 using player
+[21:53:20] Pupa killed Bot01 using player
+[21:53:40] Pupa killed Bot01 using player
+[21:53:55] Pupa killed Bot01 using player
+[21:54:03] Pupa: /parkour
+[21:55:32] Pupa killed Bot01 using player
+[21:55:44] Pupa killed Bot01 using player
+[21:55:54] Pupa killed Bot01 using player
+[21:56:05] Pupa killed Bot01 using player
+[21:56:24] Pupa killed Bot01 using player
+[21:56:42] Pupa: /omoncom
+[21:56:44] Pupa killed Bot01 using player
+[21:56:51] Pupa killed Bot01 using player
+[21:56:56] Pupa killed Bot01 using player
+[21:57:01] Pupa killed Bot01 using player
+[21:57:09] Pupa killed Bot01 using player
+[21:57:35] Pupa killed Bot01 using stunstick
+[21:57:54] Pupa killed Bot01 using player
+[21:58:02] Pupa killed Bot01 using player
+[21:58:07] Pupa killed Bot01 using player
+[21:58:13] Pupa killed Bot01 using player
+[21:58:25] Pupa killed Bot01 using player
+[21:58:45] Pupa killed Bot01 using player
+[21:58:52] Pupa killed Bot01 using player
+[21:58:58] Pupa killed Bot01 using player
+[21:59:06] Pupa killed Bot01 using player
+[21:59:18] Pupa killed Bot01 using player
+[22:00:10] Dropped "Pupa" from server<STEAM_0:0:99146775>
+[22:00:10] Dropped "Bot01" from server<BOT>

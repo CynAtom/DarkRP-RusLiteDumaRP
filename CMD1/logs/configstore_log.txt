@@ -1,0 +1,71 @@
+
+
+[2019-02-16 10:45:15] Failed to read store 'install' from 'F:\CMD1\config\config.vdf.tmp'
+[2019-02-16 10:45:15] Failed to read store 'install' from 'F:\CMD1\config\config.vdf.tmp'
+[2019-02-16 10:45:15] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+[2019-02-16 10:45:16] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+[2019-02-16 10:45:45] Loaded store 'install' from 'F:\CMD1\config\config.vdf' successfully
+[2019-02-16 10:45:47] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+[2019-02-16 10:45:47] Failed to read store 'userlocal' from 'F:\CMD1\userdata\anonymous\config\localconfig.vdf.tmp'
+[2019-02-16 10:45:48] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+[2019-02-16 10:46:42] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+[2019-02-16 10:46:43] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+[2019-02-16 10:47:14] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+[2019-02-16 10:47:44] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+[2019-02-16 10:48:14] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+[2019-02-16 10:48:44] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+[2019-02-16 10:49:14] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+[2019-02-16 10:49:44] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+[2019-02-16 10:50:14] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+[2019-02-16 10:50:44] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+[2019-02-16 10:51:14] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+[2019-02-16 10:51:44] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+[2019-02-16 10:52:14] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+[2019-02-16 10:52:44] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+
+
+[2019-02-16 16:49:24] Loaded store 'install' from 'F:\CMD1\config\config.vdf' successfully
+[2019-02-16 16:49:24] Loaded store 'install' from 'F:\CMD1\config\config.vdf' successfully
+
+
+[2019-02-16 16:49:53] Loaded store 'install' from 'F:\CMD1\config\config.vdf' successfully
+[2019-02-16 16:49:53] Loaded store 'install' from 'F:\CMD1\config\config.vdf' successfully
+[2019-02-16 16:50:04] Loaded store 'install' from 'F:\CMD1\config\config.vdf' successfully
+[2019-02-16 16:50:06] Failed to read store 'userlocal' from 'F:\CMD1\userdata\anonymous\config\localconfig.vdf.tmp'
+[2019-02-16 16:50:06] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+[2019-02-16 16:50:26] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+[2019-02-16 16:50:27] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+[2019-02-16 16:50:57] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+[2019-02-16 16:51:27] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+[2019-02-16 16:51:58] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+[2019-02-16 16:52:28] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+[2019-02-16 16:52:58] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+[2019-02-16 16:53:28] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+[2019-02-16 16:53:58] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+
+
+[2019-02-16 17:30:42] Loaded store 'install' from 'F:\CMD1\config\config.vdf' successfully
+[2019-02-16 17:30:42] Loaded store 'install' from 'F:\CMD1\config\config.vdf' successfully
+[2019-02-16 17:30:48] Loaded store 'install' from 'F:\CMD1\config\config.vdf' successfully
+[2019-02-16 17:30:49] Failed to read store 'userlocal' from 'F:\CMD1\userdata\anonymous\config\localconfig.vdf.tmp'
+[2019-02-16 17:30:50] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+
+
+[2019-02-19 21:07:58] Loaded store 'install' from 'F:\CMD1\config\config.vdf' successfully
+[2019-02-19 21:07:58] Loaded store 'install' from 'F:\CMD1\config\config.vdf' successfully
+[2019-02-19 21:08:09] Loaded store 'install' from 'F:\CMD1\config\config.vdf' successfully
+[2019-02-19 21:08:10] Failed to read store 'userlocal' from 'F:\CMD1\userdata\anonymous\config\localconfig.vdf.tmp'
+[2019-02-19 21:08:11] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+
+
+[2019-02-19 21:10:46] Loaded store 'install' from 'F:\CMD1\config\config.vdf' successfully
+[2019-02-19 21:10:46] Loaded store 'install' from 'F:\CMD1\config\config.vdf' successfully
+
+
+[2019-02-19 21:11:27] Loaded store 'install' from 'F:\CMD1\config\config.vdf' successfully
+[2019-02-19 21:11:27] Loaded store 'install' from 'F:\CMD1\config\config.vdf' successfully
+[2019-02-19 21:11:34] Loaded store 'install' from 'F:\CMD1\config\config.vdf' successfully
+[2019-02-19 21:11:37] Failed to read store 'userlocal' from 'F:\CMD1\userdata\anonymous\config\localconfig.vdf.tmp'
+[2019-02-19 21:11:37] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+[2019-02-19 21:12:20] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+[2019-02-19 21:13:20] Flushed store 'install' to 'F:\CMD1\config\config.vdf'

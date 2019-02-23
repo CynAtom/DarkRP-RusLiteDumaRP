@@ -1,0 +1,91 @@
+Wed Feb 20 18:35:27 2019	SelecT^^ (STEAM_0:0:99146775) has joined the game
+Wed Feb 20 18:35:28 2019	Pupa (STEAM_0:0:99146775) spawned
+Wed Feb 20 18:36:00 2019	Pupa (STEAM_0:0:99146775): /addmoney 1111111
+Wed Feb 20 18:36:10 2019	Pupa (STEAM_0:0:99146775): /addmoney Pupa 100000
+Wed Feb 20 18:36:11 2019	Pupa (STEAM_0:0:99146775) added 100,000$ to SelecT^^'s wallet
+Wed Feb 20 18:36:22 2019	Pupa (STEAM_0:0:99146775): /gundealer
+Wed Feb 20 18:36:38 2019	Pupa (STEAM_0:0:99146775): /buyshipment As Val
+Wed Feb 20 18:36:40 2019	Pupa (STEAM_0:0:99146775): /buyshipment ACR
+Wed Feb 20 18:36:48 2019	Pupa was killed by Himself with a suicide trick
+Wed Feb 20 18:36:49 2019	Pupa (STEAM_0:0:99146775) spawned
+Wed Feb 20 18:36:58 2019	Pupa (STEAM_0:0:99146775) disconnected
+Wed Feb 20 18:37:24 2019	SelecT^^ (STEAM_0:0:99146775) has joined the game
+Wed Feb 20 18:37:24 2019	Pupa (STEAM_0:0:99146775) spawned
+Wed Feb 20 18:39:24 2019	Pupa (STEAM_0:0:99146775): /votescp173
+Wed Feb 20 18:39:36 2019	Pupa was killed by Himself with a suicide trick
+Wed Feb 20 18:39:39 2019	Pupa (STEAM_0:0:99146775) spawned
+Wed Feb 20 18:39:55 2019	Pupa (STEAM_0:0:99146775): /omonsnip
+Wed Feb 20 18:40:01 2019	Pupa was killed by Himself with a suicide trick
+Wed Feb 20 18:40:03 2019	Pupa (STEAM_0:0:99146775) spawned
+Wed Feb 20 18:40:16 2019	Pupa (STEAM_0:0:99146775): /omonbul
+Wed Feb 20 18:40:19 2019	Pupa was killed by Himself with a suicide trick
+Wed Feb 20 18:40:21 2019	Pupa (STEAM_0:0:99146775) spawned
+Wed Feb 20 18:40:27 2019	Pupa was killed by Himself with a suicide trick
+Wed Feb 20 18:40:29 2019	Pupa (STEAM_0:0:99146775) spawned
+Wed Feb 20 18:40:41 2019	Pupa was killed by Himself with a suicide trick
+Wed Feb 20 18:40:42 2019	Pupa (STEAM_0:0:99146775) spawned
+Wed Feb 20 18:43:10 2019	Pupa was killed by Himself with a suicide trick
+Wed Feb 20 18:43:12 2019	Pupa (STEAM_0:0:99146775) spawned
+Wed Feb 20 18:52:12 2019	Pupa (STEAM_0:0:99146775): /buyshipment Glock
+Wed Feb 20 18:52:13 2019	Pupa (STEAM_0:0:99146775): /buyshipment Glock
+Wed Feb 20 18:52:14 2019	Pupa (STEAM_0:0:99146775): /buyshipment Glock
+Wed Feb 20 18:52:46 2019	Pupa (STEAM_0:0:99146775): 
+Wed Feb 20 18:53:17 2019	Bot01 (BOT) has joined the game
+Wed Feb 20 18:53:17 2019	Bot01 (BOT) spawned
+Wed Feb 20 18:53:27 2019	Bot01 was killed by Pupa with a m9k_m249lmg
+Wed Feb 20 18:53:28 2019	Bot01 (BOT) spawned
+Wed Feb 20 18:53:46 2019	Bot01 was killed by Pupa with a m9k_m249lmg
+Wed Feb 20 18:53:48 2019	Bot01 (BOT) spawned
+Wed Feb 20 18:53:52 2019	Bot01 was killed by Pupa with a m9k_m249lmg
+Wed Feb 20 18:53:53 2019	Bot01 (BOT) spawned
+Wed Feb 20 18:53:58 2019	Bot01 was killed by Pupa with a m9k_ak47
+Wed Feb 20 18:53:59 2019	Bot01 (BOT) spawned
+Wed Feb 20 18:54:05 2019	Bot01 was killed by Pupa with a m9k_tar21
+Wed Feb 20 18:54:06 2019	Bot01 (BOT) spawned
+Wed Feb 20 18:54:18 2019	Bot01 was killed by Pupa with a m9k_aw50
+Wed Feb 20 18:54:19 2019	Bot01 (BOT) spawned
+Wed Feb 20 19:56:25 2019	Bot01 was killed by Pupa with a m9k_colt1911
+Wed Feb 20 19:56:26 2019	Bot01 (BOT) spawned
+Wed Feb 20 19:56:31 2019	Bot01 was killed by Pupa with a m9k_colt1911
+Wed Feb 20 19:56:32 2019	Bot01 (BOT) spawned
+Wed Feb 20 19:56:40 2019	Bot01 was killed by Pupa with a m9k_deagle
+Wed Feb 20 19:56:41 2019	Bot01 (BOT) spawned
+Wed Feb 20 19:56:45 2019	Bot01 was killed by Pupa with a m9k_deagle
+Wed Feb 20 19:56:46 2019	Bot01 (BOT) spawned
+Wed Feb 20 19:56:54 2019	Bot01 was killed by Pupa with a m9k_deagle
+Wed Feb 20 19:56:55 2019	Bot01 (BOT) spawned
+Wed Feb 20 19:57:08 2019	Pupa (STEAM_0:0:99146775): /buyammo pistol
+Wed Feb 20 19:57:09 2019	Pupa (STEAM_0:0:99146775): /buyammo pistol
+Wed Feb 20 19:57:10 2019	Pupa (STEAM_0:0:99146775): /buyammo pistol
+Wed Feb 20 19:57:11 2019	Pupa (STEAM_0:0:99146775): /buyammo pistol
+Wed Feb 20 19:57:20 2019	Pupa (STEAM_0:0:99146775): /buyammo smg
+Wed Feb 20 19:57:24 2019	Pupa (STEAM_0:0:99146775): /buyammo sniper_rounds
+Wed Feb 20 19:57:57 2019	Pupa (STEAM_0:0:99146775): /buyammo pistol
+Wed Feb 20 19:58:10 2019	Bot01 was killed by Pupa with a m9k_coltpython
+Wed Feb 20 19:58:11 2019	Bot01 (BOT) spawned
+Wed Feb 20 19:58:19 2019	Bot01 was killed by Pupa with a m9k_smgp90
+Wed Feb 20 19:58:20 2019	Bot01 (BOT) spawned
+Wed Feb 20 19:58:29 2019	Bot01 was killed by Pupa with a m9k_mp5sd
+Wed Feb 20 19:58:30 2019	Bot01 (BOT) spawned
+Wed Feb 20 19:58:34 2019	Bot01 was killed by Pupa with a m9k_mp5sd
+Wed Feb 20 19:58:35 2019	Bot01 (BOT) spawned
+Wed Feb 20 19:58:40 2019	Pupa (STEAM_0:0:99146775): /buyammo smg
+Wed Feb 20 19:58:49 2019	Pupa (STEAM_0:0:99146775): /buyammo smg
+Wed Feb 20 19:59:00 2019	Pupa (STEAM_0:0:99146775): /buyammo ar2
+Wed Feb 20 19:59:06 2019	Pupa (STEAM_0:0:99146775): /buyammo sniper_rounds
+Wed Feb 20 19:59:24 2019	Pupa (STEAM_0:0:99146775): /buyammo ar2
+Wed Feb 20 19:59:27 2019	Pupa (STEAM_0:0:99146775): /buyammo sniper_rounds
+Wed Feb 20 19:59:44 2019	Bot01 was killed by Pupa with a m9k_barret_m82
+Wed Feb 20 19:59:45 2019	Bot01 (BOT) spawned
+Wed Feb 20 19:59:56 2019	Bot01 was killed by Pupa with a m9k_striker12
+Wed Feb 20 19:59:57 2019	Bot01 (BOT) spawned
+Wed Feb 20 20:00:04 2019	Bot01 was killed by Pupa with a m9k_spas12
+Wed Feb 20 20:00:05 2019	Bot01 (BOT) spawned
+Wed Feb 20 20:00:26 2019	Bot01 was killed by Pupa with a m9k_spas12
+Wed Feb 20 20:00:27 2019	Bot01 (BOT) spawned
+Wed Feb 20 20:00:35 2019	Pupa was killed by Entity [0][worldspawn] with a unknown
+Wed Feb 20 20:00:36 2019	Pupa (STEAM_0:0:99146775) spawned
+Wed Feb 20 20:01:52 2019	Pupa (STEAM_0:0:99146775): /buyammo smg
+Wed Feb 20 20:03:47 2019	Pupa (STEAM_0:0:99146775): /buyammo pistol
+Wed Feb 20 20:05:36 2019	Pupa (STEAM_0:0:99146775) disconnected
+Wed Feb 20 20:05:36 2019	Bot01 (BOT) disconnected

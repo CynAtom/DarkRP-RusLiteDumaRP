@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "models/player/guard_pack/dark_eyeball_l"
+	"$iris" "models/player/guard_pack/pupil_l"
+	"$halflambert" 1
+}

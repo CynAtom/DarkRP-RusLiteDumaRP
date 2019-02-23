@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/bigsmoke/smoke_hat"
+	"$nocull" 1
+}

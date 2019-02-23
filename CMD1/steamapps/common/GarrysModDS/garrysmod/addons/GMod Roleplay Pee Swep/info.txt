@@ -1,0 +1,23 @@
+"AddonInfo"
+{
+	"name" "GMod Roleplay Pee Swep"
+	"author_name" "author"
+	"info" "This is a fun little SWEP or Weapon i made on free time. Bascially you just pee. Comic fun really.
+Can be used for Roleplay or trolling. Enjoy
+
+How does it work?
+Left Click = Pee
+Right Click = Talk
+
+Yes you can use it in your servers just do not reupload this in any way shape or form.
+Can be used for - 
+DarkRP
+Sandbox
+Really anything
+
+Credits 
+Buzzofwar = Coding and everything
+Valve = Sounds and Engine
+
+Copyrights 2014, june, 19. All rights Are Owned to Buzzofwar. Copying any of the fallowing files will be going against Steam Agreement Forms."
+}

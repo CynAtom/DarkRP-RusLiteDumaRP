@@ -1,0 +1,13 @@
+"AddonInfo"
+{
+	"name" "Resident Evil 2 Remake - Hunk [PM, NPC, Ragdoll]"
+	"author_name" "Author Name"
+	"info" "{
+	"description": "Description",
+	"type": "model",
+	"tags": [
+		"realism",
+		"scenic"
+	]
+}"
+}

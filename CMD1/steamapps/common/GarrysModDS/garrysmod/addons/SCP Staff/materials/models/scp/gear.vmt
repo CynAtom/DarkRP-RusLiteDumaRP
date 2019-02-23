@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\scp/gear"
+	"$bumpmap" "models\scp/gear_bump"
+	"$halflambert" "1"
+}

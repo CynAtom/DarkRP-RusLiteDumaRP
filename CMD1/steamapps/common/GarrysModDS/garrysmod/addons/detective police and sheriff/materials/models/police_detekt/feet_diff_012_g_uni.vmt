@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\police_detekt/feet_diff_012_g_uni"
+                "$bumpmap"     "models\police_detekt/feet_diff_012_g_uni_normal"
+}

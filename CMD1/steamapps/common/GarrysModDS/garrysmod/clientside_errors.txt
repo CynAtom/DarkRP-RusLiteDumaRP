@@ -1,0 +1,625 @@
+SelecT^^|2|STEAM_0:0:99146775
+
+[ERROR] addons/darkrpmodification/lua/darkrp_customthings/jobs.lua:150: '}' expected (to close '{' at line 148) near '"models/player/guard_pack/guard_02.mdl"'
+  1. unknown - addons/darkrpmodification/lua/darkrp_customthings/jobs.lua:0
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:23: attempt to index local 'jobTable' (a nil value)
+  1. Call - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:23
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:23: attempt to index local 'jobTable' (a nil value)
+  1. Call - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:23
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:23: attempt to index local 'jobTable' (a nil value)
+  1. Call - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:23
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:23: attempt to index local 'jobTable' (a nil value)
+  1. Call - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:23
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:23: attempt to index local 'jobTable' (a nil value)
+  1. Call - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:23
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[ERROR] addons/darkrpmodification/lua/darkrp_customthings/jobs.lua:150: '}' expected (to close '{' at line 148) near '"models/player/guard_pack/guard_02.mdl"'
+  1. unknown - addons/darkrpmodification/lua/darkrp_customthings/jobs.lua:0
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:23: attempt to index local 'jobTable' (a nil value)
+  1. Call - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:23
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+ERROR
+The condition of chat command "addjailpos" threw an error:
+gamemodes/darkrp/gamemode/libraries/fn.lua:252: attempt to index local 'xs' (a nil value)
+
+If this is the command of a custom job, you probably did something wrong when making it.
+
+
+SelecT^^|2|STEAM_0:0:99146775
+ERROR
+The condition of chat command "addlaw" threw an error:
+gamemodes/darkrp/gamemode/libraries/fn.lua:252: attempt to index local 'xs' (a nil value)
+
+If this is the command of a custom job, you probably did something wrong when making it.
+
+
+SelecT^^|2|STEAM_0:0:99146775
+ERROR
+The condition of chat command "broadcast" threw an error:
+gamemodes/darkrp/gamemode/libraries/fn.lua:252: attempt to index local 'xs' (a nil value)
+
+If this is the command of a custom job, you probably did something wrong when making it.
+
+
+SelecT^^|2|STEAM_0:0:99146775
+ERROR
+The condition of chat command "givelicense" threw an error:
+gamemodes/darkrp/gamemode/libraries/fn.lua:252: attempt to index local 'xs' (a nil value)
+
+If this is the command of a custom job, you probably did something wrong when making it.
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[ERROR] addons/darkrpmodification/lua/darkrp_customthings/jobs.lua:150: '}' expected (to close '{' at line 148) near '"models/player/guard_pack/guard_02.mdl"'
+  1. unknown - addons/darkrpmodification/lua/darkrp_customthings/jobs.lua:0
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[ERROR] addons/darkrpmodification/lua/darkrp_customthings/jobs.lua:150: '}' expected (to close '{' at line 148) near '"models/player/guard_pack/guard_02.mdl"'
+  1. unknown - addons/darkrpmodification/lua/darkrp_customthings/jobs.lua:0
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:27: attempt to call field 'toggleF4Menu' (a nil value)
+  1. Call - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:27
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:27: attempt to call field 'toggleF4Menu' (a nil value)
+  1. Call - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:27
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:27: attempt to call field 'toggleF4Menu' (a nil value)
+  1. Call - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:27
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:27: attempt to call field 'toggleF4Menu' (a nil value)
+  1. Call - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:27
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:27: attempt to call field 'toggleF4Menu' (a nil value)
+  1. Call - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:27
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:27: attempt to call field 'toggleF4Menu' (a nil value)
+  1. Call - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:27
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:27: attempt to call field 'toggleF4Menu' (a nil value)
+  1. Call - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:27
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[ERROR] lua/includes/modules/draw.lua:137: '' isn't a valid font
+
+  1. SetFont - [C]:-1
+   2. DrawText - lua/includes/modules/draw.lua:137
+    3. unknown - addons/darkrpmodification/lua/darkrp_modules/tcb_f4menu/cl_frame.lua:166
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[ERROR] lua/includes/modules/draw.lua:137: '' isn't a valid font
+
+  1. SetFont - [C]:-1
+   2. DrawText - lua/includes/modules/draw.lua:137
+    3. unknown - addons/darkrpmodification/lua/darkrp_modules/tcb_f4menu/cl_frame.lua:166
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[ERROR] lua/includes/modules/draw.lua:137: '' isn't a valid font
+
+  1. SetFont - [C]:-1
+   2. DrawText - lua/includes/modules/draw.lua:137
+    3. unknown - addons/darkrpmodification/lua/darkrp_modules/tcb_f4menu/cl_frame.lua:166
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[ERROR] lua/includes/modules/draw.lua:137: '' isn't a valid font
+
+  1. SetFont - [C]:-1
+   2. DrawText - lua/includes/modules/draw.lua:137
+    3. unknown - addons/darkrpmodification/lua/darkrp_modules/tcb_f4menu/cl_frame.lua:166
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[ERROR] lua/includes/modules/draw.lua:137: '' isn't a valid font
+
+  1. SetFont - [C]:-1
+   2. DrawText - lua/includes/modules/draw.lua:137
+    3. unknown - addons/darkrpmodification/lua/darkrp_modules/tcb_f4menu/cl_frame.lua:166
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[ERROR] lua/includes/modules/draw.lua:137: '' isn't a valid font
+
+  1. SetFont - [C]:-1
+   2. DrawText - lua/includes/modules/draw.lua:137
+    3. unknown - addons/darkrpmodification/lua/darkrp_modules/tcb_f4menu/cl_frame.lua:166
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[ERROR] lua/includes/modules/draw.lua:137: '' isn't a valid font
+
+  1. SetFont - [C]:-1
+   2. DrawText - lua/includes/modules/draw.lua:137
+    3. unknown - addons/darkrpmodification/lua/darkrp_modules/tcb_f4menu/cl_frame.lua:166
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+SetFontInternal: font doesn't exist (fontclose)
+
+
+SelecT^^|2|STEAM_0:0:99146775
+SetFontInternal: font doesn't exist (fontclose)
+
+
+SelecT^^|3|STEAM_0:0:99146775
+
+[ERROR] addons/elitef4menu/lua/autorun/client/elite_dashboard.lua:148: ')' expected near 'RP_SubFontThick'
+  1. unknown - addons/elitef4menu/lua/autorun/client/elite_dashboard.lua:0
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[ERROR] addons/elitef4menu/lua/autorun/client/elite_dashboard.lua:148: ')' expected near 'RP_SubFontThick'
+  1. unknown - addons/elitef4menu/lua/autorun/client/elite_dashboard.lua:0
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] addons/elitef4menu/lua/autorun/client/elite_main.lua:259: attempt to call global 'LoadHomePanel' (a nil value)
+  1. Call - addons/elitef4menu/lua/autorun/client/elite_main.lua:259
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] addons/elitef4menu/lua/autorun/client/elite_main.lua:259: attempt to call global 'LoadHomePanel' (a nil value)
+  1. Call - addons/elitef4menu/lua/autorun/client/elite_main.lua:259
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] addons/elitef4menu/lua/autorun/client/elite_main.lua:259: attempt to call global 'LoadHomePanel' (a nil value)
+  1. Call - addons/elitef4menu/lua/autorun/client/elite_main.lua:259
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[ERROR] addons/elitef4menu/lua/autorun/client/elite_main.lua:104: attempt to call global 'LoadHomePanel' (a nil value)
+  1. Func - addons/elitef4menu/lua/autorun/client/elite_main.lua:104
+   2. DoClick - addons/elitef4menu/lua/autorun/client/elite_main.lua:245
+    3. unknown - lua/vgui/dlabel.lua:232
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[ERROR] addons/elitef4menu/lua/autorun/client/elite_main.lua:104: attempt to call global 'LoadHomePanel' (a nil value)
+  1. Func - addons/elitef4menu/lua/autorun/client/elite_main.lua:104
+   2. DoClick - addons/elitef4menu/lua/autorun/client/elite_main.lua:245
+    3. unknown - lua/vgui/dlabel.lua:232
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[ERROR] addons/elitef4menu/lua/autorun/client/elite_main.lua:104: attempt to call global 'LoadHomePanel' (a nil value)
+  1. Func - addons/elitef4menu/lua/autorun/client/elite_main.lua:104
+   2. DoClick - addons/elitef4menu/lua/autorun/client/elite_main.lua:245
+    3. unknown - lua/vgui/dlabel.lua:232
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[ERROR] addons/elitef4menu/lua/autorun/client/elite_main.lua:104: attempt to call global 'LoadHomePanel' (a nil value)
+  1. Func - addons/elitef4menu/lua/autorun/client/elite_main.lua:104
+   2. DoClick - addons/elitef4menu/lua/autorun/client/elite_main.lua:245
+    3. unknown - lua/vgui/dlabel.lua:232
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[ERROR] addons/elitef4menu/lua/autorun/client/elite_main.lua:104: attempt to call global 'LoadHomePanel' (a nil value)
+  1. Func - addons/elitef4menu/lua/autorun/client/elite_main.lua:104
+   2. DoClick - addons/elitef4menu/lua/autorun/client/elite_main.lua:245
+    3. unknown - lua/vgui/dlabel.lua:232
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[ERROR] addons/elitef4menu/lua/autorun/client/elite_main.lua:104: attempt to call global 'LoadHomePanel' (a nil value)
+  1. Func - addons/elitef4menu/lua/autorun/client/elite_main.lua:104
+   2. DoClick - addons/elitef4menu/lua/autorun/client/elite_main.lua:245
+    3. unknown - lua/vgui/dlabel.lua:232
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] addons/elitef4menu/lua/autorun/client/elite_main.lua:259: attempt to call global 'LoadHomePanel' (a nil value)
+  1. Call - addons/elitef4menu/lua/autorun/client/elite_main.lua:259
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] addons/elitef4menu/lua/autorun/client/elite_main.lua:259: attempt to call global 'LoadHomePanel' (a nil value)
+  1. Call - addons/elitef4menu/lua/autorun/client/elite_main.lua:259
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] addons/elitef4menu/lua/autorun/client/elite_main.lua:259: attempt to call global 'LoadHomePanel' (a nil value)
+  1. Call - addons/elitef4menu/lua/autorun/client/elite_main.lua:259
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[ERROR] addons/elitef4menu/lua/autorun/client/elite_main.lua:104: attempt to call global 'LoadHomePanel' (a nil value)
+  1. Func - addons/elitef4menu/lua/autorun/client/elite_main.lua:104
+   2. DoClick - addons/elitef4menu/lua/autorun/client/elite_main.lua:245
+    3. unknown - lua/vgui/dlabel.lua:232
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+SetFontInternal: font doesn't exist (fontclose)
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] addons/elitef4menu/lua/autorun/client/elite_main.lua:259: attempt to call global 'LoadHomePanel' (a nil value)
+  1. Call - addons/elitef4menu/lua/autorun/client/elite_main.lua:259
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[ERROR] addons/elitef4menu/lua/autorun/client/elite_dashboard.lua:148: ')' expected near 'RP_SubFontThick'
+  1. unknown - addons/elitef4menu/lua/autorun/client/elite_dashboard.lua:0
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] addons/elitef4menu/lua/autorun/client/elite_main.lua:259: attempt to call global 'LoadHomePanel' (a nil value)
+  1. Call - addons/elitef4menu/lua/autorun/client/elite_main.lua:259
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] addons/elitef4menu/lua/autorun/client/elite_main.lua:259: attempt to call global 'LoadHomePanel' (a nil value)
+  1. Call - addons/elitef4menu/lua/autorun/client/elite_main.lua:259
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] addons/elitef4menu/lua/autorun/client/elite_main.lua:259: attempt to call global 'LoadHomePanel' (a nil value)
+  1. Call - addons/elitef4menu/lua/autorun/client/elite_main.lua:259
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+SetFontInternal: font doesn't exist (fontclose)
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] addons/elitef4menu/lua/autorun/client/elite_main.lua:259: attempt to call global 'LoadHomePanel' (a nil value)
+  1. Call - addons/elitef4menu/lua/autorun/client/elite_main.lua:259
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] addons/elitef4menu/lua/autorun/client/elite_main.lua:259: attempt to call global 'LoadHomePanel' (a nil value)
+  1. Call - addons/elitef4menu/lua/autorun/client/elite_main.lua:259
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] addons/elitef4menu/lua/autorun/client/elite_main.lua:259: attempt to call global 'LoadHomePanel' (a nil value)
+  1. Call - addons/elitef4menu/lua/autorun/client/elite_main.lua:259
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] addons/elitef4menu/lua/autorun/client/elite_main.lua:259: attempt to call global 'LoadHomePanel' (a nil value)
+  1. Call - addons/elitef4menu/lua/autorun/client/elite_main.lua:259
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] addons/elitef4menu/lua/autorun/client/elite_main.lua:259: attempt to call global 'LoadHomePanel' (a nil value)
+  1. Call - addons/elitef4menu/lua/autorun/client/elite_main.lua:259
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+SetFontInternal: font doesn't exist (fontclose)
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] addons/elitef4menu/lua/autorun/client/elite_main.lua:259: attempt to call global 'LoadHomePanel' (a nil value)
+  1. Call - addons/elitef4menu/lua/autorun/client/elite_main.lua:259
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] addons/elitef4menu/lua/autorun/client/elite_main.lua:259: attempt to call global 'LoadHomePanel' (a nil value)
+  1. Call - addons/elitef4menu/lua/autorun/client/elite_main.lua:259
+   2. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:62
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+SetFontInternal: font doesn't exist (fontclose)
+
+
+SelecT^^|2|STEAM_0:0:99146775
+SetFontInternal: font doesn't exist (fontclose)
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[DarkRP] A runtime error has occurred in "addons/darkrpmodification/lua/darkrp_customthings/jobs.lua" on line 21.
+The best help I can give you is this:
+
+Corrupt team: Администратор!
+The model must either be a table of correct model strings or a single correct model string.
+
+Hints:
+	- This error could happens when the model does not exist on the server.
+	- Are you sure the model path is right?
+	- Is the model from an addon that is not properly installed?
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. addons/darkrpmodification/lua/darkrp_customthings/jobs.lua on line 21
+	2. function 'doInclude'
+	3. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 138
+	4. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 149
+	5. gamemodes/darkrp/gamemode/cl_init.lua on line 56
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:530
+    3. createJob - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:417
+     4. unknown - addons/darkrpmodification/lua/darkrp_customthings/jobs.lua:21
+      5. doInclude - [C]:-1
+       6. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+        7. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+         8. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[ERROR] addons/darkrpmodification/lua/darkrp_customthings/jobs.lua:138: '}' expected (to close '{' at line 135) near 'description'
+  1. unknown - addons/darkrpmodification/lua/darkrp_customthings/jobs.lua:0
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[ERROR] addons/darkrpmodification/lua/darkrp_customthings/jobs.lua:138: '}' expected (to close '{' at line 135) near 'description'
+  1. unknown - addons/darkrpmodification/lua/darkrp_customthings/jobs.lua:0
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[ERROR] addons/darkrpmodification/lua/darkrp_customthings/jobs.lua:118: '}' expected (to close '{' at line 115) near 'description'
+  1. unknown - addons/darkrpmodification/lua/darkrp_customthings/jobs.lua:0
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+SetFontInternal: font doesn't exist (fontclose)
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[ERROR] addons/darkrpmodification/lua/darkrp_customthings/jobs.lua:317: '}' expected (to close '{' at line 314) near 'description'
+  1. unknown - addons/darkrpmodification/lua/darkrp_customthings/jobs.lua:0
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[ERROR] addons/darkrpmodification/lua/darkrp_customthings/doorgroups.lua:1: unfinished string near '")'
+  1. unknown - addons/darkrpmodification/lua/darkrp_customthings/doorgroups.lua:0
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[ERROR] addons/darkrpmodification/lua/darkrp_customthings/doorgroups.lua:1: unfinished string near '"), '
+  1. unknown - addons/darkrpmodification/lua/darkrp_customthings/doorgroups.lua:0
+
+
+
+SelecT^^|3|STEAM_0:0:99146775
+
+[ERROR] addons/darkrpmodification/lua/darkrp_customthings/doorgroups.lua:1: unfinished string near '"), '
+  1. unknown - addons/darkrpmodification/lua/darkrp_customthings/doorgroups.lua:0
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+SetFontInternal: font doesn't exist (fontclose)
+
+
+SelecT^^|2|STEAM_0:0:99146775
+SetFontInternal: font doesn't exist (fontclose)
+
+
+SelecT^^|2|STEAM_0:0:99146775
+SetFontInternal: font doesn't exist (fontclose)
+
+
+SelecT^^|3|STEAM_0:0:99146775
+SetFontInternal: font doesn't exist (fontclose)
+
+
+SelecT^^|2|STEAM_0:0:99146775
+SetFontInternal: font doesn't exist (fontclose)
+
+
+SelecT^^|2|STEAM_0:0:99146775
+SetFontInternal: font doesn't exist (fontclose)
+
+
+SelecT^^|2|STEAM_0:0:99146775
+SetFontInternal: font doesn't exist (fontclose)
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[ERROR] addons/darkrpmodification/lua/darkrp_customthings/jobs.lua:334: 'end' expected (to close 'function' at line 333) near '='
+  1. unknown - addons/darkrpmodification/lua/darkrp_customthings/jobs.lua:0
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+
+[ERROR] addons/darkrpmodification/lua/darkrp_customthings/jobs.lua:334: 'end' expected (to close 'function' at line 333) near '='
+  1. unknown - addons/darkrpmodification/lua/darkrp_customthings/jobs.lua:0
+
+
+
+SelecT^^|2|STEAM_0:0:99146775
+SetFontInternal: font doesn't exist (fontclose)
+
+
+SelecT^^|2|STEAM_0:0:99146775
+SetFontInternal: font doesn't exist (fontclose)
+
+
+SelecT^^|2|STEAM_0:0:99146775
+SetFontInternal: font doesn't exist (fontclose)
+
+
+SelecT^^|2|STEAM_0:0:99146775
+SetFontInternal: font doesn't exist (fontclose)
+
+

@@ -1,0 +1,89 @@
+[14:05:13] New map: rp_bangclaw
+[14:05:23] Client "SelecT^^" connected.
+[14:06:06] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 43 seconds).
+[14:06:38] Pupa: /coop
+[14:07:10] Pupa: /omon
+[14:09:25] Dropped "Pupa" from server<STEAM_0:0:99146775>
+
+
+
+[16:18:18] New map: rp_bangclaw
+[16:18:35] Client "SelecT^^" connected.
+[16:18:50] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 15 seconds).
+[16:20:32] Pupa: /gundealer
+[16:24:32] Pupa: /citizen
+[16:32:28] Dropped "Pupa" from server<STEAM_0:0:99146775>
+
+
+
+[16:36:02] New map: rp_bangclaw
+[16:36:30] Client "SelecT^^" connected.
+[16:36:50] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 20 seconds).
+[16:38:05] Pupa: /gundealer
+[16:39:47] Dropped "Pupa" from server<STEAM_0:0:99146775>
+
+
+
+[16:51:06] New map: rp_bangclaw
+[17:17:59] Client "SelecT^^" connected.
+[17:19:12] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 73 seconds).
+[17:25:34] Dropped "Pupa" from server<STEAM_0:0:99146775>
+[19:04:57] Client "SelecT^^" connected.
+[19:05:38] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 41 seconds).
+[19:13:12] Pupa: /// Мне нужна помощь администрации
+[19:13:14] Pupa: /// Мне нужна помощь администрации
+[19:13:15] Pupa: /// Мне нужна помощь администрации
+[19:13:16] Pupa: /// Мне нужна помощь администрации
+[19:13:17] Pupa: /// Мне нужна помощь администрации
+[19:13:18] Pupa: /// Мне нужна помощь администрации
+[19:13:36] Dropped "Pupa" from server<STEAM_0:0:99146775>
+
+
+
+[19:59:04] New map: rp_bangclaw
+[19:59:19] Client "SelecT^^" connected.
+[20:01:10] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 111 seconds).
+[20:03:13] Pupa: /scp1
+[20:03:58] Pupa: /sec
+[20:04:25] Pupa: /votemayor
+[20:04:58] Dropped "Pupa" from server<STEAM_0:0:99146775>
+
+
+
+[20:11:01] New map: rp_bangclaw
+[20:12:27] Client "SelecT^^" connected.
+[20:14:16] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 109 seconds).
+[20:15:40] Pupa: /Hobo
+[20:16:41] Pupa: /votemayor
+[20:17:23] Pupa: /coop
+[20:17:48] Pupa: /votescp1
+[20:18:20] Pupa: /votescp1
+[20:18:57] Pupa: /citizen
+[20:19:20] Pupa: /coop
+[20:20:31] Dropped "Pupa" from server<STEAM_0:0:99146775>
+
+
+
+[20:50:46] New map: rp_bangclaw
+[20:51:26] Client "SelecT^^" connected.
+[20:52:37] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 71 seconds).
+[20:54:08] Pupa: /votescp173
+[20:56:55] Pupa<STEAM_0:0:99146775> spawned model models/props_c17/furniturefridge001a.mdl
+[20:57:40] Pupa: /votescp1
+[20:58:05] Pupa: /votescpmed
+[20:58:13] Dropped "Pupa" from server<STEAM_0:0:99146775>
+
+
+
+[21:06:36] New map: rp_bangclaw
+
+
+
+[21:51:16] New map: rp_bangclaw
+[21:51:48] Client "SelecT^^" connected.
+[21:53:23] Client "SelecT^^" spawned in server <STEAM_0:0:99146775> (took 95 seconds).
+[21:55:15] Pupa: /scp1
+[21:57:13] (Console) created group PUPA which inherits rights from group superadmin
+[21:58:56] Pupa: /votescpcom
+[22:04:27] Pupa: /mayor
+[22:13:08] Dropped "Pupa" from server<STEAM_0:0:99146775>

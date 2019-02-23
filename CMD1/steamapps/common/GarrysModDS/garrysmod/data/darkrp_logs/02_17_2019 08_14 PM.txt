@@ -1,0 +1,11 @@
+Sun Feb 17 20:14:16 2019	SelecT^^ (STEAM_0:0:99146775) has joined the game
+Sun Feb 17 20:14:18 2019	Pupa (STEAM_0:0:99146775) spawned
+Sun Feb 17 20:15:40 2019	Pupa (STEAM_0:0:99146775): /Hobo
+Sun Feb 17 20:16:41 2019	Pupa (STEAM_0:0:99146775): /votemayor
+Sun Feb 17 20:17:23 2019	Pupa (STEAM_0:0:99146775): /coop
+Sun Feb 17 20:17:48 2019	Pupa (STEAM_0:0:99146775): /votescp1
+Sun Feb 17 20:18:20 2019	Pupa (STEAM_0:0:99146775): /votescp1
+Sun Feb 17 20:18:57 2019	Pupa (STEAM_0:0:99146775): /citizen
+Sun Feb 17 20:19:20 2019	Pupa (STEAM_0:0:99146775): /coop
+Sun Feb 17 20:19:28 2019	Pupa объявил Pupa в розыск, причина: 123123
+Sun Feb 17 20:20:31 2019	Pupa (STEAM_0:0:99146775) disconnected

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/GrandTheftAuto5/Michael/arms"
+	"$bumpmap" "models/GrandTheftAuto5/Michael/arms_normal"
+}

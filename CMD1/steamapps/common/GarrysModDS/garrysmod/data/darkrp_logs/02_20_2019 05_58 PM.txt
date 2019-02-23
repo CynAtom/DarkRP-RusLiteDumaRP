@@ -1,0 +1,22 @@
+Wed Feb 20 17:58:22 2019	SelecT^^ (STEAM_0:0:99146775) has joined the game
+Wed Feb 20 17:58:23 2019	Pupa (STEAM_0:0:99146775) spawned
+Wed Feb 20 17:59:21 2019	Pupa (STEAM_0:0:99146775): /scpspec
+Wed Feb 20 17:59:28 2019	Pupa (STEAM_0:0:99146775): /drop
+Wed Feb 20 17:59:33 2019	Pupa (STEAM_0:0:99146775): /drop
+Wed Feb 20 17:59:39 2019	Pupa (STEAM_0:0:99146775): /omoncom
+Wed Feb 20 17:59:43 2019	Pupa (STEAM_0:0:99146775): /drop
+Wed Feb 20 18:00:33 2019	Pupa (STEAM_0:0:99146775): /drop
+Wed Feb 20 18:00:45 2019	Pupa (STEAM_0:0:99146775): /addmoney Pupa 80000
+Wed Feb 20 18:00:45 2019	Pupa (STEAM_0:0:99146775) added $80,000 to SelecT^^'s wallet
+Wed Feb 20 18:01:11 2019	Pupa (STEAM_0:0:99146775): /gundealer
+Wed Feb 20 18:01:21 2019	Pupa (STEAM_0:0:99146775): /buyshipment An-94 (Abakan)
+Wed Feb 20 18:01:26 2019	Pupa (STEAM_0:0:99146775): /buyshipment Ak-74
+Wed Feb 20 18:01:48 2019	Pupa (STEAM_0:0:99146775): /drop
+Wed Feb 20 18:01:58 2019	Pupa (STEAM_0:0:99146775): /buyammo ar2
+Wed Feb 20 18:02:00 2019	Pupa (STEAM_0:0:99146775): /buyammo ar2
+Wed Feb 20 18:11:18 2019	Pupa (STEAM_0:0:99146775): /kaz
+Wed Feb 20 18:11:47 2019	Pupa (STEAM_0:0:99146775): /mayor
+Wed Feb 20 18:11:56 2019	Pupa was killed by Himself with a suicide trick
+Wed Feb 20 18:11:59 2019	Pupa (STEAM_0:0:99146775) spawned
+Wed Feb 20 18:13:16 2019	Pupa was killed by Entity [0][worldspawn] with a unknown
+Wed Feb 20 18:13:21 2019	Pupa (STEAM_0:0:99146775) spawned

@@ -1,0 +1,30 @@
+"AddonInfo"
+{
+	"name" "(Ready Or Not) Swat Operator PM/Ragdoll"
+	"author_name" "author"
+	"info" "[i]"In the United States, a SWAT (Special Weapons And Tactics) team is a law enforcement unit which uses specialized or military equipment and tactics. First created in the 1960s to handle riot control or violent confrontations with criminals, the number and usage of SWAT teams increased in the 1980s and 1990s during the War on Drugs and later in the aftermath of the September 11 attacks. In the United States as of 2005, SWAT teams were deployed 50,000 times every year, almost 80% of the time to serve search warrants, most often for narcotics. SWAT teams are increasingly equipped with military-type hardware and trained to deploy against threats of terrorism, for crowd control, and in situations beyond the capabilities of ordinary law enforcement, sometimes deemed "high-risk."[/i]
+
+Contains: 
+
+- 1 Ragdoll
+
+- 1 Playermodel
+
+- Bodygroups
+
+- Viewmodel Hands
+
+- Finger Posing
+
+- Face Posing
+
+A re-texture of omgwtfbbq's Original Playermodel
+
+Original Playermodel: 
+http://steamcommunity.com/sharedfiles/filedetails/?id=736231786&searchtext=monarch
+
+Omgwtfbbq Workshop:
+http://steamcommunity.com/id/omgwtfbbq2leet4u/myworkshopfiles/?appid=4000
+
+*The original playermodel can conflict, so only download one at a time, its my first re skin, so I'll continue working on this.*"
+}

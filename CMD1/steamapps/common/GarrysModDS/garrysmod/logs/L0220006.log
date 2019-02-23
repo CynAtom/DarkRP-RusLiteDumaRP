@@ -1,0 +1,386 @@
+L 02/20/2019 - 18:34:34: Log file started (file "logs\L0220006.log") (game "F:\CMD1\steamapps\common\GarrysModDS\garrysmod") (version "7402")
+L 02/20/2019 - 18:34:34: server_cvar: "sbox_noclip" "0"
+L 02/20/2019 - 18:34:34: server_cvar: "sbox_maxprops" "150"
+L 02/20/2019 - 18:34:34: server_cvar: "sbox_maxragdolls" "0"
+L 02/20/2019 - 18:34:34: server_cvar: "sbox_maxnpcs" "0"
+L 02/20/2019 - 18:34:34: server_cvar: "sbox_maxballoons" "0"
+L 02/20/2019 - 18:34:34: server_cvar: "sbox_maxeffects" "0"
+L 02/20/2019 - 18:34:34: server_cvar: "sbox_maxdynamite" "0"
+L 02/20/2019 - 18:34:34: server_cvar: "sbox_maxlamps" "5"
+L 02/20/2019 - 18:34:34: server_cvar: "sbox_maxthrusters" "0"
+L 02/20/2019 - 18:34:34: server_cvar: "sbox_maxwheels" "0"
+L 02/20/2019 - 18:34:34: server_cvar: "sbox_maxhoverballs" "0"
+L 02/20/2019 - 18:34:34: server_cvar: "sbox_maxvehicles" "0"
+L 02/20/2019 - 18:34:34: server_cvar: "sbox_maxbuttons" "4"
+L 02/20/2019 - 18:34:34: server_cvar: "sbox_maxsents" "0"
+L 02/20/2019 - 18:34:34: server_cvar: "sbox_maxemitters" "0"
+L 02/20/2019 - 18:34:34: server_cvar: "sv_allowcslua" "1"
+L 02/20/2019 - 18:34:34: server_cvar: "sv_airaccelerate" "1000"
+L 02/20/2019 - 18:34:36: Connection to Steam servers successful.
+L 02/20/2019 - 18:34:36:    Public IP is 77.45.174.241.
+L 02/20/2019 - 18:34:36: Assigned anonymous gameserver Steam ID [A-1:364509190(12041)].
+L 02/20/2019 - 18:34:37: VAC secure mode is activated.
+L 02/20/2019 - 18:35:00: "SelecT^^<2><STEAM_0:0:99146775><>" connected, address "192.168.1.68:27006"
+L 02/20/2019 - 18:35:01: "SelecT^^<2><STEAM_0:0:99146775><>" STEAM USERID validated
+L 02/20/2019 - 18:35:27: [FAdmin] SelecT^^ (STEAM_0:0:99146775) is Authed
+L 02/20/2019 - 18:35:27: [FAdmin] SelecT^^ (STEAM_0:0:99146775) Spawned for the first time
+L 02/20/2019 - 18:35:27: [FAdmin] Pupa (STEAM_0:0:99146775) Spawned
+L 02/20/2019 - 18:35:28: "SelecT^^<2><STEAM_0:0:99146775><>" entered the game
+L 02/20/2019 - 18:35:28: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_fists
+L 02/20/2019 - 18:35:28: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/20/2019 - 18:35:28: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/20/2019 - 18:35:28: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/20/2019 - 18:35:28: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/20/2019 - 18:35:28: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/20/2019 - 18:35:28: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/20/2019 - 18:35:28: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/20/2019 - 18:36:00: "Pupa<2><STEAM_0:0:99146775><Гражданин>" say "/addmoney 1111111"
+
+L 02/20/2019 - 18:36:11: "Pupa<2><STEAM_0:0:99146775><Гражданин>" say "/addmoney Pupa 100000"
+
+L 02/20/2019 - 18:36:22: [FAdmin] Pupa (STEAM_0:0:99146775) changed from Гражданин to Продавец оружия
+L 02/20/2019 - 18:36:22: "Pupa<2><STEAM_0:0:99146775><Продавец оружия>" say "/gundealer"
+
+L 02/20/2019 - 18:36:22: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_fists
+L 02/20/2019 - 18:36:22: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/20/2019 - 18:36:22: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/20/2019 - 18:36:22: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/20/2019 - 18:36:22: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/20/2019 - 18:36:22: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/20/2019 - 18:36:22: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/20/2019 - 18:36:22: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/20/2019 - 18:36:38: "Pupa<2><STEAM_0:0:99146775><Продавец оружия>" say "/buyshipment As Val"
+
+L 02/20/2019 - 18:36:40: "Pupa<2><STEAM_0:0:99146775><Продавец оружия>" say "/buyshipment ACR"
+
+L 02/20/2019 - 18:36:43: [FAdmin] prop_physics(models/weapons/w_masada_acr.mdl) Got removed
+L 02/20/2019 - 18:36:48: [FAdmin] Pupa (STEAM_0:0:99146775) Got killed by Pupa with a player
+L 02/20/2019 - 18:36:49: [FAdmin] Pupa (STEAM_0:0:99146775) Spawned
+L 02/20/2019 - 18:36:49: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_fists
+L 02/20/2019 - 18:36:50: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/20/2019 - 18:36:50: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/20/2019 - 18:36:50: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/20/2019 - 18:36:50: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/20/2019 - 18:36:50: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/20/2019 - 18:36:50: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/20/2019 - 18:36:50: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/20/2019 - 18:36:51: [FAdmin] prop_physics(models/weapons/w_masada_acr.mdl) Got removed
+L 02/20/2019 - 18:36:55: [FAdmin] prop_physics(models/weapons/w_masada_acr.mdl) Got removed
+L 02/20/2019 - 18:36:58: "SelecT^^<2><STEAM_0:0:99146775><>" disconnected (reason "Disconnect by user.")
+L 02/20/2019 - 18:36:58: [FAdmin] Pupa (STEAM_0:0:99146775) Disconnected
+L 02/20/2019 - 18:36:58: "SelecT^^<3><STEAM_0:0:99146775><>" connected, address "192.168.1.68:27006"
+L 02/20/2019 - 18:36:58: "SelecT^^<3><STEAM_0:0:99146775><>" STEAM USERID validated
+L 02/20/2019 - 18:37:24: [FAdmin] SelecT^^ (STEAM_0:0:99146775) is Authed
+L 02/20/2019 - 18:37:24: [FAdmin] SelecT^^ (STEAM_0:0:99146775) Spawned for the first time
+L 02/20/2019 - 18:37:24: [FAdmin] Pupa (STEAM_0:0:99146775) Spawned
+L 02/20/2019 - 18:37:24: "SelecT^^<3><STEAM_0:0:99146775><>" entered the game
+L 02/20/2019 - 18:37:24: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_fists
+L 02/20/2019 - 18:37:24: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/20/2019 - 18:37:24: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/20/2019 - 18:37:24: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/20/2019 - 18:37:24: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/20/2019 - 18:37:24: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/20/2019 - 18:37:24: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/20/2019 - 18:37:24: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/20/2019 - 18:39:24: [FAdmin] Pupa (STEAM_0:0:99146775) changed from Гражданин to SCP-173
+L 02/20/2019 - 18:39:24: "Pupa<3><STEAM_0:0:99146775><SCP-173>" say "/votescp173"
+
+L 02/20/2019 - 18:39:24: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a scp173
+L 02/20/2019 - 18:39:24: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/20/2019 - 18:39:24: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/20/2019 - 18:39:24: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/20/2019 - 18:39:24: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/20/2019 - 18:39:24: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/20/2019 - 18:39:24: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/20/2019 - 18:39:24: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/20/2019 - 18:39:36: [FAdmin] Pupa (STEAM_0:0:99146775) Got killed by Pupa with a player
+L 02/20/2019 - 18:39:36: [FAdmin] Pupa (STEAM_0:0:99146775) changed from SCP-173 to Гражданин
+L 02/20/2019 - 18:39:36: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_fists
+L 02/20/2019 - 18:39:36: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/20/2019 - 18:39:36: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/20/2019 - 18:39:36: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/20/2019 - 18:39:36: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/20/2019 - 18:39:36: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/20/2019 - 18:39:36: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/20/2019 - 18:39:39: [FAdmin] Pupa (STEAM_0:0:99146775) Spawned
+L 02/20/2019 - 18:39:39: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_fists
+L 02/20/2019 - 18:39:39: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/20/2019 - 18:39:39: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/20/2019 - 18:39:39: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/20/2019 - 18:39:39: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/20/2019 - 18:39:39: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/20/2019 - 18:39:39: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/20/2019 - 18:39:39: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/20/2019 - 18:39:40: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:39:44: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:39:55: [FAdmin] Pupa (STEAM_0:0:99146775) changed from Гражданин to Снайпер спецназа (VIP)
+L 02/20/2019 - 18:39:55: "Pupa<3><STEAM_0:0:99146775><Снайпер спецназа (VIP)>" say "/omonsnip"
+
+L 02/20/2019 - 18:39:55: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a arrest_stick
+L 02/20/2019 - 18:39:55: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_deagle
+L 02/20/2019 - 18:39:55: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_m24
+L 02/20/2019 - 18:39:55: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a stunstick
+L 02/20/2019 - 18:39:55: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weaponchecker
+L 02/20/2019 - 18:39:55: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a door_ram
+L 02/20/2019 - 18:39:55: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a unarrest_stick
+L 02/20/2019 - 18:39:55: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/20/2019 - 18:39:55: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/20/2019 - 18:39:55: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/20/2019 - 18:39:55: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/20/2019 - 18:39:55: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/20/2019 - 18:39:55: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/20/2019 - 18:39:55: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/20/2019 - 18:40:01: [FAdmin] Pupa (STEAM_0:0:99146775) Got killed by Pupa with a player
+L 02/20/2019 - 18:40:03: [FAdmin] Pupa (STEAM_0:0:99146775) Spawned
+L 02/20/2019 - 18:40:03: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a arrest_stick
+L 02/20/2019 - 18:40:03: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_deagle
+L 02/20/2019 - 18:40:03: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_m24
+L 02/20/2019 - 18:40:03: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a stunstick
+L 02/20/2019 - 18:40:03: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weaponchecker
+L 02/20/2019 - 18:40:03: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a door_ram
+L 02/20/2019 - 18:40:03: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a unarrest_stick
+L 02/20/2019 - 18:40:03: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/20/2019 - 18:40:03: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/20/2019 - 18:40:03: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/20/2019 - 18:40:03: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/20/2019 - 18:40:03: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/20/2019 - 18:40:03: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/20/2019 - 18:40:03: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/20/2019 - 18:40:04: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:40:07: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:40:08: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:40:10: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:40:16: [FAdmin] Pupa (STEAM_0:0:99146775) changed from Снайпер спецназа (VIP) to Джаггернаут (VIP)
+L 02/20/2019 - 18:40:17: "Pupa<3><STEAM_0:0:99146775><Джаггернаут (VIP)>" say "/omonbul"
+
+L 02/20/2019 - 18:40:17: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a arrest_stick
+L 02/20/2019 - 18:40:17: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_m249lmg
+L 02/20/2019 - 18:40:17: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a stunstick
+L 02/20/2019 - 18:40:17: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weaponchecker
+L 02/20/2019 - 18:40:17: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a door_ram
+L 02/20/2019 - 18:40:17: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a unarrest_stick
+L 02/20/2019 - 18:40:17: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/20/2019 - 18:40:17: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/20/2019 - 18:40:17: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/20/2019 - 18:40:17: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/20/2019 - 18:40:17: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/20/2019 - 18:40:17: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/20/2019 - 18:40:17: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/20/2019 - 18:40:19: [FAdmin] Pupa (STEAM_0:0:99146775) Got killed by Pupa with a player
+L 02/20/2019 - 18:40:21: [FAdmin] Pupa (STEAM_0:0:99146775) Spawned
+L 02/20/2019 - 18:40:21: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a arrest_stick
+L 02/20/2019 - 18:40:21: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_m249lmg
+L 02/20/2019 - 18:40:21: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a stunstick
+L 02/20/2019 - 18:40:21: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weaponchecker
+L 02/20/2019 - 18:40:21: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a door_ram
+L 02/20/2019 - 18:40:21: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a unarrest_stick
+L 02/20/2019 - 18:40:21: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/20/2019 - 18:40:21: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/20/2019 - 18:40:21: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/20/2019 - 18:40:21: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/20/2019 - 18:40:21: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/20/2019 - 18:40:21: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/20/2019 - 18:40:21: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/20/2019 - 18:40:23: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:40:24: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:40:27: [FAdmin] Pupa (STEAM_0:0:99146775) Got killed by Pupa with a player
+L 02/20/2019 - 18:40:29: [FAdmin] Pupa (STEAM_0:0:99146775) Spawned
+L 02/20/2019 - 18:40:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a arrest_stick
+L 02/20/2019 - 18:40:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_m249lmg
+L 02/20/2019 - 18:40:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a stunstick
+L 02/20/2019 - 18:40:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weaponchecker
+L 02/20/2019 - 18:40:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a door_ram
+L 02/20/2019 - 18:40:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a unarrest_stick
+L 02/20/2019 - 18:40:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/20/2019 - 18:40:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/20/2019 - 18:40:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/20/2019 - 18:40:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/20/2019 - 18:40:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/20/2019 - 18:40:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/20/2019 - 18:40:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/20/2019 - 18:40:30: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:40:31: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:40:37: [FAdmin] Pupa (STEAM_0:0:99146775) Gave himself a m9k_ares_shrike
+L 02/20/2019 - 18:40:38: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_ares_shrike
+L 02/20/2019 - 18:40:41: [FAdmin] Pupa (STEAM_0:0:99146775) Got killed by Pupa with a player
+L 02/20/2019 - 18:40:42: [FAdmin] Pupa (STEAM_0:0:99146775) Spawned
+L 02/20/2019 - 18:40:42: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a arrest_stick
+L 02/20/2019 - 18:40:42: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_m249lmg
+L 02/20/2019 - 18:40:42: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a stunstick
+L 02/20/2019 - 18:40:42: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weaponchecker
+L 02/20/2019 - 18:40:42: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a door_ram
+L 02/20/2019 - 18:40:42: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a unarrest_stick
+L 02/20/2019 - 18:40:42: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/20/2019 - 18:40:42: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/20/2019 - 18:40:42: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/20/2019 - 18:40:42: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/20/2019 - 18:40:42: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/20/2019 - 18:40:42: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/20/2019 - 18:40:42: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/20/2019 - 18:40:43: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:40:44: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:40:45: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_ares_shrike
+L 02/20/2019 - 18:40:59: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:41:01: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:41:13: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:41:16: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:41:25: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:41:27: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:41:28: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:41:28: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:41:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:41:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:41:30: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:41:32: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:41:51: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:41:51: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:41:56: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:41:59: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:42:02: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:42:03: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:42:03: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:42:06: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:42:07: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:42:08: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:42:10: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:42:10: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:42:12: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:42:12: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:42:14: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:42:18: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:42:19: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:42:19: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:42:22: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:42:22: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:42:23: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:42:26: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:42:27: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:42:28: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:42:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:42:29: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:42:32: [FAdmin] Pupa (STEAM_0:0:99146775) Gave himself a m9k_m249lmg
+L 02/20/2019 - 18:43:03: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:43:03: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:43:06: [FAdmin] Pupa (STEAM_0:0:99146775) Gave himself a m9k_minigun
+L 02/20/2019 - 18:43:06: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_minigun
+L 02/20/2019 - 18:43:10: [FAdmin] Pupa (STEAM_0:0:99146775) Got killed by Pupa with a player
+L 02/20/2019 - 18:43:12: [FAdmin] Pupa (STEAM_0:0:99146775) Spawned
+L 02/20/2019 - 18:43:12: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a arrest_stick
+L 02/20/2019 - 18:43:12: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_m249lmg
+L 02/20/2019 - 18:43:12: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a stunstick
+L 02/20/2019 - 18:43:12: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weaponchecker
+L 02/20/2019 - 18:43:12: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a door_ram
+L 02/20/2019 - 18:43:12: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a unarrest_stick
+L 02/20/2019 - 18:43:12: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a keys
+L 02/20/2019 - 18:43:12: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physcannon
+L 02/20/2019 - 18:43:12: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_camera
+L 02/20/2019 - 18:43:12: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a gmod_tool
+L 02/20/2019 - 18:43:12: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a pocket
+L 02/20/2019 - 18:43:12: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_physgun
+L 02/20/2019 - 18:43:12: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a weapon_keypadchecker
+L 02/20/2019 - 18:43:13: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:43:19: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:43:20: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:43:21: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:52:12: "Pupa<3><STEAM_0:0:99146775><Джаггернаут (VIP)>" say "/buyshipment Glock"
+
+L 02/20/2019 - 18:52:13: "Pupa<3><STEAM_0:0:99146775><Джаггернаут (VIP)>" say "/buyshipment Glock"
+
+L 02/20/2019 - 18:52:14: "Pupa<3><STEAM_0:0:99146775><Джаггернаут (VIP)>" say "/buyshipment Glock"
+
+L 02/20/2019 - 18:52:46: "Pupa<3><STEAM_0:0:99146775><Джаггернаут (VIP)>" say "/// Мне нужна помощь администрации"
+
+L 02/20/2019 - 18:52:50: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:52:50: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:52:51: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:52:53: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:52:54: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:52:55: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:53:09: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:53:11: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:53:17: "Bot01<4><BOT><>" connected, address "none"
+L 02/20/2019 - 18:53:17: [FAdmin] Bot01 (BOT) Spawned for the first time
+L 02/20/2019 - 18:53:17: [FAdmin] Bot01 (BOT) Spawned
+L 02/20/2019 - 18:53:17: "Bot01<4><BOT><>" entered the game
+L 02/20/2019 - 18:53:17: [FAdmin] Bot01 (BOT) Attempted to pick up a m9k_fists
+L 02/20/2019 - 18:53:17: [FAdmin] Bot01 (BOT) Attempted to pick up a keys
+L 02/20/2019 - 18:53:17: [FAdmin] Bot01 (BOT) Attempted to pick up a weapon_physcannon
+L 02/20/2019 - 18:53:17: [FAdmin] Bot01 (BOT) Attempted to pick up a gmod_camera
+L 02/20/2019 - 18:53:17: [FAdmin] Bot01 (BOT) Attempted to pick up a gmod_tool
+L 02/20/2019 - 18:53:17: [FAdmin] Bot01 (BOT) Attempted to pick up a pocket
+L 02/20/2019 - 18:53:17: [FAdmin] Bot01 (BOT) Attempted to pick up a weapon_physgun
+L 02/20/2019 - 18:53:24: [FAdmin] Pupa brought Bot01 to them
+L 02/20/2019 - 18:53:27: [FAdmin] Bot01 (BOT) Got killed by Pupa with a player
+L 02/20/2019 - 18:53:28: [FAdmin] Bot01 (BOT) Spawned
+L 02/20/2019 - 18:53:28: [FAdmin] Bot01 (BOT) Attempted to pick up a m9k_fists
+L 02/20/2019 - 18:53:28: [FAdmin] Bot01 (BOT) Attempted to pick up a keys
+L 02/20/2019 - 18:53:28: [FAdmin] Bot01 (BOT) Attempted to pick up a weapon_physcannon
+L 02/20/2019 - 18:53:28: [FAdmin] Bot01 (BOT) Attempted to pick up a gmod_camera
+L 02/20/2019 - 18:53:28: [FAdmin] Bot01 (BOT) Attempted to pick up a gmod_tool
+L 02/20/2019 - 18:53:28: [FAdmin] Bot01 (BOT) Attempted to pick up a pocket
+L 02/20/2019 - 18:53:28: [FAdmin] Bot01 (BOT) Attempted to pick up a weapon_physgun
+L 02/20/2019 - 18:53:39: [FAdmin] Pupa teleported to Bot01
+L 02/20/2019 - 18:53:41: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:53:43: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to switch noclip
+L 02/20/2019 - 18:53:45: [FAdmin] FAdmin: Pupa (STEAM_0:0:99146775) teleported Bot01
+L 02/20/2019 - 18:53:46: [FAdmin] Bot01 (BOT) Got killed by Pupa with a player
+L 02/20/2019 - 18:53:47: [FAdmin] Bot01 (BOT) Spawned
+L 02/20/2019 - 18:53:48: [FAdmin] Bot01 (BOT) Attempted to pick up a m9k_fists
+L 02/20/2019 - 18:53:48: [FAdmin] Bot01 (BOT) Attempted to pick up a keys
+L 02/20/2019 - 18:53:48: [FAdmin] Bot01 (BOT) Attempted to pick up a weapon_physcannon
+L 02/20/2019 - 18:53:48: [FAdmin] Bot01 (BOT) Attempted to pick up a gmod_camera
+L 02/20/2019 - 18:53:48: [FAdmin] Bot01 (BOT) Attempted to pick up a gmod_tool
+L 02/20/2019 - 18:53:48: [FAdmin] Bot01 (BOT) Attempted to pick up a pocket
+L 02/20/2019 - 18:53:48: [FAdmin] Bot01 (BOT) Attempted to pick up a weapon_physgun
+L 02/20/2019 - 18:53:50: [FAdmin] FAdmin: Pupa (STEAM_0:0:99146775) teleported Bot01
+L 02/20/2019 - 18:53:52: [FAdmin] Bot01 (BOT) Got killed by Pupa with a player
+L 02/20/2019 - 18:53:53: [FAdmin] Bot01 (BOT) Spawned
+L 02/20/2019 - 18:53:53: [FAdmin] Bot01 (BOT) Attempted to pick up a m9k_fists
+L 02/20/2019 - 18:53:53: [FAdmin] Bot01 (BOT) Attempted to pick up a keys
+L 02/20/2019 - 18:53:53: [FAdmin] Bot01 (BOT) Attempted to pick up a weapon_physcannon
+L 02/20/2019 - 18:53:53: [FAdmin] Bot01 (BOT) Attempted to pick up a gmod_camera
+L 02/20/2019 - 18:53:53: [FAdmin] Bot01 (BOT) Attempted to pick up a gmod_tool
+L 02/20/2019 - 18:53:53: [FAdmin] Bot01 (BOT) Attempted to pick up a pocket
+L 02/20/2019 - 18:53:53: [FAdmin] Bot01 (BOT) Attempted to pick up a weapon_physgun
+L 02/20/2019 - 18:53:55: [FAdmin] Pupa (STEAM_0:0:99146775) Gave himself a m9k_ak47
+L 02/20/2019 - 18:53:56: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_ak47
+L 02/20/2019 - 18:53:57: [FAdmin] FAdmin: Pupa (STEAM_0:0:99146775) teleported Bot01
+L 02/20/2019 - 18:53:58: [FAdmin] Bot01 (BOT) Got killed by Pupa with a player
+L 02/20/2019 - 18:53:59: [FAdmin] Bot01 (BOT) Spawned
+L 02/20/2019 - 18:53:59: [FAdmin] Bot01 (BOT) Attempted to pick up a m9k_fists
+L 02/20/2019 - 18:53:59: [FAdmin] Bot01 (BOT) Attempted to pick up a keys
+L 02/20/2019 - 18:53:59: [FAdmin] Bot01 (BOT) Attempted to pick up a weapon_physcannon
+L 02/20/2019 - 18:53:59: [FAdmin] Bot01 (BOT) Attempted to pick up a gmod_camera
+L 02/20/2019 - 18:53:59: [FAdmin] Bot01 (BOT) Attempted to pick up a gmod_tool
+L 02/20/2019 - 18:53:59: [FAdmin] Bot01 (BOT) Attempted to pick up a pocket
+L 02/20/2019 - 18:53:59: [FAdmin] Bot01 (BOT) Attempted to pick up a weapon_physgun
+L 02/20/2019 - 18:54:03: [FAdmin] Pupa (STEAM_0:0:99146775) Gave himself a m9k_tar21
+L 02/20/2019 - 18:54:03: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_tar21
+L 02/20/2019 - 18:54:04: [FAdmin] FAdmin: Pupa (STEAM_0:0:99146775) teleported Bot01
+L 02/20/2019 - 18:54:05: [FAdmin] Bot01 (BOT) Got killed by Pupa with a player
+L 02/20/2019 - 18:54:06: [FAdmin] Bot01 (BOT) Spawned
+L 02/20/2019 - 18:54:06: [FAdmin] Bot01 (BOT) Attempted to pick up a m9k_fists
+L 02/20/2019 - 18:54:06: [FAdmin] Bot01 (BOT) Attempted to pick up a keys
+L 02/20/2019 - 18:54:06: [FAdmin] Bot01 (BOT) Attempted to pick up a weapon_physcannon
+L 02/20/2019 - 18:54:06: [FAdmin] Bot01 (BOT) Attempted to pick up a gmod_camera
+L 02/20/2019 - 18:54:06: [FAdmin] Bot01 (BOT) Attempted to pick up a gmod_tool
+L 02/20/2019 - 18:54:06: [FAdmin] Bot01 (BOT) Attempted to pick up a pocket
+L 02/20/2019 - 18:54:06: [FAdmin] Bot01 (BOT) Attempted to pick up a weapon_physgun
+L 02/20/2019 - 18:54:08: [FAdmin] FAdmin: Pupa (STEAM_0:0:99146775) teleported Bot01
+L 02/20/2019 - 18:54:13: [FAdmin] Pupa (STEAM_0:0:99146775) Gave himself a m9k_aw50
+L 02/20/2019 - 18:54:13: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_aw50
+L 02/20/2019 - 18:54:18: [FAdmin] Bot01 (BOT) Got killed by Pupa with a player
+L 02/20/2019 - 18:54:19: [FAdmin] Bot01 (BOT) Spawned
+L 02/20/2019 - 18:54:19: [FAdmin] Bot01 (BOT) Attempted to pick up a m9k_fists
+L 02/20/2019 - 18:54:19: [FAdmin] Bot01 (BOT) Attempted to pick up a keys
+L 02/20/2019 - 18:54:19: [FAdmin] Bot01 (BOT) Attempted to pick up a weapon_physcannon
+L 02/20/2019 - 18:54:19: [FAdmin] Bot01 (BOT) Attempted to pick up a gmod_camera
+L 02/20/2019 - 18:54:19: [FAdmin] Bot01 (BOT) Attempted to pick up a gmod_tool
+L 02/20/2019 - 18:54:19: [FAdmin] Bot01 (BOT) Attempted to pick up a pocket
+L 02/20/2019 - 18:54:19: [FAdmin] Bot01 (BOT) Attempted to pick up a weapon_physgun
+L 02/20/2019 - 19:56:19: [FAdmin] FAdmin: Pupa (STEAM_0:0:99146775) teleported Bot01
+L 02/20/2019 - 19:56:23: [FAdmin] Pupa (STEAM_0:0:99146775) Gave himself a m9k_colt1911
+L 02/20/2019 - 19:56:23: [FAdmin] Pupa (STEAM_0:0:99146775) Attempted to pick up a m9k_colt1911
+L 02/20/2019 - 19:56:25: [FAdmin] Bot01 (BOT) Got killed by Pupa with a player
+L 02/20/2019 - 19:56:25: [FAdmin] Bot01 (BOT) Spawned
+L 02/

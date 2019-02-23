@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\dawson\obese_male_deluxe\obese_male_deluxe_material_7"
+	"$surfaceprop"	"default"
+	"$halflambert"	1
+	"$model"	1
+}

@@ -1,0 +1,7 @@
+"AddonInfo"
+{
+	"name" "Graffiti Swep"
+	"author_name" "author"
+	"info" "For dem gangsters on your server.
+ Reuploaded..."
+}

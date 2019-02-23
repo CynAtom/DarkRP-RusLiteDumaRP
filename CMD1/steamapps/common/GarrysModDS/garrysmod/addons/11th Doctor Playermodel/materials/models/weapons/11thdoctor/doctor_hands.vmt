@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/11thDoctor/Doctor_Hands"
+	"$nocull" 1
+}

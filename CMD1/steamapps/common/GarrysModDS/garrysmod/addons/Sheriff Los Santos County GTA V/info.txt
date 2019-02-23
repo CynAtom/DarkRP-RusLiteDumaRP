@@ -1,0 +1,14 @@
+"AddonInfo"
+{
+	"name" "Sheriff Los Santos County GTA V"
+	"author_name" "author"
+	"info" "[IMG]http://i.imgur.com/1EwwORZ.png[/IMG]
+
+[h1]
+The addon includes:
+• 2 playermodels and npc.
+Models include:
+• 3 bodygroups.
+• 4 skins heads.
+[/h1]"
+}

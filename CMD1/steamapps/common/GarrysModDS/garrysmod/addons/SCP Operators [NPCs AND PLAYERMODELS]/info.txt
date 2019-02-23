@@ -1,0 +1,15 @@
+"AddonInfo"
+{
+	"name" "SCP Operators [NPCs AND PLAYERMODELS]"
+	"author_name" "Author Name"
+	"info" "
+{
+	"description": "Description",
+	"type": "npc",
+	"tags": 
+	[
+		"realism",
+		"roleplay"
+	]
+}"
+}

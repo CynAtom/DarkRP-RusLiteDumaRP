@@ -1,0 +1,6 @@
+Sun Feb 17 20:01:11 2019	SelecT^^ (STEAM_0:0:99146775) has joined the game
+Sun Feb 17 20:01:12 2019	Pupa (STEAM_0:0:99146775) spawned
+Sun Feb 17 20:03:13 2019	Pupa (STEAM_0:0:99146775): /scp1
+Sun Feb 17 20:03:58 2019	Pupa (STEAM_0:0:99146775): /sec
+Sun Feb 17 20:04:25 2019	Pupa (STEAM_0:0:99146775): /votemayor
+Sun Feb 17 20:04:58 2019	Pupa (STEAM_0:0:99146775) disconnected

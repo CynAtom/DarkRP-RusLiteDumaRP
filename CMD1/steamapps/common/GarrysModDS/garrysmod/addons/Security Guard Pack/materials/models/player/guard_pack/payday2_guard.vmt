@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/guard_pack/payday2_guard"
+	"$bumpmap" "models/player/guard_pack/payday2_guard_normal"
+}

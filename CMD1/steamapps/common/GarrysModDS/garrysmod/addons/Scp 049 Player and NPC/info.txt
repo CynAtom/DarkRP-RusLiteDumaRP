@@ -1,0 +1,15 @@
+"AddonInfo"
+{
+	"name" "Scp 049 Player and NPC"
+	"author_name" "Author Name"
+	"info" "
+{
+	"description": "Description",
+	"type": "model",
+	"tags": 
+	[
+		"fun",
+		"scenic"
+	]
+}"
+}

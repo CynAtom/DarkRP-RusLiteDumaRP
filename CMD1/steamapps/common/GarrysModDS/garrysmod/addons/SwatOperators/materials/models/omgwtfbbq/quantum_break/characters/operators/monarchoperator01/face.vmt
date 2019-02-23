@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/omgwtfbbq/Quantum_Break/Characters/Operators\MonarchOperator01/npc_male_head_05_fracol_d"
+	"$bumpmap" "models/omgwtfbbq/Quantum_Break/Characters/Operators\MonarchOperator01/npc_male_head_05_fracol_n"
+"$phong" "1"
+"$phongexponent" "15"
+"$phongalbedotint" "1"
+"$phongboost" "1.25"
+"$phongfresnelranges" "[.25 .5 48]"
+$ambientocclusion "1"
+$rimlight "1"
+$rimlightexponent "2.5"
+$rimlightboost ".25"
+$halflambert 1
+$lightwarptexture models/omgwtfbbq/Quantum_Break/Characters/Operators\MonarchOperator01/coach_head_wrp
+
+}

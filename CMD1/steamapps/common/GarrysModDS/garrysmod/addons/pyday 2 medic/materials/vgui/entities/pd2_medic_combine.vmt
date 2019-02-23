@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/pd2_medic_combine"
+	"$nolod" 1
+} 

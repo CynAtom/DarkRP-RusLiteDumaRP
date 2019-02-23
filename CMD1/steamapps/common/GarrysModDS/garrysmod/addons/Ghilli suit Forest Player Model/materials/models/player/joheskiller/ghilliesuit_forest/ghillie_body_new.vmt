@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"models/player/joheskiller/ghilliesuit_forest/ghillie_body_new"
+	"$surfaceprop"			"flesh"
+}

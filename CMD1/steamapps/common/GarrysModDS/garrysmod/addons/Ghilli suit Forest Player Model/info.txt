@@ -1,0 +1,13 @@
+"AddonInfo"
+{
+	"name" "Ghilli suit Forest Player Model"
+	"author_name" "Author Name"
+	"info" "{
+	"description": "Description",
+	"type": "model",
+	"tags": [
+		"roleplay",
+		"realism"
+	]
+}"
+}

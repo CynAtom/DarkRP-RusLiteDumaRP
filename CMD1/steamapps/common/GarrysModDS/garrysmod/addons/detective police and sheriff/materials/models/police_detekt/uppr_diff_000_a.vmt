@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\police_detekt/uppr_diff_000_a"
+	$bumpMap "models\police_detekt/uppr_diff_000_n"
+	"$blendTintByBaseAlpha"	"1"
+	$normalmapalphaenvmapmask 1
+						
+	"$envmaptint" "[ .01 .01 .01 ]"					
+ 	"$envmapFresnel" "5 7 8"	
+
+
+	"$phong" "1"						
+	"$phongboost"	"0.05"
+
+
+	"$detail" "models\police_detekt\detail_cloth"
+	$detailscale 30
+	$detailblendfactor 1
+	$detailblendmode 0
+	$nocull 1
+}
