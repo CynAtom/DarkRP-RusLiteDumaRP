@@ -61,3 +61,21 @@
 [2019-02-19 21:11:29] Creating shader cache directory: F:\CMD1\shader_cache_temp_dir_gl_32
 [2019-02-19 21:11:29] Unknown shader cache type, ignoring.
 [2019-02-19 21:11:29] Found 0 current buckets:
+
+
+[2019-02-23 22:17:49] Attempting to find current bucket; temporary dir: C:\Programms\Git\DarkRPServer\CMD1\shader_cache_temp_dir_gl_64
+[2019-02-23 22:17:49] Creating shader cache directory: C:\Programms\Git\DarkRPServer\CMD1\shader_cache_temp_dir_gl_64
+[2019-02-23 22:17:49] Unknown shader cache type, ignoring.
+[2019-02-23 22:17:49] Attempting to find current bucket; temporary dir: C:\Programms\Git\DarkRPServer\CMD1\shader_cache_temp_dir_gl_32
+[2019-02-23 22:17:49] Creating shader cache directory: C:\Programms\Git\DarkRPServer\CMD1\shader_cache_temp_dir_gl_32
+[2019-02-23 22:17:49] Unknown shader cache type, ignoring.
+[2019-02-23 22:17:50] Found 0 current buckets:
+
+
+[2019-02-24 17:33:08] Attempting to find current bucket; temporary dir: C:\Programms\Git\DarkRPServer\CMD1\shader_cache_temp_dir_gl_64
+[2019-02-24 17:33:08] Creating shader cache directory: C:\Programms\Git\DarkRPServer\CMD1\shader_cache_temp_dir_gl_64
+[2019-02-24 17:33:08] Unknown shader cache type, ignoring.
+[2019-02-24 17:33:09] Attempting to find current bucket; temporary dir: C:\Programms\Git\DarkRPServer\CMD1\shader_cache_temp_dir_gl_32
+[2019-02-24 17:33:09] Creating shader cache directory: C:\Programms\Git\DarkRPServer\CMD1\shader_cache_temp_dir_gl_32
+[2019-02-24 17:33:09] Unknown shader cache type, ignoring.
+[2019-02-24 17:33:09] Found 0 current buckets:

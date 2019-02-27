@@ -1,6 +1,8 @@
 *.exe
 *.pdf
 Counter-Strike Source Dedicated Server/*
+CMD1/*
+!steamapps/*
 README.md
 appcache/*
 bin/*

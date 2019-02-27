@@ -231,3 +231,9 @@
 [2019-02-19 21:13:29] AppID 4020 state changed : Fully Installed,Update Queued,
 [2019-02-19 21:13:29] AppID 4020 state changed : Fully Installed,
 [2019-02-19 21:13:29] AppID 4020 scheduler finished : removed from schedule
+
+
+[2019-02-23 22:17:49] Loaded 2 apps from install folder "C:\Programms\Git\DarkRPServer\CMD1\steamapps\appmanifest_*.acf".
+
+
+[2019-02-24 17:33:08] Loaded 2 apps from install folder "C:\Programms\Git\DarkRPServer\CMD1\steamapps\appmanifest_*.acf".

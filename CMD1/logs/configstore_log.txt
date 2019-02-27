@@ -69,3 +69,11 @@
 [2019-02-19 21:11:37] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
 [2019-02-19 21:12:20] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
 [2019-02-19 21:13:20] Flushed store 'install' to 'F:\CMD1\config\config.vdf'
+
+
+[2019-02-23 22:17:49] Loaded store 'install' from 'C:\Programms\Git\DarkRPServer\CMD1\config\config.vdf' successfully
+[2019-02-23 22:17:49] Loaded store 'install' from 'C:\Programms\Git\DarkRPServer\CMD1\config\config.vdf' successfully
+
+
+[2019-02-24 17:33:08] Loaded store 'install' from 'C:\Programms\Git\DarkRPServer\CMD1\config\config.vdf' successfully
+[2019-02-24 17:33:08] Loaded store 'install' from 'C:\Programms\Git\DarkRPServer\CMD1\config\config.vdf' successfully

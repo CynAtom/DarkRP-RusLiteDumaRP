@@ -623,3 +623,7 @@ SelecT^^|2|STEAM_0:0:99146775
 SetFontInternal: font doesn't exist (fontclose)
 
 
+СупАтом|2|STEAM_0:0:139372688
+SetFontInternal: font doesn't exist (fontclose)
+
+
