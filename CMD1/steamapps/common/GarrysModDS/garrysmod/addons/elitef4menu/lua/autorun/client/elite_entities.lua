@@ -3,7 +3,8 @@ function LoadEntitiesPanel()
 	BG_HEADTEXT:SetText( "Предметы" )
 	BG_HEADTEXT:SizeToContents()
 	
-	
+    ENT_MAIN = vgui.Create( "Panel", BG_MAIN )
+    ENT_MAIN:SetSize( BG_MAIN:GetWide(), BG_MAIN:GetTall() )
 	
 	local ENT_WINDOW = vgui.Create( "Panel", ENT_MAIN )
 	ENT_WINDOW:SetSize( BG_MAIN:GetWide() - 56, BG_MAIN:GetTall() - 50 )
