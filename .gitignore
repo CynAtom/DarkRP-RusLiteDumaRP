@@ -1,5 +1,8 @@
+.gitignore
+.gitattributes
 *.exe
 *.pdf
+*?log?.txt
 Counter-Strike Source Dedicated Server/*
 CMD1/*
 !steamapps/*
