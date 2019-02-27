@@ -28,16 +28,12 @@ files["adverts.txt"] =
 ; }
 
 {
-	"text" "You're playing on %host%, enjoy your stay!"
+	"text" "Вы на сервере %host%!"
 	"red" "100"
 	"green" "255"
 	"blue" "200"
 	"time_on_screen" "10"
 	"time" "300"
-}
-{
-	"text" "This server is running ULX Admin Mod %ulx_version% by Team Ulysses from ulyssesmod.net"
-	"time" "635"
 }
 ]]
 
@@ -80,7 +76,7 @@ files["config.txt"] =
 ;specific config only.
 ;Any line starting with a ';' is a comment!
 
-ulx showMotd 2 ; MOTD mode
+ulx showMotd 0 ; MOTD mode
 ; MOTD modes:
 ; 0 - OFF No MOTD shown
 ; 1 - FILE Show the players the contents of the file from the 'motdfile' cvar
@@ -107,7 +103,7 @@ ulx logSpawns 1 ; Log when players spawn objects (props, effects, etc)
 ulx logSpawnsEcho 1 ; Echo spawns to players in server. -1 = Off, 0 = Dedicated console only, 1 = Admins only, 2 = All players. (Echoes to console)
 ulx logJoinLeaveEcho 1 ; Echo players leaves and joins to admins in the server (useful for banning minges)
 ulx logDir "ulx_logs" ; The log dir under garrysmod/data
-ulx logEcho 1 ; Echo mode
+ulx logEcho 2 ; Echo mode
 ; Echo modes:
 ; 0 - OFF No output to any players when an admin command is used
 ; 1 - ANONYMOUS Output to players without access to see who used the command (admins by default) similar to "(Someone) slapped Bob with 0 damage"

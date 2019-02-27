@@ -1,6 +1,3 @@
-/*----------------------------------------------------------------------
-
-------------------------------------------------------------------------*/
 surface.CreateFont( "RP_HeaderFont", {
 	font = "Open Sans",
 	size = 29,
@@ -92,7 +89,6 @@ local rad = math.rad
 
 local sideButtons = {}
 
-table.insert( sideButtons, { Title = "Меню", Func = function() LoadHomePanel() end } )
 table.insert( sideButtons, { Title = "Команды", Func = function() LoadCommandPanel() end } )
 table.insert( sideButtons, { Title = "Работы", Func = function() LoadCmdPanel() end } )
 table.insert( sideButtons, { Title = "Оружие", Func = function() OpenWeaponsTab() end } )
@@ -265,12 +261,3 @@ end )
 timer.Create( "F4Override", 2, 0, function()
 	GAMEMODE.ShowSpare2 = BuildAdminMenu
 end ) 
-
-/*------------------------------------------------------------------------
-Donation for leaks
-
-Qiwi Wallet         4890494419811120 
-YandexMoney         410013095053302
-WebMoney(WMR)       R235985364414
-WebMoney(WMZ)       Z309855690994
-------------------------------------------------------------------------*/

@@ -1,13 +1,13 @@
 AddCSLuaFile()
 
-SWEP.PrintName = "SCP-173 (Fixed)"
-SWEP.Author = "Bio | buttermanbug"
+SWEP.PrintName = "SCP-173"
+SWEP.Author = ""
 SWEP.Instructions = "Primary : Attack\nSecondary : Teleport"
 SWEP.Purpose = ""
-SWEP.Category = "SCP 173 Fixed"
+SWEP.Category = "SCP 173 SWEP"
 
 SWEP.AdminOnly =true
-SWEP.Spawnable = true
+SWEP.Spawnable = false
 SWEP.UseHands = true
 
 SWEP.ViewModel = ("")
@@ -16,7 +16,7 @@ SWEP.WorldModel	= ("")
 SWEP.MissSound = Sound( "" )
 SWEP.WallSound = Sound( "Weapon_Crowbar.Melee_Hit" )
 
-SWEP.Primary.Damage = 100000 
+SWEP.Primary.Damage = 1337 
 SWEP.Primary.ClipSize		= -1
 SWEP.Primary.DefaultClip	= -1
 SWEP.Primary.Automatic		= true
@@ -93,15 +93,15 @@ end
 
 function SWEP:NormalSpeed()
 	if self.Owner:IsValid() then
-	self.Owner:SetRunSpeed(250)
-	self.Owner:SetWalkSpeed(100)
+	self.Owner:SetRunSpeed(300)
+	self.Owner:SetWalkSpeed(150)
 	end
 end
 
 function SWEP:CustomSpeed()
 	if self.Owner:IsValid() then
-	self.Owner:SetRunSpeed(325)
-	self.Owner:SetWalkSpeed(200)
+	self.Owner:SetRunSpeed(700)
+	self.Owner:SetWalkSpeed(300)
 	end
 end
 

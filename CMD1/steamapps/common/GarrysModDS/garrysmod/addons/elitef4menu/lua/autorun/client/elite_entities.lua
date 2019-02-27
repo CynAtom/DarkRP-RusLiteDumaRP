@@ -1,22 +1,9 @@
-/*----------------------------------------------------------------------
-Leak by Famouse
-
-Play good games:↓
-store.steampowered.com/curator/32364216
-
-Subscribe to the channel:↓
-https://www.youtube.com/c/Famouse
-
-More leaks in the discord:↓ 
-discord.gg/rFdQwzm
-------------------------------------------------------------------------*/
 function LoadEntitiesPanel()
 
 	BG_HEADTEXT:SetText( "Предметы" )
 	BG_HEADTEXT:SizeToContents()
 	
-	ENT_MAIN = vgui.Create( "Panel", BG_MAIN )
-	ENT_MAIN:SetSize( BG_MAIN:GetWide(), BG_MAIN:GetTall() )
+	
 	
 	local ENT_WINDOW = vgui.Create( "Panel", ENT_MAIN )
 	ENT_WINDOW:SetSize( BG_MAIN:GetWide() - 56, BG_MAIN:GetTall() - 50 )
@@ -90,7 +77,7 @@ function LoadEntitiesPanel()
 			end
 			
 			local entModel = vgui.Create( "SpawnIcon", entFrame )
-			entModel:SetSize( 52, 52 )
+			entModel:SetSize( 0, 52 )
 			entModel:SetPos( 0, 8 )
 			entModel:SetModel( v.model )
 			

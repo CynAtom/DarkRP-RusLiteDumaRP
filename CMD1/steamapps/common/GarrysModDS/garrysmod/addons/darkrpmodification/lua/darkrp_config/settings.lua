@@ -46,11 +46,11 @@ GM.Config.customjobs = true
 -- customspawns - Включить/Выключить использование нестандартных точек спавна.
 GM.Config.customspawns = false
 -- deathblack - Затемнение экрана после смерти.
-GM.Config.deathblack = false
+GM.Config.deathblack = true
 -- showdeaths - Меню киллов справа сверху.
 GM.Config.showdeaths = false
 -- deadtalk - Включить/Выключить возможность использования комманд и чата, когда игрок мертв
-GM.Config.deadtalk = true
+GM.Config.deadtalk = false
 -- deadvoice - Включить/Выключить возможность говорить в микрофон, когда игрок мертв
 GM.Config.deadvoice    = false
 -- deathpov - Включить/Выключить возможность видеть от первого лица, когда игрока убили
@@ -74,7 +74,7 @@ GM.Config.dropspawnedweapons    = false
 -- dynamicvoice - Enable/disable whether only people in the same room as you can hear your mic.
 GM.Config.dynamicvoice = true
 -- earthquakes - Включить/Выключить землетрясения.
-GM.Config.earthquakes = false
+GM.Config.earthquakes = true
 -- enablebuypistol - Включить/Выключить команду /buy
 GM.Config.enablebuypistol = true
 -- enforceplayermodel - Whether or not to force players to use their role-defined character models.
@@ -84,7 +84,7 @@ GM.Config.globalshow = false
 -- ironshoot - Enable/disable whether people need iron sights to shoot.
 GM.Config.ironshoot = true
 -- showjob - Включить/Выключить показ информации о работе игрока над головой.
-GM.Config.showjob = true
+GM.Config.showjob = false
 -- letters - Включить/Выключить возможность писать записки.
 GM.Config.letters = true
 -- license - Включить/Выключить необходимость иметь лицензию, чтобы взять оружие
@@ -106,11 +106,11 @@ GM.Config.noguns = false
 -- norespawn - Enable/Disable that people don't have to respawn when they change job.
 GM.Config.norespawn = true
 -- npcarrest - Включить/Выключить возможность арестовывать NPC
-GM.Config.npcarrest = true
+GM.Config.npcarrest = false
 -- ooc - Включить/Выключить использование OOC.
 GM.Config.ooc = true
 -- propertytax - Enable/disable property tax.
-GM.Config.propertytax = true
+GM.Config.propertytax = false
 -- proppaying - Whether or not players should pay for spawning props.
 GM.Config.proppaying = false
 -- propspawning - Enable/disable props spawning for non-admins.
@@ -122,7 +122,7 @@ GM.Config.respawninjail = true
 -- restrictallteams - Enable/disable Players can only be citizen until an admin allows them.
 GM.Config.restrictallteams = false
 -- restrictbuypistol - Enabling this feature makes /buy available only to Gun Dealers.
-GM.Config.restrictbuypistol = false
+GM.Config.restrictbuypistol = true
 -- restrictdrop - Enable/disable restricting the weapons players can drop. Setting this to true disallows weapons from shipments from being dropped
 GM.Config.restrictdrop = false
 -- revokeLicenseOnJobChange - Whether licenses are revoked when a player changes jobs
@@ -130,9 +130,9 @@ GM.Config.revokeLicenseOnJobChange    = true
 -- shouldResetLaws - Enable/Disable resetting the laws back to the default law set when the mayor changes
 GM.Config.shouldResetLaws = false
 -- strictsuicide - Whether or not players should spawn where they suicided
-GM.Config.strictsuicide = false
+GM.Config.strictsuicide = true
 -- telefromjail - Включить/Выключить телепортирование из тюрьмы.
-GM.Config.telefromjail = true
+GM.Config.telefromjail = false
 -- teletojail - Включить/Выключить телепортирование в тюрьму.
 GM.Config.teletojail = true
 -- unlockdoorsonstart - Включить/Выключить открывание открывание всех дверей на карте при старте сервера.
@@ -142,7 +142,7 @@ GM.Config.voiceradius = true
 -- tax - Whether players pay taxes on their wallets.
 GM.Config.wallettax = false
 -- wantedsuicide - Enable/Disable suiciding while you are wanted by the police.
-GM.Config.wantedsuicide = true
+GM.Config.wantedsuicide = false
 -- realisticfalldamage - Enable/Disable dynamic fall damage. Setting mp_falldamage to 1 will over-ride this.
 GM.Config.realisticfalldamage    = true
 -- printeroverheat - Can the default money printer overheat on its own?

@@ -1,15 +1,3 @@
-/*----------------------------------------------------------------------
-Leak by Famouse
-
-Play good games:↓
-store.steampowered.com/curator/32364216
-
-Subscribe to the channel:↓
-https://www.youtube.com/c/Famouse
-
-More leaks in the discord:↓ 
-https://discord.gg/rFdQwzm
-------------------------------------------------------------------------*/
 function OpenTextBox( text1, text2, cmd )
 
 	local jbg = vgui.Create( "DFrame" )
@@ -298,11 +286,3 @@ function OpenPlyReasonBox( text1, text2, text3, cmd )
 		textOpen = false
 	end
 end
-/*------------------------------------------------------------------------
-Donation for leaks
-
-Qiwi Wallet         4890494419811120 
-YandexMoney         410013095053302
-WebMoney(WMR)       R235985364414
-WebMoney(WMZ)       Z309855690994
-------------------------------------------------------------------------*/

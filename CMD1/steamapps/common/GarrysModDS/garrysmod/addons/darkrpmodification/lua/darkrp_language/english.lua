@@ -37,10 +37,10 @@ local my_language = {
 	-- Money things:
 	price = "Цена: %s%d",
 	priceTag = "Цена: %s",
-	reset_money = "%s обновил у всех игроков деньги!",
+	reset_money = "%s обнулил у всех игроков деньги!",
 	has_given = "%s дал вам %s",
 	you_gave = "Вы передали %s %s",
-	npc_killpay = "%s За убийство NPС!",
+	npc_killpay = "%s за убийство NPС!",
 	profit = "Прибыль",
 	loss = "Утрата",
 
@@ -73,7 +73,7 @@ local my_language = {
 	-- Police
 	Wanted_text = "Разыскивается!",
 	wanted = "Разыскивается полицией!\nПричина: %s",
-	youre_arrested = "Вас арестовали!Осталось сидеть %d секунд!",
+	youre_arrested = "Арестован!Осталось сидеть %d секунд!",
 	youre_arrested_by = "%s Арестовал вас! (FreeArest? Пиши @FreeArest).",
 	youre_unarrested_by = "Вы были освобождены %s.",
 	hes_arrested = "%s Был арестован на %d секунд!",
@@ -405,7 +405,7 @@ local my_language = {
 	-- AFK
 	afk_mode = "АФК режим",
 	salary_frozen = "Ваша зарплата была заморожена.",
-	salary_restored = "Добро пожаловать назад , ваша зарплата была разморожена.",
+	salary_restored = "Ваша зарплата была разморожена.",
 	no_auto_demote = "Вы не будете автоматически уволены.",
 	youre_afk_demoted = "Вы были уволены за длительное бездействие. В следующий раз используйте /afk.",
 	hes_afk_demoted = "%s был уволен за длительное бездействие.",
@@ -498,9 +498,9 @@ local my_language = {
 	set_jailpos = "Установить место для тюрьмы",
 	add_jailpos = "Добавить место для тюрьмы",
 
-	set_custom_job = "Установить нестандартную работу (нажмите enter чтобы применить)",
+	set_custom_job = "Установить нестандартную работу",
 
-	set_agenda = "Установить объявление (Нажмите enter чтобы применить)",
+	set_agenda = "Установить объявление",
 
 	initiate_lockdown = "Ввести коменданский час",
 	stop_lockdown = "Прекратить коменданский час",

@@ -627,3 +627,15 @@ SetFontInternal: font doesn't exist (fontclose)
 SetFontInternal: font doesn't exist (fontclose)
 
 
+Я гора,мне збс ☢|3|STEAM_0:0:155492007
+SetFontInternal: font doesn't exist (fontclose)
+
+
+СупАтом|2|STEAM_0:0:139372688
+SetFontInternal: font doesn't exist (fontclose)
+
+
+СупАтом|2|STEAM_0:0:139372688
+SetFontInternal: font doesn't exist (fontclose)
+
+

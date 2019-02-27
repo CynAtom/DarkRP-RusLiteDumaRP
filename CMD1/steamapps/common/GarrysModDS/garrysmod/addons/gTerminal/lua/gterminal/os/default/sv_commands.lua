@@ -5,7 +5,6 @@ local OS = OS;
 OS:NewCommand(":help", function(client, entity, arguments)
 	gTerminal:Broadcast(entity, "=============================");
 	gTerminal:Broadcast(entity, "  *Welcome to the Terminal!");
-	gTerminal:Broadcast(entity, "  *Created by Chessnut.");
 	gTerminal:Broadcast(entity, "");
 	gTerminal:Broadcast(entity, "    COMMANDS:");
 

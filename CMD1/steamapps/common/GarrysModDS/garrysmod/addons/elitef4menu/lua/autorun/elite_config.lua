@@ -1,25 +1,13 @@
-/*----------------------------------------------------------------------
-Leak by Famouse
-
-Play good games:↓
-http://store.steampowered.com/curator/32364216
-
-Subscribe to the channel:↓
-https://www.youtube.com/c/Famouse
-
-More leaks in the discord:↓ 
-https://discord.gg/rFdQwzm
-------------------------------------------------------------------------*/
 ELITE = {}
 
-ELITE.StaffListRanks = { "superadmin", "admin", "operator"} -- Те люди которые будут показыватся в "Администрация"
-ELITE.ShowFoodTab = true -- Включен ли голод мод
+ELITE.StaffListRanks = {} -- Те люди которые будут показыватся в "Администрация"
+ELITE.ShowFoodTab = false -- Включен ли голод мод
 
 ELITE.VIPJobCheckbox = true -- Whether or not to show the "Show VIP Jobs" checkbox on the jobs tab. (The checkbox is based on the jobs that have a customCheck)
 
-ELITE.OpenWebsiteInOverlay = false -- If this is true, the website will open in Steam overlay, if false, it will open in the F4 menu.
+ELITE.OpenWebsiteInOverlay = true -- If this is true, the website will open in Steam overlay, if false, it will open in the F4 menu.
 
-ELITE.WebsiteURL = "http://valsnet.co/" -- Website that opens when clicking the "Website" button, make sure you include "http://"!
+ELITE.WebsiteURL = "https://discord.gg/kXyN6WC" -- Website that opens when clicking the "Website" button, make sure you include "http://"!
 
 timer.Simple( 1, function() -- Don't screw with this timer, but you may change the tables inside.
     ELITE.AccessToCPCmds = { TEAM_POLICE, TEAM_CHIEF }
@@ -125,14 +113,3 @@ MenuAddMayorButton( "Создать доску законов", function() RunCo
 MenuAddMayorButton( "Добавить закон", function() OpenTextBox( "Добавить закон", "Напишите новый занон", "/addlaw" ) end )
 MenuAddMayorButton( "Удалить закон", function() OpenTextBox( "Удаление закона", "Напишите номер закона который нужно удалить?", "/removelaw" ) end )
 MenuAddMayorButton( "Удалить доску законов", function() RunConsoleCommand( "say", "/resetlaws" ) end )
-
-MenuAddOtherButton( "Позвать администратора", function() RunConsoleCommand( "say", "/// Мне нужна помощь администрации" ) end )
-
-/*------------------------------------------------------------------------
-Donation for leaks
-
-Qiwi Wallet         4890494419811120 
-YandexMoney         410013095053302
-WebMoney(WMR)       R235985364414
-WebMoney(WMZ)       Z309855690994
-------------------------------------------------------------------------*/
